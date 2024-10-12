@@ -1,10 +1,8 @@
 ---
-title: The World of Vilenought
-draft: false
-tags: 
-publish: true
+{"title":"The World of Vilenought","draft":false,"tags":null,"publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
-![[Banner.webp| banner p+cct]]
+
+![Banner.webp| banner p+cct](Banner.webp)
 
 # The World of Vilenought
 
@@ -22,32 +20,32 @@ publish: true
 
 > [!column| no-t no-i]
 >> [!bug| no-i ttl-c]- The Magic
->> - [[1. Essence Weaving|Essence Weaving]]
->> - [[2. The Disciplines & Aspects|The Disciplines & Aspects]]
->> - [[3. The Spells|The Spells]]
->> - [[4. Creating new Spells|Creating new Spells]]
->> - [[5. Spell modification - On the Fly|Spell modification - On the Fly]]
->> - [[6. Spell modification - Stable|Spell modification - Stable]]
+>> - [[1. The Magic/1. Essence Weaving\|Essence Weaving]]
+>> - [[1. The Magic/2. The Disciplines & Aspects\|The Disciplines & Aspects]]
+>> - [[1. The Magic/3. The Spells\|The Spells]]
+>> - [[1. The Magic/4. Creating new Spells\|Creating new Spells]]
+>> - [[1. The Magic/5. Spell modification - On the Fly\|Spell modification - On the Fly]]
+>> - [[1. The Magic/6. Spell modification - Stable\|Spell modification - Stable]]
 >
 >> [!error| no-i ttl-c]- The Races
->> - [[1. Overview|Overview]]
->> - [[2. The Monkhalyr|The Monkhalyr]]
->> - [[3. The Markhalyr|The Markhalyr]]
->> - [[4. The Venthalyr|The Venthalyr]]
->> - [[5. The Anthalyr|The Anthalyr]]
->> - [[6. The Urashalyr|The Urashalyr]]
->> - [[7. The Varashalyr|The Varashalyr]]
->> - [[8. Additional Races|Additional Races]]
+>> - [[2. The Races/1. Overview\|Overview]]
+>> - [[2. The Races/2. The Monkhalyr\|The Monkhalyr]]
+>> - [[2. The Races/3. The Markhalyr\|The Markhalyr]]
+>> - [[2. The Races/4. The Venthalyr\|The Venthalyr]]
+>> - [[2. The Races/5. The Anthalyr\|The Anthalyr]]
+>> - [[2. The Races/6. The Urashalyr\|The Urashalyr]]
+>> - [[2. The Races/7. The Varashalyr\|The Varashalyr]]
+>> - [[2. The Races/8. Additional Races\|Additional Races]]
 
 > [!column| no-t no-i]
 >> [!bug| no-i ttl-c]- The Gods
->> - [[The  Gods]]
+>> - [[3. Gods & Religion/The  Gods\|The  Gods]]
 >
 >> [!bug| txt-c ttl-c no-i]- The Mechanics
->> - [[Long-Term Fatigue]]
->> - [[Traits]]
->> - [[General Rules & Specifics]]
->> - [[Tables]]
+>> - [[4. Mechanics/Long-Term Fatigue\|Long-Term Fatigue]]
+>> - [[4. Mechanics/Traits\|Traits]]
+>> - [[4. Mechanics/General Rules & Specifics\|General Rules & Specifics]]
+>> - [[4. Mechanics/Tables\|Tables]]
 
 ---
 
