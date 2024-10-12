@@ -14,7 +14,7 @@
 
 ---
 
-> [!Error|no-i ttl-c] ## Table of Contents:
+## Table of Contents:
 
 ---
 
