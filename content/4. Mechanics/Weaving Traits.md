@@ -36,7 +36,7 @@
 ---
 ## Gifted
 - [5 pts]
-- Prerequisite for Races other than the [[2. The Races/2. The Monkhalyr\|Monkhalyr]] to buy Increased Weaving Diversity
+- Prerequisite for Races other than the [[2. The Races/2. The Monkhalyr/2. The Monkhalyr\|Monkhalyr]] to buy Increased Weaving Diversity
 - Locked/Unavailable for the [[2. The Races/3. The Markhalyr\|Markhalyr]]
 
 ---
@@ -44,7 +44,7 @@
 - [3 pts/level]
 - Levels increase the available for purchase magical styles to 1, up to 3, or unlocks all
 - Prerequisites: Veil-Marked **or** Gifted
-- No Prerequisites and part of the Racial template for the [[2. The Races/2. The Monkhalyr\|Monkhalyr]]
+- No Prerequisites and part of the Racial template for the [[2. The Races/2. The Monkhalyr/2. The Monkhalyr\|Monkhalyr]]
 
 ---
 ## Racial Mutation (Enhancement)

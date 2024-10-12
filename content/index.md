@@ -29,7 +29,7 @@
 >
 >> [!error| no-i ttl-c]- The Races
 >> - [[2. The Races/1. Overview\|Overview]]
->> - [[2. The Races/2. The Monkhalyr\|The Monkhalyr]]
+>> - [[2. The Races/2. The Monkhalyr/2. The Monkhalyr\|The Monkhalyr]]
 >> - [[2. The Races/3. The Markhalyr\|The Markhalyr]]
 >> - [[2. The Races/4. The Venthalyr\|The Venthalyr]]
 >> - [[2. The Races/5. The Anthalyr\|The Anthalyr]]
