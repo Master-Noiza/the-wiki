@@ -29,7 +29,7 @@
 >
 >> [!error| no-i ttl-c]- The Races
 >> - [[2. The Races/1. Overview\|Overview]]
->> - [[2. The Races/The Monkhalyr/2. The Monkhalyr\|The Monkhalyr]]
+>> - [[2. The Races/The Monkhalyr/The Monkhalyr - Mechanics\|The Monkhalyr]]
 >> - [[2. The Races/3. The Markhalyr\|The Markhalyr]]
 >> - [[2. The Races/4. The Venthalyr\|The Venthalyr]]
 >> - [[2. The Races/5. The Anthalyr\|The Anthalyr]]
@@ -44,6 +44,7 @@
 >> [!bug| txt-c ttl-c no-i]- The Mechanics
 >> - [[4. Mechanics/Long-Term Fatigue\|Long-Term Fatigue]]
 >> - [[4. Mechanics/Traits\|Traits]]
+>> - [[4. Mechanics/Weaving Traits\|Weaving Traits]]
 >> - [[4. Mechanics/General Rules & Specifics\|General Rules & Specifics]]
 >> - [[4. Mechanics/Tables\|Tables]]
 
