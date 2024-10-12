@@ -7,7 +7,7 @@
 > 
 > ## **The Monkhalyr**
 > 
-> ![diverse party.webp](../../diverse%20party.webp)
+> ![diverse_party.webp](../../diverse_party.webp)
 > 
 > ### Facts
 > 
