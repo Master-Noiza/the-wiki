@@ -1,5 +1,5 @@
 ---
-{"title":"She who Weeps","draft":false,"tags":null,"publish":true,"aliases":"The weeping One","organisations":"The Mourning","rank":"Major","symbol":"Tear-shaped Amulet","portfolio":"Mourning, Agriculture, Fertility, Hopelessness","followers":"Farmers, Peasants","relations":"[[3. Gods & Religion/The Silent King\|The Silent King]] (Ally)","path":"3. Gods & Religion/Minor Gods, Spirits & Aspects/She who Weeps.md","permalink":"/3-gods-and-religion/minor-gods-spirits-and-aspects/she-who-weeps/","PassFrontmatter":true}
+{"title":"She who Weeps","draft":false,"tags":null,"publish":true,"aliases":"The weeping One","organisations":"The Mourning","rank":"Major","symbol":"Tear-shaped Amulet","portfolio":"Mourning, Agriculture, Fertility, Hopelessness","followers":"Farmers, Peasants","relations":"[[3. Gods & Religion/The Silent King|The Silent King]] (Ally)","path":"3. Gods & Religion/Minor Gods, Spirits & Aspects/She who Weeps.md","permalink":"/3-gods-and-religion/minor-gods-spirits-and-aspects/she-who-weeps/","PassFrontmatter":true}
 ---
 
 
@@ -19,7 +19,7 @@
 > | **Followers** | Farmers, Peasants |
 > | **Organisations** | The Mourning |
 > | **Symbols** | Tear-shaped Amulet |
-> | **Godly Relations** | [[3. Gods & Religion/The Silent King|The Silent King]] (Ally) |
+> | **Godly Relations** | The Silent King (Ally) |
 
 
 > [!quote|author] Der Zitierte, yyyy
