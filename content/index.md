@@ -31,7 +31,7 @@
 >> - [[1. Overview\|Overview]]
 >> - [[2. The Races/The Monkhalyr/The Monkhalyr - Mechanics\|The Monkhalyr]]
 >> - [[2. The Races/The Markhalyr/The Markhalyr - Mechanics\|The Markhalyr]]
->> - [[2. The Races/4. The Venthalyr\|The Venthalyr]]
+>> - [[2. The Races/3. The Venthalyr/4. The Venthalyr\|The Venthalyr]]
 >> - [[2. The Races/5. The Anthalyr\|The Anthalyr]]
 >> - [[2. The Races/6. The Urashalyr\|The Urashalyr]]
 >> - [[2. The Races/7. The Varashalyr\|The Varashalyr]]

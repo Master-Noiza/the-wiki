@@ -43,7 +43,7 @@ Due to their constant exposure to the Mirror due to their source of sustenance, 
 
 ---
 
-## **[[2. The Races/4. The Venthalyr\|The Venthalyr]]**
+## **[[2. The Races/3. The Venthalyr/4. The Venthalyr\|The Venthalyr]]**
     
 ### **Origin and Background:**
     
