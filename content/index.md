@@ -28,7 +28,7 @@
 >> - [[1. The Magic/6. Spell modification - Stable\|Spell modification - Stable]]
 >
 >> [!error| no-i ttl-c]- The Races
->> - [[2. The Races/1. Overview\|Overview]]
+>> - [[1. Overview\|Overview]]
 >> - [[2. The Races/The Monkhalyr/The Monkhalyr - Mechanics\|The Monkhalyr]]
 >> - [[2. The Races/3. The Markhalyr\|The Markhalyr]]
 >> - [[2. The Races/4. The Venthalyr\|The Venthalyr]]
