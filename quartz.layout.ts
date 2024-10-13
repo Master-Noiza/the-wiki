@@ -45,5 +45,6 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
 }
