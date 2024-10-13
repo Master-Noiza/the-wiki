@@ -1,5 +1,5 @@
 ---
-{"title":"The Races - Overview","draft":false,"tags":[null],"publish":true,"path":"2. The Races/index.md","permalink":"/2-the-races/index/","PassFrontmatter":true}
+{"title":"2. The Races","draft":false,"tags":[null],"publish":true,"path":"2. The Races/index.md","permalink":"/2-the-races/index/","PassFrontmatter":true}
 ---
 
 ## **[[2. The Races/The Monkhalyr/The Monkhalyr - Mechanics\|The Monkhalyr]]**
