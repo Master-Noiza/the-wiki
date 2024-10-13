@@ -18,7 +18,7 @@ The Monkhalyr’s primary magic is Elementalism. This powerful, versatile form o
 
 ---
 
-## **[[2. The Races/3. The Markhalyr\|The Markhalyr]]**
+## **[[2. The Races/The Markhalyr/3. The Markhalyr\|The Markhalyr]]**
     
 ### **Origin and Background:**
     

@@ -30,7 +30,7 @@
 >> [!error| no-i ttl-c]- The Races
 >> - [[1. Overview\|Overview]]
 >> - [[2. The Races/The Monkhalyr/The Monkhalyr - Mechanics\|The Monkhalyr]]
->> - [[2. The Races/3. The Markhalyr\|The Markhalyr]]
+>> - [[2. The Races/The Markhalyr/3. The Markhalyr\|The Markhalyr]]
 >> - [[2. The Races/4. The Venthalyr\|The Venthalyr]]
 >> - [[2. The Races/5. The Anthalyr\|The Anthalyr]]
 >> - [[2. The Races/6. The Urashalyr\|The Urashalyr]]
