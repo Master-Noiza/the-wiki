@@ -8,7 +8,7 @@
 > 
 > ## **She who Weeps**
 > 
-> ![[NPC_Placeholder.png\|NPC_Placeholder.png]]
+> ![../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
 > 
 > ## - Facts -
 > | Type | Name |
