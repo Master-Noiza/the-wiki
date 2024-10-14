@@ -33,9 +33,9 @@
 >> - [[2. The Races/3. The Markhalyr/2. Mechanics\|The Markhalyr]]
 >> - [[2. The Races/4. The Venthalyr/2. Mechanics\|The Venthalyr]]
 >> - [[2. The Races/5. The Anthalyr/2. Mechanics\|The Anthalyr]]
->> - [[2. The Races/6. The Urashalyr\|The Urashalyr]]
->> - [[2. The Races/7. The Varashalyr\|The Varashalyr]]
->> - [[2. The Races/8. Additional Races\|Additional Races]]
+>> - [[2. The Races/6. The Urashalyr/2. Mechanics\|The Urashalyr]]
+>> - [[2. The Races/7. The Varashalyr/2. Mechanics\|The Varashalyr]]
+>> - [[2. The Races/WIP/8. Additional Races\|Additional Races]]
 
 > [!column| no-t no-i]
 >> [!bug| no-i ttl-c]- The Gods
