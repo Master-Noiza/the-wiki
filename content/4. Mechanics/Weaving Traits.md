@@ -13,7 +13,7 @@
 - [5 pts/lvl]
 - Decreases the innate Level of "Residue Buildup" in a Weaver by one Level per Level of this Advantage
 - Cancelled out/Locked by [[4. Mechanics/Weaving Traits#Veil-Marked\|Veil-Marked]]
-- Prerequisite: [[4. Mechanics/Weaving Traits#Untouched\|Untouched]] **or** Race: [[2. The Races/The Markhalyr/The Markhalyr - Mechanics\|Markhalyr]]
+- Prerequisite: [[4. Mechanics/Weaving Traits#Untouched\|Untouched]] **or** Race: [[2. The Races/3. The Markhalyr/2. Mechanics\|Markhalyr]]
 
 ---
 ## Increased Residue Buildup
@@ -31,20 +31,20 @@
 ---
 ## Untouched
 - [5 pts]
-- Prerequisite for Races other than the [[2. The Races/The Markhalyr/The Markhalyr - Mechanics\|Markhalyr]] to buy [[4. Mechanics/Weaving Traits\|Weaving Traits]]Magic Resistance & Reduced Residue Buildup
+- Prerequisite for Races other than the [[2. The Races/3. The Markhalyr/2. Mechanics\|Markhalyr]] to buy [[4. Mechanics/Weaving Traits\|Weaving Traits]]Magic Resistance & Reduced Residue Buildup
 
 ---
 ## Gifted
 - [5 pts]
-- Prerequisite for Races other than the [[2. The Races/The Monkhalyr/The Monkhalyr - Mechanics\|Monkhalyr]] to buy Increased Weaving Diversity
-- Locked/Unavailable for the [[2. The Races/The Markhalyr/The Markhalyr - Mechanics\|Markhalyr]]
+- Prerequisite for Races other than the [[2. The Races/2. The Monkhalyr/2. Mechanics\|Monkhalyr]] to buy Increased Weaving Diversity
+- Locked/Unavailable for the [[2. The Races/3. The Markhalyr/2. Mechanics\|Markhalyr]]
 
 ---
 ## Increased Weaving Diversity
 - [3 pts/level]
 - Levels increase the available for purchase magical styles to 1, up to 3, or unlocks all
 - Prerequisites: Veil-Marked **or** Gifted
-- No Prerequisites and part of the Racial template for the [[2. The Races/The Monkhalyr/The Monkhalyr - Mechanics\|Monkhalyr]]
+- No Prerequisites and part of the Racial template for the [[2. The Races/2. The Monkhalyr/2. Mechanics\|Monkhalyr]]
 
 ---
 ## Racial Mutation (Enhancement)
@@ -80,7 +80,7 @@
 ## Weaving Resistance
 - [2pts/lvl]
 - Prerequisite: Untouched
-- No Prerequisites and part of the Racial template for the [[2. The Races/The Markhalyr/The Markhalyr - Mechanics\|Markhalyr]]
+- No Prerequisites and part of the Racial template for the [[2. The Races/3. The Markhalyr/2. Mechanics\|Markhalyr]]
 - Gives a +1/lvl Bonus to resist spells beeing targeted at you
 - Gives a -1/lvl Penalty on targeting spells at you
 - Cancels out Weaving-Talents/Weaving Empowerment
