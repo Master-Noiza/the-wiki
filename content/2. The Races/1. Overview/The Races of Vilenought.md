@@ -71,7 +71,7 @@ The Venthalyr's primary arcane discipline is a twisted form of shamanic blood-ma
 
 ---
 
-## **[[2. The Races/5. The Anthalyr\|The Anthalyr]]**
+## **[[2. The Races/5. The Anthalyr/2. Mechanics\|The Anthalyr]]**
 
 ### **Origin and Background:**
 
