@@ -39,7 +39,7 @@
 
 > [!column| no-t no-i]
 >> [!bug| no-i ttl-c]- The Gods
->> - [[3. Gods & Religion/The  Gods\|The  Gods]]
+>> - [[3. Gods & Religion/2. Major Gods & Interpretations/2. The Twelve/2. The Twelve\|3. Gods & Religion/2. Major Gods & Interpretations/2. The Twelve/2. The Twelve]]
 >
 >> [!bug| txt-c ttl-c no-i]- The Mechanics
 >> - [[4. Mechanics/Long-Term Fatigue\|Long-Term Fatigue]]
