@@ -6,7 +6,7 @@
 
 ---
 
-## **[[2. The Races/2. The Monkhalyr/2. Mechanics\|The Monkhalyr]]**
+## **[2. Mechanics](../2.%20The%20Monkhalyr/2.%20Mechanics.md)**
 
 ### **Origin and Background:**
 
@@ -22,7 +22,7 @@ The Monkhalyr’s primary magic is Elementalism. This powerful, versatile form o
 
 ---
 
-## **[[2. The Races/3. The Markhalyr/2. Mechanics\|The Markhalyr]]**
+## **[The Markhalyr](../3.%20The%20Markhalyr/2.%20Mechanics.md)**
     
 ### **Origin and Background:**
     
@@ -33,7 +33,7 @@ The Markhalyr are an ancient race, born from the heart of the mountains. Their e
 The Markhalyr are humanoid but distinctly inhuman. Their skin is rough and stone-like, with veins of metal and crystal running through their bodies. Patches of basalt, ore, and metal form natural armor on their bodies, making them incredibly resilient. Their eyes glow faintly with an inner fire, a remnant of the magical energies that transformed them. The Markhalyr possess immense strength and durability, with lifespans that can stretch for centuries. However, these gifts come at the cost of their humanity—both physically and mentally, they are becoming more like the stone from which they were born.
 
     
- ### **Sustenance and the Veil:**
+### **Sustenance and the Veil:**
     
 Unlike most living beings, the Markhalyr do not consume food or drink. Instead, they draw their sustenance directly from the Mirror. This unique form of nourishment allows them to live without the need for traditional resources, but it comes with a dire consequence. By feeding off the Mirror, the Markhalyr constantly stretch the Veil—the barrier between the physical world and the arcane realms. Over the centuries, in areas with a significant Markhalyr presence, the Veil becomes thin and brittle, leading to an increased risk of arcane disturbances and otherworldly incursions. This gradual weakening of the Veil is a source of great concern for the Markhalyr.
     
@@ -47,17 +47,17 @@ Due to their constant exposure to the Mirror due to their source of sustenance, 
 
 ---
 
-## **[[2. The Races/4. The Venthalyr/2. Mechanics\|The Venthalyr]]**
+## **[The Venthalyr](../4.%20The%20Venthalyr/2.%20Mechanics.md)**
     
 ### **Origin and Background:**
     
 The Vethalyr were once humans who, over millennia, became deeply intertwined with the wild and chaotic magic of their ancient forest homes. These forests, aeons ago permanently altered by the cataclysmic event known as the Convergence, exist as a mixture of reality and the Mirror—a twisted, arcane reflection of the world. The magical energy that flows freely through these woods has spurred an unnatural evolution in the Venthalyr, transforming them into beings that are far more... And less than they where before. Physically, the Venthalyr are perfectly adapted to life in these enchanted forests. They possess elongated limbs and digits, with hard, claw-like nails ideal for climbing. Their large, light-sensitive eyes faintly glow in the dark, and their keen sense of hearing is unparalleled. Their skin tones range from murky brown to mossy green, allowing them to blend seamlessly into their surroundings. Some have even more adaptations to their environment: Long, prehensile tails, the ability to swing proficiently from tree to tree and many more.
     
- ### **Connection to Their Forests:**
+### **Connection to Their Forests:**
     
 The Venthalyr draw their life force from the very essence of their twisted forests. Within these bounds, they are seemingly unaging—some say even immortal. However, this deep connection comes with a significant limitation: the Venthalyr are significantly weaker outside these woods. This dependency drives them to constantly expand their forests, assimilating new territory to ensure their continued existence and growing influence.
     
- ### **Reproduction and Population:**
+### **Reproduction and Population:**
     
 Due to extreme mutations and the constant arcane radiation of their environment, the Venthalyr are practically sterile, making each individual life precious. To combat this decline, they heavily rely on humans, either captured through raids or sujugated and assimilated into their society. Whenever a human gives birth within the twisted bounds of the Venthalyr forests, the population of the Venthalyr grows by one.
     
@@ -71,7 +71,7 @@ The Venthalyr's primary arcane discipline is a twisted form of shamanic blood-ma
 
 ---
 
-## **[[2. The Races/5. The Anthalyr/2. Mechanics\|The Anthalyr]]**
+## **[The Anthalyr](../5.%20The%20Anthalyr/2.%20Mechanics.md)**
 
 ### **Origin and Background:**
 
@@ -83,7 +83,7 @@ The Anthalyr are a nomadic people, traveling the tundras and cold steppes, livin
 
 ---
 
-## **[[2. The Races/6. The Urashalyr/2. Mechanics\|The Urashalyr]]**
+## **[The Urashalyr](../6.%20The%20Urashalyr/2.%20Mechanics.md)**
     
 ### **Origin and Background**
     
@@ -107,7 +107,7 @@ The Urakhalyr's primary magic is called **Mindshaping**, reflecting their deep u
 
 ---
 
-## **[[2. The Races/7. The Varashalyr/2. Mechanics\|The Varashalyr]]**
+## **[The Varashalyr](../7.%20The%20Varashalyr/2.%20Mechanics.md)**
     
 ### **Origin and Background**
 
@@ -115,15 +115,3 @@ The Varakhalyr, a rather primitive race, have started diverging from the Urakhal
 They share their chosen habitat, the subterranean caves and tunnels deep underneath the surface of the world with the Markhalyr and many other, way less civilized species.
 
 ---
-
-## **[[2. The Races/WIP/9_The Weshkhalyr\|The Weakhalyr]]**
-
-- they are remnants of the early, great human (Monkhalyr) civilizations
-- those civilisations obviously must have been way ahead of today in magical prowess
-- at the convergence, this "evolution" of Monkhalyr was intrinsically linked to elementalism
-- they are born almost indistinguishable from regular Monkhalyr, if maybe a bit frail.
-- they soon show signs of great potential, but also great weakness
-- greed, obsession, Lust for power etc
-- it usually is not long until they start to change, representing their aspect of elementalism more
-- soon after that many shed their Monkhalyr shell and "ascend"
-- and not too long after that they often fully loose themselves

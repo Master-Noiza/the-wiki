@@ -21,11 +21,11 @@
 > [!column| no-t no-i]
 >> [!bug| no-i ttl-c]- The Magic
 >> - [[1. The Magic/1. Essence Weaving\|Essence Weaving]]
->> - [[1. The Magic/2. The Disciplines & Aspects\|The Disciplines & Aspects]]
->> - [[1. The Magic/3. The Spells\|The Spells]]
+>> - [[1. The Magic/3. The Disciplines & Aspects\|The Disciplines & Aspects]]
+>> - [[1. The Magic/5. The Spells\|The Spells]]
 >> - [[1. The Magic/4. Creating new Spells\|Creating new Spells]]
->> - [[1. The Magic/5. Spell modification - On the Fly\|Spell modification - On the Fly]]
->> - [[1. The Magic/6. Spell modification - Stable\|Spell modification - Stable]]
+>> - [[1. The Magic/6. Spell modification - On the Fly\|Spell modification - On the Fly]]
+>> - [[1. The Magic/7. Spell modification - Stable\|Spell modification - Stable]]
 >
 >> [!error| no-i ttl-c]- The Races
 >> - [[1. Overview\|Overview]]
