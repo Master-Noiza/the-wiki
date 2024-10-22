@@ -6,7 +6,7 @@
 
 ---
 
-## **[2. Mechanics](../2.%20The%20Monkhalyr/2.%20Mechanics.md)**
+## **[The Monkhalyr](../2.%20The%20Monkhalyr/2.%20Mechanics.md)**
 
 ### **Origin and Background:**
 
