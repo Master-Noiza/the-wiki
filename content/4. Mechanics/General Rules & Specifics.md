@@ -19,4 +19,4 @@
 
 ## GCS Files:
 
-[Racial Templates](https://drive.proton.me/urls/498B7EXG28#41guBG1nFSVN)
+GCS-Templates: https://drive.proton.me/urls/Z7KH1M9V18#SKiToLlrDnSL
