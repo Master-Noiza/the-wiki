@@ -16,7 +16,7 @@
 ![Divider_1.webp](Divider_1.webp)
 
 
-> [!NOTE| blank clean no-i ttl-c] **Table of Contents:**
+## <center> Table of Contents: <center>
 
 
 ![Divider_1.webp](Divider_1.webp)
