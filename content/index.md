@@ -66,13 +66,13 @@
 >>   - [The Primal Sovereign](3.%20Gods%20&%20Religion/5.%20Minor%20Gods,%20Spirits%20&%20Aspects/5.%20The%20Primal%20Sovereign.md)
 >
 >> [!bug| txt-c ttl-c no-i]- The Mechanics
->> - [General Rules & Specifics](4.%20Mechanics/General%20Rules%20&%20Specifics.md)
->> - [Long-Term Fatigue](4.%20Mechanics/Long-Term%20Fatigue.md)
->> - [Mutations](4.%20Mechanics/Mutations.md)
->> - [Skills](4.%20Mechanics/Skills.md)
->> - [Tables](4.%20Mechanics/Tables.md)
->> - [Traits](4.%20Mechanics/Traits.md)
->> - [Weaving Traits](4.%20Mechanics/Weaving%20Traits.md)
+>> - [General Rules & Specifics](5.%20Mechanics/General%20Rules%20&%20Specifics.md)
+>> - [Long-Term Fatigue](5.%20Mechanics/Long-Term%20Fatigue.md)
+>> - [Mutations](5.%20Mechanics/Mutations.md)
+>> - [Skills](5.%20Mechanics/Skills.md)
+>> - [Tables](5.%20Mechanics/Tables.md)
+>> - [Traits](5.%20Mechanics/Traits.md)
+>> - [Weaving Traits](5.%20Mechanics/Weaving%20Traits.md)
 
 ![Divider_1.webp](Divider_1.webp)
 
@@ -98,4 +98,4 @@ The world is a grim, perilous place, filled with the scars of the Convergence an
 
 The Veil grows ever thinner. The Mirror's influence spreads. The world teeters on the edge of oblivion, and those who remain struggle to survive, ever haunted by the echoes of their past mistakes and the looming darkness of their future.
 
-![Divider_2.webp](Divider_2.webp)
+---
