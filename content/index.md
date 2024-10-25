@@ -6,18 +6,18 @@
 
 # The World of Vilenought
 
-![](3. Gods & Religion/Pasted image 20241025123820.webp)
+![](Pasted image 20241025123820.webp)
 
 > [!quote] Beyond our world, not far, but close enough to touch it, yet forever distant and cut off by the Veil, lies the Mirror. A feint imprint of the reality we are so sure we call our own. Every stone cast in a still forest lake sends ripples down the surface of its misty, bleak projection in the Mirror. Or are we the projections? Are we mere echoes of the spirits that roam the dim forests beyond our reach? Beyond the Mirror still, to where only the bravest dare to pierce the Veil, lie the Shards. The fragmentation rising with every step, reality shifting, space streching and time in constant flux. Beyond the shard lies nothing. Nothing of such an agonizing depth, of such hopelessness and despair... Filled with silence, filled with the silence of dead gods, filled with the laughter of those who are not. But the Veil protects us.... For aeons it protected us... But the Veil is wearing thin.
 > 
 
 <iframe src="https://master-noiza.github.io/world-map/" width="100%" height="800px"></iframe>
 
-![](3. Gods & Religion/Pasted image 20241025123820.webp)
+![](Pasted image 20241025123820.webp)
 
 ## Table of Contents:
 
-![](3. Gods & Religion/Pasted image 20241025123820.webp)
+![](Pasted image 20241025123820.webp)
 
 > [!column| no-t no-i]
 >
@@ -75,7 +75,7 @@
 >> - [Traits](4.%20Mechanics/Traits.md)
 >> - [Weaving Traits](4.%20Mechanics/Weaving%20Traits.md)
 
-![](3. Gods & Religion/Pasted image 20241025123820.webp)
+![](Pasted image 20241025123820.webp)
 
 ## Introduction to the setting:
 
@@ -99,4 +99,4 @@ The world is a grim, perilous place, filled with the scars of the Convergence an
 
 The Veil grows ever thinner. The Mirror's influence spreads. The world teeters on the edge of oblivion, and those who remain struggle to survive, ever haunted by the echoes of their past mistakes and the looming darkness of their future.
 
-![](3. Gods & Religion/Pasted image 20241025123820.webp)
+![](Pasted image 20241025123820.webp)
