@@ -16,10 +16,9 @@
 ![Divider_1.webp](Divider_1.webp)
 
 
-## <center> Table of Contents: <center>
+## <center> Table of Contents: <center/>
 
 
-![Divider_1.webp](Divider_1.webp)
 
 > [!column| no-t no-i]
 >
