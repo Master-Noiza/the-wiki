@@ -99,4 +99,4 @@ The world is a grim, perilous place, filled with the scars of the Convergence an
 
 The Veil grows ever thinner. The Mirror's influence spreads. The world teeters on the edge of oblivion, and those who remain struggle to survive, ever haunted by the echoes of their past mistakes and the looming darkness of their future.
 
-![Divider_1.webp](Divider_1.webp)
+![Divider_2.webp](Divider_2.webp)
