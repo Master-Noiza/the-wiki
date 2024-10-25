@@ -18,8 +18,6 @@
 
 ## <center> Table of Contents: <center/>
 
-
-
 > [!column| no-t no-i]
 >
 >> [!bug| no-i ttl-c]- The Magic
