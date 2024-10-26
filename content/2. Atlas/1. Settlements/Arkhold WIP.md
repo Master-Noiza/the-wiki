@@ -40,6 +40,7 @@ Description of the settlement, its important features, history of note and such
 
 > [!column]
 >> [!info|no-i clean] Infrastructure
+>> 
 >> **Governance**
 >> 
 >> |    |        |
