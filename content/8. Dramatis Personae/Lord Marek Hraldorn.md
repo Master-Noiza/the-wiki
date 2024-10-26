@@ -86,7 +86,7 @@ Short, distinctive description
 ---
 
 > [!column]
->> [!bug|no-i ttl-c clean]+ **Encounters**
+>> [!bug|no-i ttl-c clean]- **Encounters**
 >>
 >> **Situation 1**
 >> - What happened
@@ -94,14 +94,12 @@ Short, distinctive description
 >> **Situation2**
 >> - What else?
 >
->> ## Secrets & Rumors
->> 
->>> [!blank|no-i ttl-c clean]
->>>
->>> **Secret1**
->>> - Details
->>>   
->>> **Rumor2**
->>> - Details
+>> [!bug|no-i ttl-c clean]- **Secrets & Rumors**
+>>
+>> **Secret1**
+>> - Details
+>>   
+>> **Rumor2**
+>> - Details
 
 ---
