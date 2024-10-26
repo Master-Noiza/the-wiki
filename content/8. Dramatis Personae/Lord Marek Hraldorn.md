@@ -53,8 +53,6 @@
 
 Short, distinctive description
 
-
----
 <br>
 
 ## Description:
