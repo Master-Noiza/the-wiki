@@ -26,7 +26,7 @@
 > |  |  |
 > | ---- | ---- |
 > | **Age** | Early 50s |
-> | **Eyes** | Green-Grey |
+> | **Eyes** | Amber |
 > | **Hair** | Bald |
 > | **Distinctive Features** | Scarred Face, <br>Glowing eye, <br>Muscular, <br>Tall, <br>Lean |
 > 

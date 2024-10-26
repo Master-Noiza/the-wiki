@@ -1,5 +1,5 @@
 ---
-{"title":"Arkhold","draft":false,"tags":null,"publish":true,"path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
+{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":null,"path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
 ---
 
 
@@ -15,3 +15,35 @@ Arkhold still stands firm, seeing itself as the rightful ruler of these lands.
 
 The current walls and buildings of Arkhold where build on the ancient ruins of *Zhar-Kaith*, the ancient Jewel of the north, a Monkhalyri City of old, swallowed by time millenia ago.
 
+# `=this.name`
+
+---
+> [!infobox]
+> 
+> 
+> ## **`=this.name`**
+> 
+>![Placeholder_CityMap.webp](../../Placeholder_CityMap.webp)
+> 
+> ## - Facts -
+> | Type | Name |
+> | ---- | ---- |
+> | **Aliases** | `=this.aliases` |
+> | **Category** | `=this.rank` |
+> | **** | `=this.aspects` |
+> | **Aspect of** | `=this.aspect_of` |
+> | **Portfolio** | `=this.portfolio` |
+> | **Followers** | `=this.followers` |
+> | **Organisations** | `=this.organisations` |
+> | **Symbols** | `=this.symbol` |
+> | **Godly Relations** |  |
+
+> [!quote|author] The Quoted, yyyy
+> This is the first quote
+
+<br>
+
+> [!quote|author] The Quoted, at a place, at X day
+> This is the second quote
+
+<br>
