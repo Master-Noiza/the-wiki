@@ -10,7 +10,7 @@
 > 
 > ## Lord Marek Hraldorn
 > 
-> ![NPC_Placeholder.jpg](../NPC_Placeholder.jpg)
+> ![Marek_Hraldorn.webp](../Marek_Hraldorn.webp)
 > 
 > ## **- Facts -**
 > |  |  |
