@@ -93,7 +93,6 @@ Short, distinctive description
 >> - What else?
 >
 >> [!bug|no-i ttl-c clean]- **Secrets & Rumors**
->>
 >> **Secret1**
 >> - Details
 >>   
