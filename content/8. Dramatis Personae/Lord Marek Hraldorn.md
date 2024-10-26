@@ -20,7 +20,7 @@
 > | **Rank/Title** | Lord Commander of Arkhold, <br>Warden of the Howling Rock |
 > | **Allegiance** | [The Burning Hammer](../9.%20Organizations/The%20Burning%20Hammer.md) |
 > | **Relations** | The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions) |
-> | **Location** | Arkhold |
+> | **Location** | [Arkhold](../2.%20Atlas/1.%20Settlements/Arkhold.md) |
 > 
 > ## **- Description -**
 > |  |  |
@@ -35,8 +35,8 @@
 > | ---- | ---- |
 > | **Born** | Unknown |
 > | **Died** | - |
-> | **Origin** | Arkhold |
-> | **Residence** | Arkhold |
+> | **Origin** | [Arkhold](../2.%20Atlas/1.%20Settlements/Arkhold.md) |
+> | **Residence** | [Arkhold](../2.%20Atlas/1.%20Settlements/Arkhold.md) |
 > | **Profession** | Leader, <br>General, <br>Governor |
 > | **Primary Belief** | [The Nine](../4.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md), <br>[The Burning Judge](../4.%20Gods%20&%20Religion/4.%20The%20Nine/7.%20The%20Burning%20Judge.md), <br>[The Gilded Magnate](../4.%20Gods%20&%20Religion/4.%20The%20Nine/9.%20The%20Gilded%20Magnate.md) |
 > | **Relatives & Relationships** | - |
