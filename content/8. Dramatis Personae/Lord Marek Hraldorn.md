@@ -57,12 +57,10 @@ Short, distinctive description
 
 ## Description:
 
-- Beschreibung, Charakter, Verhalten
-- äussere Merkmale
-- Charaktereigenschaften
-- Besondere Merkmale
-- Besondere Fähigkeiten
-- Geheimnisse
+- Appearance, Distinctive Features
+- Characteristcs and Behavior
+- Special Abilities
+- Quirks
 
 <br>
 
