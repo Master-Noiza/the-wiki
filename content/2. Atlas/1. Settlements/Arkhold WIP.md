@@ -39,8 +39,10 @@ Description of the settlement, its important features, history of note and such
 ---
 
 > [!column]
->> [!info] Infrastructure
->> | **Governance**   |             |
+>> [!info|no-i clean] Infrastructure
+>> **Governance**
+>> 
+>> |    |        |
 >> | ---------------- | ----------- |
 >> | Government type  | Description |
 >> | Political Leader | Description | 
