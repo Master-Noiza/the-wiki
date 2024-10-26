@@ -14,30 +14,42 @@ This list is in no way comprehensive but can act as a great starting point.
 
 1. If your character had not been drawn into adventure, what would their life look like?
 <br>
+
 2. Whom in the group would your character trust with their life?
 <br>
+
 3. What are your character's core moral principles?
 <br>
+
 4. How does your character relate to their family?
 <br>
+
 5. Does your character hold any prejudices for or against certain races/groups?
 <br>
+
 6. How does your character feel about nobility and authority?
 <br>
+
 7. Describe your character’s current appearance: clothing, armor, weapons, scars, etc.
 <br>
+
 8. Which place you've visited so far felt the most like “home” to your character?
 <br>
+
 9. Which deity or deities does your character primarily worship?
 <br>
+
 10. If your character had time to pick up a hobby (musical instrument, game, craft, etc.), what would it be?
 <br>
+
 11. Describe your character’s current relationship with the character of the player on your right.
 <br>
 12. What is your character’s current personal goal, summarized in one sentence?
 <br>
+
 13. What are your character’s dreams for the future? (Family, craft, world domination, cabin in the woods, farm, etc.)
 <br>
+
 14. Has your character ever been in love? If not, why? If so, with whom?
 <br>
 15. Which battle in the campaign stands out most in your character’s memory?
