@@ -1,5 +1,5 @@
 ---
-{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Dictatorship (Inofficial)","leaders":"Lord Commander (Informal), <br>The Counsil of Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>City Watch, <br>Standing Military, <br>Protection Runes","path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
+{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial)","leaders":"Lord Commander (Informal), <br>The Council of the Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>City Watch, <br>Standing Military, <br>Protection Runes","path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
 ---
 
 # Arkhold
@@ -22,8 +22,8 @@
 > | **Population** | 10000 |
 > | **Inhabitants** | [Monkhalyr](../../3.%20The%20Races/2.%20The%20Monkhalyr/2.%20Mechanics.md), <br>[Markhalyr](../../3.%20The%20Races/3.%20The%20Markhalyr/2.%20Mechanics.md) |
 > | **Condition** | Declining |
-> | **Governance** | Clerical Oligarchy (Official), <br>Dictatorship (Inofficial) |
-> | **Leaders** | Lord Commander (Informal), <br>The Counsil of Nine (Formal) |
+> | **Governance** | Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial) |
+> | **Leaders** | Lord Commander (Informal), <br>The Council of the Nine (Formal) |
 > | **Seat of Power** | The Black Spire |
 > | **Relations** | The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions) |
 > | **Organizations** | [The Burning Hammer](../../9.%20Organizations/The%20Burning%20Hammer.md), <br>[[The Counsil of Nine\|The Counsil of Nine]] |
@@ -56,7 +56,7 @@ The current walls and buildings of Arkhold where build on the ancient ruins of *
 
 ## Governance:
 
-- What is the governmental system?
+Arkhold has been traditionally governed by the *Circle of the Nine*, a ruling Council consisting of the High Priests of [The Nine](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md). Its power was absolute and its decicions where steared by god-fearing and the advise of leading members of Arkhold's society. What is the governmental system?
 - Who are its leaders and notable political groups?
 - What is its relationship with other settlements or nations?
 
