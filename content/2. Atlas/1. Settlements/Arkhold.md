@@ -31,9 +31,6 @@
 > | **Economy** | Regulated |
 > | **Defence** | City Walls, <br>City Watch, <br>Standing Military, <br>Protection Runes |
 > | **Primary Religions** | [The Nine](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md), <br>[The Burning Judge](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/7.%20The%20Burning%20Judge.md),<br>[The Silent King](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/3.%20The%20Silent%20King.md) |
-> 
-
-<br>
 
 > [!quote|author clean] *"When they came, they came with shining steel and promises of peace. They left with Arkhold's coin and sons, but the north is ours yet. What the Empire forgets, Arkhold remembers."*
 > Elara of the Council of Nine, Reflections on the Northern Wars
