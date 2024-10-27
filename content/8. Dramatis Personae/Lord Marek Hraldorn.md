@@ -85,6 +85,7 @@ Short, distinctive description
 ---
 
 > [!column]
+> 
 >> [!bug|no-i ttl-c clean]- **Encounters**
 >>
 >> **Situation 1**
