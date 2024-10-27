@@ -17,7 +17,7 @@
 > | ---- | ---- |
 > | **Aliases** | The Black Bastion |
 > | **Type** | Fortress City, <br>City-State, <br>Former Capital |
-> | **Location** | The Northern Expanse |
+> | **Location** | [The Northern Expanse](../2.%20Nations%20&%20Areas/The%20Northern%20Expanse.md) |
 > | **Nation** | [Urashalyri Empire](../../3.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md) (Nominally), <br>Self Governed |
 > | **Population** | 10000 |
 > | **Inhabitants** | [Monkhalyr](../../3.%20The%20Races/2.%20The%20Monkhalyr/2.%20Mechanics.md), <br>[Markhalyr](../../3.%20The%20Races/3.%20The%20Markhalyr/2.%20Mechanics.md) |
