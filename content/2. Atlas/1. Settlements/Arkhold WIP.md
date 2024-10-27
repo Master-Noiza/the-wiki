@@ -33,17 +33,25 @@
 > 
 
 
-> [!quote|author clean] This is the first quote
-> The Quoted, at place x, at time y
+> [!quote|author clean] *"When they came, they came with shining steel and promises of peace. They left with Arkhold's coin and sons, but the north is ours yet. What the Empire forgets, Arkhold remembers."*
+> Elara of the Council of Nine, Reflections on the Northern Wars
 
-> [!quote|author clean] This is the second quote
-> The Quoted, at place x, at time y
+> [!quote|author clean] *"The north is cold and cruel, and it’s easy to lose faith. But in Arkhold, with the Nine as our witness, we are as much stone as the walls we defend."*
+> City Watchman Mirdan, in conversation at the North Gate
 
 <br>
 
 ## Basic Information:
 
-Description of the settlement, its important features, history of note and such
+A mighty, yet small and secluded fortress city in the northern expanse.
+
+Arkhold used to be the capital of *Suth Ka'al*, the northernmost [Monkhalyri](../../3.%20The%20Races/2.%20The%20Monkhalyr/2.%20Mechanics.md) city-state. Less than a century ago the [Urashalyri](../../3.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md) Empire crossed the *Narrow Sea* and swallowed these lands.
+
+Despite nominally belonging to the Empire now, the northern expanse is too far removed from the empire's center and too insignificant to warrant a sufficient military presence.
+
+Arkhold still stands firm, seeing itself as the rightful ruler of these lands.
+
+The current walls and buildings of Arkhold where build on the ancient ruins of *Zhar-Kaith*, the ancient Jewel of the north, a Monkhalyri City of old, swallowed by time millenia ago.
 
 <br>
 
