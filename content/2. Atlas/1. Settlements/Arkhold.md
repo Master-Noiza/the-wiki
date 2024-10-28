@@ -1,5 +1,5 @@
 ---
-{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial)","leaders":"Lord Commander (Informal), <br>The Council of the Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>City Watch, <br>Standing Military, <br>Protection Runes","path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
+{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial)","leaders":"Lord Commander (Informal), <br>The Circle of the Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes","path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
 ---
 
 # Arkhold
@@ -23,13 +23,13 @@
 > | **Inhabitants** | [Monkhalyr](../../3.%20The%20Races/2.%20The%20Monkhalyr/2.%20Mechanics.md), <br>[Markhalyr](../../3.%20The%20Races/3.%20The%20Markhalyr/2.%20Mechanics.md) |
 > | **Condition** | Declining |
 > | **Governance** | Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial) |
-> | **Leaders** | Lord Commander (Informal), <br>The Council of the Nine (Formal) |
+> | **Leaders** | Lord Commander (Informal), <br>The Circle of the Nine (Formal) |
 > | **Seat of Power** | The Black Spire |
 > | **Relations** | The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions) |
-> | **Organizations** | [The Burning Hammer](../../9.%20Organizations/The%20Burning%20Hammer.md), <br>[[The Counsil of Nine\|The Counsil of Nine]] |
-> | **Places of Note** | The Black Spire, <br>Temple of the Nine, <br>The Ruins of Zhar-Kaith, <br>City Wards, <br>Landmarks |
+> | **Organizations** | [The Burning Hammer](../../9.%20Organizations/The%20Burning%20Hammer.md), <br>[[The Circle of the Nine\|The Circle of the Nine]] |
+> | **Places of Note** | The Black Spire, <br>Temple of the Nine, <br>The Ruins of Zhar-Kaith, <br>Clifftop Ward, <br>Coldstone Ward, <br>Ironwind Ward, <br>The Wailing Labyrinth |
 > | **Economy** | Regulated |
-> | **Defence** | City Walls, <br>City Watch, <br>Standing Military, <br>Protection Runes |
+> | **Defence** | City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes |
 > | **Primary Religions** | [The Nine](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md), <br>[The Burning Judge](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/7.%20The%20Burning%20Judge.md),<br>[The Silent King](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/3.%20The%20Silent%20King.md) |
 
 > [!quote|author clean] *"When they came, they came with shining steel and promises of peace. They left with Arkhold's coin and sons, but the north is ours yet. What the Empire forgets, Arkhold remembers."*
@@ -44,27 +44,43 @@
 
 A mighty, yet small and secluded fortress city in the northern expanse.
 
-Arkhold used to be the capital of *Suth Ka'al*, the northernmost [Monkhalyri](../../3.%20The%20Races/2.%20The%20Monkhalyr/2.%20Mechanics.md) city-state. Less than a century ago the [Urashalyri](../../3.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md) Empire crossed the *Narrow Sea* and swallowed these lands.
+Arkhold used to be the capital of *Suth Ka'al*, the northernmost [Monkhalyri](../../3.%20The%20Races/2.%20The%20Monkhalyr/2.%20Mechanics.md) city-state and leader of the *Skybound Holds*, a federation of the most significant city-states in the north.
 
+Less than a century ago the [Urashalyri](../../3.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md) Empire crossed the *Narrow Sea* and swallowed these lands.
 Despite nominally belonging to the Empire now, the northern expanse is too far removed from the empire's center and too insignificant to warrant a sufficient military presence.
 
 Arkhold still stands firm, seeing itself as the rightful ruler of these lands.
 
-The current walls and buildings of Arkhold where build on the ancient ruins of *Zhar-Kaith*, the ancient Jewel of the north, a Monkhalyri City of old, swallowed by time millenia ago.
+The current walls and buildings of Arkhold where build on the ancient ruins of *Zhar-Kaith*, the ancient Jewel of the north, a monkhalyri city of old, swallowed by time millenia ago.
 
 <br>
 
 ## Governance:
 
-Arkhold has been traditionally governed by the *Circle of the Nine*, a ruling Council consisting of the High Priests of [The Nine](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md). Its power was absolute and its decicions where steared by god-fearing and the advise of leading members of Arkhold's society. What is the governmental system?
-- Who are its leaders and notable political groups?
-- What is its relationship with other settlements or nations?
+Arkhold has been traditionally governed by the *Circle of the Nine*, a ruling Council consisting of the High Priests of [The Nine](../../4.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md). Its power was absolute and its decicions where steared by god-fearing and the advise of leading members of Arkhold's society.
+
+Having been both an independent city-state and leader of the most powerful federation in the north, the social elite of Arkhold holds no love for the urashalyri invaders.
+
+Currently Arkhold officially is part of and ows tithe to the Empire after suffering a catastrophic defeat by the hands of the *Empress's Fists*. 
+
+In reality, the *Imperial Core* lays thousands of kilometers away, across the *Narrow Sea* and in the grand scheme of things, the north is far too insignificant, which resulted in the Unprecedented:
+
+Despite refusing to bend the knee during negotiations, Arkhold was allowed to remain mostly self-governing.
+The *Circle of Nine* remained the defacto leaders, with a permanent urashalyri representation present. 
+
+This precarious balance is in danger, as the *Lord Commander* of the *Black Guard* and military leader of Arkhold [Lord Marek Hraldorn](../../8.%20Dramatis%20Personae/Lord%20Marek%20Hraldorn.md), is amassing support, reviving old alliances and some say is already in control of the city.
+
+Arkhold, having long been the strongest political and military force, has long standing relations in the noth. Some of the *Skyward Holds* remain independent to this day and Arkhold still holds significant influence on their political decisions.
+
+[The Markhalyr](../../3.%20The%20Races/3.%20The%20Markhalyr/2.%20Mechanics.md) of *Suth Ka'al*, although heavily declining and a shadow of their former power, once where honored allies and are responsible for the impressive defenses of the city.
 
 <br>
 
 ## Defences:
 
-- Does it have walls? Are they fortified?
+Arhold's walls stand strong and tall, almost 15 Meters high and carved from the black rock of the *Ashen Peaks*. The walls are additionally fortified with markhalyri protection runes and have yet to be breached in many centuries.
+
+
 - Does it have fortifications? Which ones and where?
 
 ### Watch & Guard:
@@ -77,7 +93,7 @@ Arkhold has been traditionally governed by the *Circle of the Nine*, a ruling Co
 
 ## Social:
 
-[City] has a population of XX‚XXX. The majority are [race], with a significant number of [race] and [race], and enclaves of [race].
+Arhold has a population of roughly 10‚000. The majority are [race], with a significant number of [race] and [race], and enclaves of [race].
 
 - Social Welfare: Indifferent or benevolent (Comes in shades)
 - What is the overall social hierarchy and how do they interact?
