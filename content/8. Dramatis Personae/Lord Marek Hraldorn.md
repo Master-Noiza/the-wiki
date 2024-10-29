@@ -15,7 +15,7 @@
 > ## **- Facts -**
 > |  |  |
 > | ---- | ---- |
-> | **Race** | [Monkhalyr](../3.%20The%20Races/2.%20The%20Monkhalyr/2.%20Mechanics.md) |
+> | **Race** | [Monkhalyr](../3.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md) |
 > | **Culture** | `=this.culture` |
 > | **Aliases** | The Unyielding |
 > | **Rank/Title** | Lord Commander of Arkhold, <br>Warden of the Howling Rock |

@@ -6,7 +6,7 @@
 
 ---
 
-## **[The Monkhalyr](../2.%20The%20Monkhalyr/2.%20Mechanics.md)**
+## **[The Monkhalyr](../2.%20The%20Monkhalyr/1.%20Lore.md)**
 
 ### **Origin and Background:**
 
@@ -18,7 +18,7 @@ The Monkhalyr, despite retaining an innate command over all *Weaving Disciplines
 
 ---
 
-## **[The Markhalyr](../3.%20The%20Markhalyr/2.%20Mechanics.md)**
+## **[The Markhalyr](../3.%20The%20Markhalyr/1.%20Lore.md)**
     
 ### **Origin and Background:**
     
