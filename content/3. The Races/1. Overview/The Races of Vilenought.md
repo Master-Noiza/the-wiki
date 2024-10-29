@@ -10,15 +10,11 @@
 
 ### **Origin and Background:**
 
-The Monkhalyr were the first and most dominant species, responsible for building vast empires and mastering both the mundane and the arcane. Their ambition and overreach, however, led to the collapse of their once-great civilizations. In their relentless pursuit of arcane power and innovation, they pushed the boundaries of reality, stretching, piercing and rupturing the *Veil* that separates the material world from the Mirror. This culminated in a catastrophic event, known as the Convergence. It tore open the barrier between reality and the chaotic Mirror, unleashing devastation across the world. This tragedy occurred aeons ago, but its effects still linger.
+The *Monkhalyr* are remnants of an ancient race once at the height of magical and mundane mastery, whose boundless ambition led to their own downfall. In their relentless pursuit of arcane power, they tore the *Veil* between the material world and the chaotic *Mirror*, causing the *Convergence*, a cataclysmic event that devastated the world and left the Veil permanently scarred.
 
-### **Current State:**
+Now, the Monkhalyr exist as fragmented city-states, tribes, and kingdoms, with no unified society or culture and diverse interpretations of their history.
 
-Today, human civilization is a fractured shadow of its former glory. Small, war-torn kingdoms, tribes and city-states are all that remain of the once-mighty human empires. These remnants are constantly embroiled in conflicts, both among themselves and against other races. The Monkhalyr are a dying race, clinging to the remnants of their past while facing an uncertain future. The ruins of their ancient civilizations are haunted by the aftermath of the Convergence, where the Veil remains unstable, thin, and brittle. These places are rich in arcane potential and powerful ancient artifacts, but bear the risk of repeating past mistakes.
-
-### **Magic and Society:**
-
-The Monkhalyr’s primary magic is Elementalism. This powerful, versatile form of magic, while potent, draws directly from the Mirror, making it highly unstable and dangerous. Despite the risks, some humans still seek to harness its power, driven by the desperate hope of restoring their former glory or protecting what little remains of their world.
+The Monkhalyr, despite retaining an innate command over all *Weaving Disciplines*, are a divided, declining race, with some factions desperately clinging to their ancient practices, others banning magic altogether, and many locked in constant conflict over resources, relics, and arcane sites. They inhabit a world haunted by their past, where ancient ruins and unstable magic sites still bear the scars of the Convergence.
 
 ---
 
