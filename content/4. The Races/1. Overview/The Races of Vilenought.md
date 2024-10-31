@@ -43,7 +43,7 @@ Due to their constant exposure to the Mirror due to their source of sustenance, 
 
 ---
 
-## **[The Venthalyr](../4.%20The%20Venthalyr/2.%20Mechanics.md)**
+## **[The Venthalyr](../4.%20The%20Venthalyr/1.%20Lore.md)**
     
 ### **Origin and Background:**
     
@@ -79,7 +79,7 @@ The Anthalyr are a nomadic people, traveling the tundras and cold steppes, livin
 
 ---
 
-## **[The Urashalyr](../6.%20The%20Urashalyr/2.%20Mechanics.md)**
+## **[The Urashalyr](../6.%20The%20Urashalyr/1.%20Lore.md)**
     
 ### **Origin and Background**
     

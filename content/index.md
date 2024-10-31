@@ -33,11 +33,11 @@
 >> [!error| no-i ttl-c]- The Races
 >>
 >> - [Overview](4.%20The%20Races/1.%20Overview/The%20Races%20of%20Vilenought.md)
->> - [The Monkhayr](4.%20The%20Races/2.%20The%20Monkhalyr/2.%20Mechanics.md)
->> - [The Markhalyr](4.%20The%20Races/3.%20The%20Markhalyr/2.%20Mechanics.md)
->> - [The Venthalyr](4.%20The%20Races/4.%20The%20Venthalyr/2.%20Mechanics.md)
+>> - [The Monkhalyr](4.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md)
+>> - [The Markhalyr](4.%20The%20Races/3.%20The%20Markhalyr/1.%20Lore.md)
+>> - [The Venthalyr](4.%20The%20Races/4.%20The%20Venthalyr/1.%20Lore.md)
 >> - [The Anthalyr](4.%20The%20Races/5.%20The%20Anthalyr/2.%20Mechanics.md)
->> - [The Urashalyr](4.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md)
+>> - [The Urashalyr](4.%20The%20Races/6.%20The%20Urashalyr/1.%20Lore.md)
 >> - [The Varashalyr](4.%20The%20Races/7.%20The%20Varashalyr/2.%20Mechanics.md)
 
 > [!column| no-t no-i]
