@@ -15,5 +15,5 @@ Striking with the strength of a legion's might."*
 
 
 
-[!quote| author] _"I am the keeper of my people's peace and the harbinger of my enemies' nightmares. Let them remember the cost of waking me."_  
-— _Empress Thala’vren Kaeshara Tanvir, on the eve of the Karanji Treaty._
+>[!quote|author] *"I am the keeper of my people's peace and the harbinger of my enemies' nightmares. Let them remember the cost of waking me."*
+>Empress Thala’vren Kaeshara Tanvir, on the eve of the Karanji Treaty.
