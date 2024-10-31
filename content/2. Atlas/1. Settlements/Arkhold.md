@@ -1,5 +1,5 @@
 ---
-{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial)","leaders":"Lord Commander (Informal), <br>The Circle of the Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes","path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
+{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","usage":"Trade-Hub,<br>Fortress,<br>Defence,<br>Territorial Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial)","leaders":"Lord Commander (Informal), <br>The Circle of the Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes","path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
 ---
 
 # Arkhold
@@ -16,7 +16,8 @@
 > |  |  |
 > | ---- | ---- |
 > | **Aliases** | The Black Bastion |
-> | **Type** | Fortress City, <br>City-State, <br>Former Capital |
+> | **Category** | Fortress City, <br>City-State, <br>Former Capital |
+> | **Function** | Trade-Hub,<br>Fortress,<br>Defence,<br>Territorial Capital |
 > | **Location** | [The Northern Expanse](../2.%20Nations%20&%20Areas/The%20Northern%20Expanse.md) |
 > | **Nation** | [Urashalyri Empire](../../4.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md) (Nominally), <br>Self Governed |
 > | **Population** | 10000 |
@@ -27,6 +28,7 @@
 > | **Seat of Power** | The Black Spire |
 > | **Relations** | The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions) |
 > | **Organizations** | [The Burning Hammer](../../6.%20Organizations/The%20Burning%20Hammer.md), <br>[[The Circle of the Nine\|The Circle of the Nine]] |
+> | **People of Note** | [Lord Marek Hraldorn](../../5.%20Dramatis%20Personae/Lord%20Marek%20Hraldorn.md) |
 > | **Places of Note** | The Black Spire, <br>Temple of the Nine, <br>The Ruins of Zhar-Kaith, <br>Clifftop Ward, <br>Coldstone Ward, <br>Ironwind Ward, <br>The Wailing Labyrinth |
 > | **Economy** | Regulated |
 > | **Defence** | City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes |
@@ -46,7 +48,7 @@ A mighty, yet small and secluded fortress city in the northern expanse.
 
 Arkhold used to be the capital of *Suth Ka'al*, the northernmost [Mokhalyr](../../4.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md) city-state and leader of the *Skybound Holds*, a federation of the most significant city-states in the north.
 
-Less than a century ago the [Urashalyri](../../4.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md) Empire crossed the *Narrow Sea* and swallowed these lands.
+Less than a century ago the [Urashalyr](../../4.%20The%20Races/6.%20The%20Urashalyr/1.%20Lore) Empire crossed the *Narrow Sea* and swallowed these lands.
 Despite nominally belonging to the Empire now, the northern expanse is too far removed from the empire's center and too insignificant to warrant a sufficient military presence.
 
 Arkhold still stands firm, seeing itself as the rightful ruler of these lands.
