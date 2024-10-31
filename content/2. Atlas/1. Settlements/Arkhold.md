@@ -1,5 +1,5 @@
 ---
-{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","usage":"Trade-Hub,<br>Fortress,<br>Defence,<br>Territorial Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial)","leaders":"Lord Commander (Informal), <br>The Circle of the Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes","path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
+{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","usage":"Trade-Hub,<br>Fortress,<br>Defence,<br>Territorial Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial)","leaders":"Lord Commander (Informal), <br>The Circle of the Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes","magic":"Heavily Regulated","path":"2. Atlas/1. Settlements/Arkhold.md","permalink":"/2-atlas/1-settlements/arkhold/","PassFrontmatter":true}
 ---
 
 # Arkhold
@@ -32,6 +32,7 @@
 > | **Places of Note** | The Black Spire, <br>Temple of the Nine, <br>The Ruins of Zhar-Kaith, <br>Clifftop Ward, <br>Coldstone Ward, <br>Ironwind Ward, <br>The Wailing Labyrinth |
 > | **Economy** | Regulated |
 > | **Defence** | City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes |
+> | **Magic** | Heavily Regulated |
 > | **Primary Religions** | [The Nine](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md), <br>[The Burning Judge](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/7.%20The%20Burning%20Judge.md),<br>[The Silent King](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/3.%20The%20Silent%20King.md) |
 
 > [!quote|author clean] *"When they came, they came with shining steel and promises of peace. They left with Arkhold's coin and sons, but the north is ours yet. What the Empire forgets, Arkhold remembers."*
@@ -90,6 +91,10 @@ Arhold's walls stand strong and tall, almost 15 Meters high and carved from the 
 - What is the name of its law enforcement, and its defensive forces?
 - Standing army or militia?
 - How strict or relaxed is law enforcement?
+
+### Magic:
+- Is Magic banned, regulated or encouraged?
+- Details
 
 <br>
 
