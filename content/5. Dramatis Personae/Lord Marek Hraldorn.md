@@ -1,5 +1,5 @@
 ---
-{"title":"Lord Marek Hraldorn","draft":false,"publish":true,"name":"Lord Marek Hraldorn","age":"Early 50s","occupation":"Leader, <br>General, <br>Governor","aliases":"The Unyielding","titles":"Lord Commander of Arkhold, <br>Warden of the Howling Rock","culture":null,"allegiances":"The Burning Hammer","features":"Scarred Face, <br>Blind left eye, <br>Muscular, <br>Tall, <br>Lean","affiliations":"The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions)","location":"Arkhold","path":"5. Dramatis Personae/Lord Marek Hraldorn.md","permalink":"/5-dramatis-personae/lord-marek-hraldorn/","PassFrontmatter":true}
+{"title":"Lord Marek Hraldorn","draft":false,"publish":true,"name":"Lord Marek Hraldorn","age":"Early 50s","occupation":"Leader,<br>General,<br>Governor","aliases":"The Unyielding","titles":"Lord Commander of Arkhold, <br>Warden of the Howling Rock","culture":null,"allegiances":"The Burning Hammer","features":"Scarred Face, <br>Blind left eye, <br>Muscular, <br>Tall, <br>Lean","affiliations":"The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions)","location":"Arkhold","path":"5. Dramatis Personae/Lord Marek Hraldorn.md","permalink":"/5-dramatis-personae/lord-marek-hraldorn/","PassFrontmatter":true}
 ---
 
 # Lord Marek Hraldorn
@@ -38,7 +38,7 @@
 > | **Died** | - |
 > | **Origin** | [Arkhold](../2.%20Atlas/1.%20Settlements/Arkhold.md) |
 > | **Residence** | [Arkhold](../2.%20Atlas/1.%20Settlements/Arkhold.md) |
-> | **Profession** | Leader, <br>General, <br>Governor |
+> | **Profession** | Leader,<br>General,<br>Governor |
 > | **Primary Belief** | [The Nine](../3.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md), <br>[The Burning Judge](../3.%20Gods%20&%20Religion/4.%20The%20Nine/7.%20The%20Burning%20Judge.md), <br>[The Gilded Magnate](../3.%20Gods%20&%20Religion/4.%20The%20Nine/9.%20The%20Gilded%20Magnate.md) |
 > | **Relatives & Relationships** | - |
 
