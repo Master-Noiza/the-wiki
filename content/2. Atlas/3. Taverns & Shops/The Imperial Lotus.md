@@ -133,17 +133,17 @@
 
 ## Staff:
 
-**Owner:**
+**Owner**:
 
 - **K’halan Muralok**: A retired Urashalyr military captain, strict yet kindhearted, values the preservation of Urashalyr culture in Arkhold. He runs the tavern with disciplined warmth, preferring things to stay “as they are at home.”
 
-**Cook/Chef:**
+**Cook/Chef**:
 
-- **Avani Dalin** - A native of the empire’s southern provinces, Dalin is known for her culinary skills and pride in Urashalyr cuisine, delighting customers with her unique spice blends.
+- **Avani Dalin**: A native of the empire’s southern provinces, Dalin is known for her culinary skills and pride in Urashalyr cuisine, delighting customers with her unique spice blends.
 
-**Serving Staff:**
+**Serving Staff**:
 
-- **Yassir Chahl** - A lively and friendly server, Yassir is the senior server and eager to introduce patrons to the rich flavors of Urashalyr. With a knack for storytelling, he keeps guests entertained between courses.
+- **Yassir Chahl**: A lively and friendly server, Yassir is the senior server and eager to introduce patrons to the rich flavors of Urashalyr. With a knack for storytelling, he keeps guests entertained between courses.
 
 - **Khalil**: Bartender, quick-witted, brings a sense of humor to the tavern
 
