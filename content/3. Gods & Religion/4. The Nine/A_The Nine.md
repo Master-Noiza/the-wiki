@@ -1,5 +1,5 @@
 ---
-{"title":"-The Nine","draft":false,"tags":null,"publish":true,"name":"The Nine","path":"3. Gods & Religion/4. The Nine/A_The Nine.md","permalink":"/3-gods-and-religion/4-the-nine/a-the-nine/","PassFrontmatter":true}
+{"title":"The Nine","draft":false,"tags":null,"publish":true,"name":"The Nine","path":"3. Gods & Religion/4. The Nine/A_The Nine.md","permalink":"/3-gods-and-religion/4-the-nine/a-the-nine/","PassFrontmatter":true}
 ---
 
 # The Nine

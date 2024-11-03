@@ -1,5 +1,5 @@
 ---
-{"title":"-The Shattered Queen","draft":false,"tags":null,"publish":true,"name":"The Shattered Queen","aliases":"The Gazer of Stars, <br>The Fragmented Weaver","organisations":"The Celestial Order","rank":"Major","symbol":"A broken mirror","portfolio":"Destiny, <br>Knowledge, <br>Fragmentation, <br>Dream & Nightmares, <br>Storms","followers":"","relations":"","path":"3. Gods & Religion/4. The Nine/E_The Shattered Queen.md","permalink":"/3-gods-and-religion/4-the-nine/e-the-shattered-queen/","PassFrontmatter":true}
+{"title":"The Shattered Queen","draft":false,"tags":null,"publish":true,"name":"The Shattered Queen","aliases":"The Gazer of Stars, <br>The Fragmented Weaver","organisations":"The Celestial Order","rank":"Major","symbol":"A broken mirror","portfolio":"Destiny, <br>Knowledge, <br>Fragmentation, <br>Dream & Nightmares, <br>Storms","followers":"","relations":"","path":"3. Gods & Religion/4. The Nine/E_The Shattered Queen.md","permalink":"/3-gods-and-religion/4-the-nine/e-the-shattered-queen/","PassFrontmatter":true}
 ---
 
 # The Shattered Queen
