@@ -33,7 +33,7 @@
 > | **Economy** | Regulated |
 > | **Defence** | City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes |
 > | **Magic** | Heavily Regulated |
-> | **Primary Religions** | [The Nine](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md), <br>[The Burning Judge](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/7.%20The%20Burning%20Judge.md),<br>[The Silent King](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/3.%20The%20Silent%20King.md) |
+> | **Primary Religions** | [The Nine](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/A_The%20Nine.md), <br>[The Burning Judge](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/G_The%20Burning%20Judge.md),<br>[The Silent King](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/C_The%20Silent%20King.md) |
 
 > [!quote|author clean] *"When they came, they came with shining steel and promises of peace. They left with Arkhold's coin and sons, but the north is ours yet. What the Empire forgets, Arkhold remembers."*
 > Elara of the Council of Nine, Reflections on the Northern Wars
@@ -62,7 +62,7 @@ Despite all this: Arkhold still stands firm, seeing itself as the rightful ruler
 
 ## Governance:
 
-Arkhold has been traditionally governed by the *Circle of the Nine*, a ruling Council consisting of the High Priests of [The Nine](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md). Its power was absolute and its decicions where steared by god-fearing and the advise of leading members of Arkhold's society.
+Arkhold has been traditionally governed by the *Circle of the Nine*, a ruling Council consisting of the High Priests of [The Nine](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/A_The%20Nine.md). Its power was absolute and its decicions where steared by god-fearing and the advise of leading members of Arkhold's society.
 
 Having been both an independent city-state and leader of the most powerful federation in the north, the social elite of Arkhold holds no love for the urashalyri invaders.
 
