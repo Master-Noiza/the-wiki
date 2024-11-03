@@ -49,12 +49,14 @@ A mighty, yet small and secluded fortress city in the northern expanse.
 
 Arkhold used to be the capital of *Suth Ka'al*, the northernmost [Mokhalyr](../../4.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md) city-state and leader of the *Skybound Holds*, a federation of the most significant city-states in the north.
 
+The current walls and buildings of Arkhold where build on the ancient ruins of *Zhar-Kaith*, the ancient Jewel of the north, a monkhalyri city of old, swallowed by time millenia ago.
+
 Less than a century ago the [Urashalyr](../../4.%20The%20Races/6.%20The%20Urashalyr/1.%20Lore) Empire crossed the *Narrow Sea* and swallowed these lands.
 Despite nominally belonging to the Empire now, the northern expanse is too far removed from the empire's center and too insignificant to warrant a sufficient military presence.
 
-Arkhold still stands firm, seeing itself as the rightful ruler of these lands.
+In essence, *Arhold* was mostly allowed to keep its identity and remain self governed. Yet the annual *Imperial Tithe* is a heavy strain on the Economy and imperial representatives are watching developments closely.
 
-The current walls and buildings of Arkhold where build on the ancient ruins of *Zhar-Kaith*, the ancient Jewel of the north, a monkhalyri city of old, swallowed by time millenia ago.
+Despite all this: Arkhold still stands firm, seeing itself as the rightful ruler of these lands.
 
 <br>
 

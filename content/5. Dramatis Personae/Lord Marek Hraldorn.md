@@ -52,7 +52,11 @@
 
 ## Basic Information:
 
-Short, distinctive description
+Lord Marek Hraldorn has been the Commander of [Arkhold's](../2.%20Atlas/1.%20Settlements/Arkhold.md) City Watch and Elite Military Force, *The Black Guard* for over two decades. He is a decorated Veteran of many border skirmishes but is yet to prove his worth in a real war scenario. 
+
+Lord Hraldorn is known as a zealous follower of the [the Burning Judge](../3.%20Gods%20&%20Religion/4.%20The%20Nine/7.%20The%20Burning%20Judge.md) and a stern traditionalist, longing to bring *Arkhold* back to its former glory and, keeping in line with the *Judge's* teachings, bringing justice to those that humiliated his home.
+
+Lately there are increasingly damning rumours about his growing ambition and influence, some even whispering of open rebellion and a reach for power.
 
 <br>
 

@@ -7,4 +7,4 @@
 
 Ancient Ruins of a giant Fortress City, also known as the *Jewel of the North*.
 
-Zhar-Kaith has long since been swallowed by time, having been destroyed during the Calamity
+Zhar-Kaith has long since been swallowed by time, having been destroyed during the *Convergence*
