@@ -21,7 +21,7 @@
 > | **Location** | [The Northern Expanse](../2.%20Nations%20&%20Areas/The%20Northern%20Expanse.md) |
 > | **Nation** | [Urashalyri Empire](../../4.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md) (Nominally), <br>Self Governed |
 > | **Population** | 10000 |
-> | **Inhabitants** | [Monkhalyr](../../4.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md), <br>[Markhalyr](../../4.%20The%20Races/3.%20The%20Markhalyr/1.%20Lore.md) |
+> | **Inhabitants** | [Monkhalyr](../../4.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md), <br>[Markhalyr](../../4.%20The%20Races/3.%20The%20Markhalyr/1.%20Lore.md),<br>[Urashalyr](../../4.%20The%20Races/6.%20The%20Urashalyr/1.%20Lore.md) |
 > | **Condition** | Declining |
 > | **Governance** | Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial) |
 > | **Leaders** | Lord Commander (Informal), <br>The Circle of the Nine (Formal) |
