@@ -120,11 +120,12 @@
 - **Hot Bath:** 15 silver (wooden tub, scented oils)
 
 **Tobacco:**
-- Plain Tobacco: Price per 1/4 pound
-- Spiced Tobacco: Price per 1/4 pound
+- Plain Tobacco: 6 Silver per 1/4 pound
+- Spiced Tobacco: 12 Silver per 1/4 pound
 
 **Specialty Offering:**
 - **Incense from the Urashalyr heartlands**: Unique blend for meditation, 15 silver per mixture
+
 - **Wrestling Circle:** Free entry, with a prize of 50 silver for the winner
   - The tavern hosts a weekly wrestling competition in a designated circle in the main area. Participants of all skill levels are welcome to compete in friendly matches that celebrate traditional Urashalyr strength and technique. Spectators can cheer on their favorites while enjoying food and drink specials during the event.
 
