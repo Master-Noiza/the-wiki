@@ -35,8 +35,6 @@
 > | **Primary Religions** | The Weeping One,<br>The Gilded Magnate,<br>The Burning Judge |
 > 
 
-<br>
-
 > [!quote|author clean] *"The trees creep closer by the year, and the shadows are watching."*
 > Melisandre the Apothecary, over a mug of warm ale, in the Northern Pride Inn
 

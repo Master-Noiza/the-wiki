@@ -24,8 +24,6 @@
 > | **Status** | In Operation |
 > | **Legality** | Official |
 
-<br>
-
 >[!quote| author clean] *"It’s a place of comfort for our kind, here at the far edge of the empire. A sip of home."*
 >K’halan Muralok, Owner, in conversation with a visitor
 
