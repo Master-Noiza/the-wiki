@@ -85,7 +85,7 @@ Whatever the case may be, these gods are the "young" ones, the ones which wrestl
 - Symbol: A broken coin, one side golden, one side rusted.
 
 ---
-## [J_The Herald of Change](J_The%20Herald%20of%20Change.md)
+## [The Herald of Change](J_The%20Herald%20of%20Change.md)
 - Goddess of Healing, defiance, mutation, evolution, growth, undeath, fluidity, invention, unpredictability, oceans, rivers, tides.
 
 - The Herald of Change embodies the ceaseless motion, change, and transformation of existence. Nothing is eternal and everything is in flux. All plans and goals are at the whim of the waves. Nothing is set in stone, not destiny, not even death itself.

@@ -35,7 +35,7 @@
 > | **Magic** | Heavily Regulated |
 > | **Primary Religions** | [The Nine](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/A_The%20Nine.md), <br>[The Burning Judge](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/G_The%20Burning%20Judge.md),<br>[The Silent King](../../3.%20Gods%20&%20Religion/4.%20The%20Nine/C_The%20Silent%20King.md) |
 
-> [!quote|author clean] *"When they came, they came with shining steel and promises of peace. They left with Arkhold's coin and sons, but the north is ours yet. What the Empire forgets, Arkhold remembers."*
+> [!quote|author clean] *"When they came, they came with shining steel and promises of peace. They left with Arkhold's coin and sons. But the north is ours yet. What the Empire forgets, Arkhold remembers."*
 > Elara of the Council of Nine, Reflections on the Northern Wars
 
 > [!quote|author clean] *"The north is cold and cruel, and it’s easy to lose faith. But in Arkhold, with the Nine as our witness, we are as much stone as the walls we defend."*
@@ -77,7 +77,7 @@ This precarious balance is in danger, as the *Lord Commander* of the *Black Guar
 
 Arkhold, having long been the strongest political and military force, has long standing relations in the noth. Some of the *Skyward Holds* remain independent to this day and Arkhold still holds significant influence on their political decisions.
 
-[The Markhalyr](../../4.%20The%20Races/3.%20The%20Markhalyr/1.%20Lore.md)] of *Suth Ka'al*, although heavily declining and a shadow of their former power, once where honored allies and are responsible for the impressive defenses of the city.
+[The Markhalyr](../../4.%20The%20Races/3.%20The%20Markhalyr/1.%20Lore.md) of *Suth Ka'al*, although heavily declining and a shadow of their former power, once where honored allies and are responsible for the impressive defenses of the city.
 
 <br>
 
