@@ -45,7 +45,9 @@
 
 ## Basic Information:
 
-Basic decription, summary and highlighting of details of note
+A humble, yet vastly important Village in the outskirts of [Arkhold's](Arkhold.md) immediate realm of influence.
+
+Respite is 
 
 <br>
 
