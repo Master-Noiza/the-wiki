@@ -1,5 +1,5 @@
 ---
-{"title":"The Northern Expanse","draft":false,"tags":null,"publish":true,"name":"The Northern Expanse","aliases":"Suth Ka'al","type":"Imperial Territory (official), <br> Self Governed (inofficial)","system":"Imperial Territory (official), <br> Self Governed (formally)","ruler":"High Empress of the Urashalyri Empire (official), <br>Lord Marek Hraldorn (inofficial)","capital":"Arkhold","cities":"Beacon, <br>Respite","places_of_note":"Ruins of Zhar-Kaith, <br>The Boiling Ponds","religions":"The Nine, <br>The Burning Judge, The One (Imperial)","traits":"Defiance, God-fearing, Loyality","races":null,"relations":null,"organizations":null,"commerce":null,"defence":null,"path":"2. Atlas/2. Nations & Areas/The Northern Expanse.md","permalink":"/2-atlas/2-nations-and-areas/the-northern-expanse/","PassFrontmatter":true}
+{"title":"The Northern Expanse","draft":false,"tags":null,"publish":true,"name":"The Northern Expanse","aliases":"Suth Ka'al","type":"Imperial Territory (official), <br> Self Governed (inofficial)","system":"Imperial Territory (official), <br> Self Governed (formally)","ruler":"High Empress of the Urashalyri Empire (official), <br>Lord Marek Hraldorn (inofficial)","capital":"Arkhold","cities":"Arkhold,<br>Beacon,<br>Respite","places_of_note":"Ruins of Zhar-Kaith, <br>The Boiling Ponds","religions":"The Nine, <br>The Burning Judge, The One (Imperial)","traits":"Defiance, God-fearing, Loyality","races":null,"relations":null,"organizations":null,"commerce":null,"defence":null,"path":"2. Atlas/2. Nations & Areas/The Northern Expanse.md","permalink":"/2-atlas/2-nations-and-areas/the-northern-expanse/","PassFrontmatter":true}
 ---
 
 # The Northern Expanse
@@ -20,7 +20,7 @@
 > | **Governing<br>System** | Imperial Territory (official), <br> Self Governed (formally) |
 > | **Ruler** | High Empress of the Urashalyri Empire (official), <br>Lord Marek Hraldorn (inofficial) |
 > | **Capital** | Arkhold |
-> | **Important<br>Cities** | Beacon, <br>Respite |
+> | **Important<br>Cities** | Arkhold,<br>Beacon,<br>Respite |
 > | **Places of Note** | Ruins of Zhar-Kaith, <br>The Boiling Ponds |
 > | **Major<br>Religions** | The Nine, <br>The Burning Judge, The One (Imperial) |
 > | **Renowned<br>Traits** | Defiance, God-fearing, Loyality |

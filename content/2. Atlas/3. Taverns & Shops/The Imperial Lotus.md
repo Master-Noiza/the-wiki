@@ -1,5 +1,5 @@
 ---
-{"title":"The Imperial Lotus","draft":false,"tags":null,"publish":true,"name":"The Imperial Lotus","aliases":"The Heartlands Warmth","quality":"Average, with limited offerings but unique Urashalyr imports","location":"Arkhold, Northern Expanse, Outskirts of the main market square","owner":"K’halan Muralok, a retired Urashalyr military captain","staff":"Khalil (bartender),<br>Avani Dalin (cook),<br>Yassir Chahl (chief server),<br>Khalil (bartender)","patrons":"Primarily Urashalyr imigrants, officials and travelers; a few curious locals","status":"In Operation","legality":"Official","path":"2. Atlas/3. Taverns & Shops/The Imperial Lotus.md","permalink":"/2-atlas/3-taverns-and-shops/the-imperial-lotus/","PassFrontmatter":true}
+{"title":"The Imperial Lotus","draft":false,"tags":null,"publish":true,"name":"The Imperial Lotus","aliases":"The Heartlands Warmth","quality":"Average, with limited offerings but unique Urashalyr imports","location":"Outskirts of the main market square","owner":"K’halan Muralok, a retired Urashalyr military captain","staff":"Khalil (bartender),<br>Avani Dalin (cook),<br>Yassir Chahl (chief server),<br>Khalil (bartender)","patrons":"Primarily Urashalyr imigrants, officials and travelers; a few curious locals","status":"In Operation","legality":"Official","path":"2. Atlas/3. Taverns & Shops/The Imperial Lotus.md","permalink":"/2-atlas/3-taverns-and-shops/the-imperial-lotus/","PassFrontmatter":true}
 ---
 
 # The Imperial Lotus
@@ -17,7 +17,7 @@
 > | ---- | ---- |
 > | **Aliases** | The Heartlands Warmth |
 > | **Quality** | Average, with limited offerings but unique Urashalyr imports |
-> | **Location** | Arkhold, Northern Expanse, Outskirts of the main market square |
+> | **Location** |[The Northern Expanse](../2.%20Nations%20&%20Areas/The%20Northern%20Expanse.md),<br>[Arkhold](../1.%20Settlements/Arkhold.md),<br>Outskirts of the main market square |
 > | **Owner** | K’halan Muralok, a retired Urashalyr military captain |
 > | **Staff** | Khalil (bartender),<br>Avani Dalin (cook),<br>Yassir Chahl (chief server),<br>Khalil (bartender) |
 > | **Patrons** | Primarily Urashalyr imigrants, officials and travelers; a few curious locals |
