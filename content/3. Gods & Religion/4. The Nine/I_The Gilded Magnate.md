@@ -1,5 +1,5 @@
 ---
-{"title":"The Gilded Magnate","draft":false,"tags":null,"publish":true,"name":"The Gilded Magnate","aliases":"The Golden King","organisations":"","rank":"Major","symbol":"","portfolio":"Civilisation, <br>Ambition, <br>Greed, <br>Debt, <br>Wealth, <br>Ruin","followers":"Merchants, <br>Leaders, <br>Nobility, <br>Beggars","relations":"","path":"3. Gods & Religion/4. The Nine/I_The Gilded Magnate.md","permalink":"/3-gods-and-religion/4-the-nine/i-the-gilded-magnate/","PassFrontmatter":true}
+{"title":"The Gilded Magnate","draft":false,"tags":null,"publish":true,"name":"The Gilded Magnate","aliases":"The Golden King","organisations":"","rank":"Major","symbol":"","portfolio":"Civilisation, <br>Ambition, <br>Greed, <br>Debt, <br>Wealth, <br>Ruin","followers":"Merchants, <br>Leaders, <br>Nobility, <br>Beggars","relations":"","PassFrontmatter":true}
 ---
 
 # The Gilded Magnate

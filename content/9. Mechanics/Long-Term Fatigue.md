@@ -1,5 +1,5 @@
 ---
-{"title":"Long-Term Fatigue","draft":false,"tags":[null],"publish":true,"path":"9. Mechanics/Long-Term Fatigue.md","permalink":"/9-mechanics/long-term-fatigue/","PassFrontmatter":true}
+{"title":"Long-Term Fatigue","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
 ---
 
 # Long-Term Fatigue:

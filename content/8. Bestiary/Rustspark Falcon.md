@@ -33,14 +33,16 @@
 > Scholar Yorran Vehr, *Treatise on Essence Influenced Wildlife*, 271 UE
 
 > [!quote| author clean] *"Many a hunter has been startled by the blinding burst of light, only to watch the falcon rematerialize in a rust-colored gleam and clutch its prey with an elegance unmatched."*
-> Alyen Laresh, field tracker, recounting a hunt, 973 UE
+> Alyen Laresh, field tracker, at her camp in the eastern steppe, 973 UE
 
 <br>
 
 ## Basic Information:
 The Rustspark Falcon is an avian predator known for its unique adaptations that suggest influence from the Mirror's essence. It earned its name from the striking rust-colored flashes of light it produces while teleporting short distances. These abilities make it an elusive and formidable hunter, specializing in capturing other birds mid-flight.
 
-The falcon primarily inhabits open landscapes such as grasslands, plains, and the foothills of mountain ranges, where it can exploit its full aerial prowess. While generally solitary, its sightings often spark fascination and caution among those familiar with its traits.
+These falcons are known to disorient their prey mid-flight, allowing them to strike with lethal accuracy in the chaos of their reappearance.
+
+The falcon primarily inhabits open, expansive landscapes such as grasslands, plains, and the foothills of mountain ranges, where it can exploit its full aerial prowess. While generally solitary, its sightings often spark fascination and caution among those familiar with its traits.
 
 **Usage:** Primarily studied by scholars for understanding the potential impacts of Mirror essence on wildlife evolution, the Rustspark Falcon's feathers are also valued for ornamental and ceremonial purposes. These feathers are believed to retain traces of essence energy, glowing faintly when held to the light.
 <br>

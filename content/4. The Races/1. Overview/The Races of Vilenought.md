@@ -1,5 +1,5 @@
 ---
-{"title":"The Races of Vilenought","draft":false,"tags":[null],"publish":true,"path":"4. The Races/1. Overview/The Races of Vilenought.md","permalink":"/4-the-races/1-overview/the-races-of-vilenought/","PassFrontmatter":true}
+{"title":"The Races of Vilenought","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
 ---
 
 # The Races of Vilenought

@@ -1,5 +1,5 @@
 ---
-{"title":"The World of Vilenought","draft":false,"tags":null,"publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true}
+{"title":"The World of Vilenought","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
 ---
 
 ![Banner.webp| banner p+cct](Banner.webp)
@@ -49,16 +49,16 @@
 >>   - [The Creator](3.%20Gods%20&%20Religion/3.%20The%20Trinity/2.%20The%20Creator.md)
 >>   - [The Preserver](3.%20Gods%20&%20Religion/3.%20The%20Trinity/3.%20The%20Preserver.md)
 >>   - [The Destroyer](3.%20Gods%20&%20Religion/3.%20The%20Trinity/4.%20The%20Destroyer.md)
->> - [The Nine](3.%20Gods%20&%20Religion/4.%20The%20Nine/1.%20The%20Nine.md)
->>   - [She Who Weeps](3.%20Gods%20&%20Religion/4.%20The%20Nine/2.%20She%20Who%20Weeps.md)
->>   - [The Silent King](3.%20Gods%20&%20Religion/4.%20The%20Nine/3.%20The%20Silent%20King.md)
->>   - [The Bound One](3.%20Gods%20&%20Religion/4.%20The%20Nine/4.%20The%20Bound%20One.md)
->>   - [The Shattered Queen](3.%20Gods%20&%20Religion/4.%20The%20Nine/5.%20The%20Shattered%20Queen.md)
->>   - [The Warden Of Shadows](3.%20Gods%20&%20Religion/4.%20The%20Nine/6.%20The%20Warden%20Of%20Shadows.md)
->>   - [The Burning Judge](3.%20Gods%20&%20Religion/4.%20The%20Nine/7.%20The%20Burning%20Judge.md)
->>   - [The Passionate Duett](3.%20Gods%20&%20Religion/4.%20The%20Nine/8.%20The%20Passionate%20Duett.md)
->>   - [The Gilded Magnate](3.%20Gods%20&%20Religion/4.%20The%20Nine/9.%20The%20Gilded%20Magnate.md)
->>   - [The Herald of Change](3.%20Gods%20&%20Religion/4.%20The%20Nine/10.%20The%20Herald%20of%20Change.md)
+>> - [The Nine](3.%20Gods%20&%20Religion/4.%20The%20Nine/A_The%20Nine.md)
+>>   - [She Who Weeps](3.%20Gods%20&%20Religion/4.%20The%20Nine/B_She%20Who%20Weeps.md)
+>>   - [The Silent King](3.%20Gods%20&%20Religion/4.%20The%20Nine/C_The%20Silent%20King.md)
+>>   - [The Bound One](3.%20Gods%20&%20Religion/4.%20The%20Nine/D_The%20Bound%20One.md)
+>>   - [The Shattered Queen](3.%20Gods%20&%20Religion/4.%20The%20Nine/E_The%20Shattered%20Queen.md)
+>>   - [The Warden Of Shadows](3.%20Gods%20&%20Religion/4.%20The%20Nine/F_The%20Warden%20Of%20Shadows.md)
+>>   - [The Burning Judge](3.%20Gods%20&%20Religion/4.%20The%20Nine/G_The%20Burning%20Judge.md)
+>>   - [The Passionate Duett](3.%20Gods%20&%20Religion/4.%20The%20Nine/H_The%20Passionate%20Duett.md)
+>>   - [The Gilded Magnate](3.%20Gods%20&%20Religion/4.%20The%20Nine/I_The%20Gilded%20Magnate.md)
+>>   - [J_The Herald of Change](3.%20Gods%20&%20Religion/4.%20The%20Nine/J_The%20Herald%20of%20Change.md)
 >> - [Minor Gods & Aspects](3.%20Gods%20&%20Religion/5.%20Minor%20Gods,%20Spirits%20&%20Aspects/1.%20Minor%20Gods%20&%20Aspects.md)
 >>   - [The Gracious Reflection](3.%20Gods%20&%20Religion/5.%20Minor%20Gods,%20Spirits%20&%20Aspects/2.%20The%20Gracious%20Reflection.md)
 >>   - [The Spiteful Shade](3.%20Gods%20&%20Religion/5.%20Minor%20Gods,%20Spirits%20&%20Aspects/3.%20The%20Spiteful%20Shade.md)
@@ -99,3 +99,13 @@ The world is a grim, perilous place, filled with the scars of the Convergence an
 The Veil grows ever thinner. The Mirror's influence spreads. The world teeters on the edge of oblivion, and those who remain struggle to survive, ever haunted by the echoes of their past mistakes and the looming darkness of their future.
 
 ---
+
+| Title | Pantheon |
+| ----- | -------- |
+
+---
+
+```dataview
+TABLE WITHOUT ID link(title, name) as Title, pantheon AS Pantheon
+FROM "3. Gods & Religion/4. The Nine"
+Sort desc

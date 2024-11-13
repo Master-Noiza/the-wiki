@@ -1,5 +1,5 @@
 ---
-{"title":"Tables","draft":false,"tags":[null],"publish":true,"path":"9. Mechanics/Tables.md","permalink":"/9-mechanics/tables/","PassFrontmatter":true}
+{"title":"Tables","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
 ---
 
 ## Spell/Rune Crafting Side-Effects Tables:

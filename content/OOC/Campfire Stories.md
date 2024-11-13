@@ -1,5 +1,5 @@
 ---
-{"title":"Campfire Stories","draft":false,"tags":[null],"publish":true,"path":"OOC/Campfire Stories.md","permalink":"/ooc/campfire-stories/","PassFrontmatter":true}
+{"title":"Campfire Stories","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
 ---
 
 # The Campfire Stories:

@@ -1,5 +1,5 @@
 ---
-{"title":"Traits","draft":false,"tags":[null],"publish":true,"path":"9. Mechanics/Traits.md","permalink":"/9-mechanics/traits/","PassFrontmatter":true}
+{"title":"Traits","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
 ---
 
 # New  and important Traits:

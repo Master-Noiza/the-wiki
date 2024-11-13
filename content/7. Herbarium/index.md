@@ -1,3 +1,3 @@
 ---
-{"title":"Herbarium","draft":false,"tags":[null],"publish":true,"path":"7. Herbarium/index.md","permalink":"/7-herbarium/index/","PassFrontmatter":true}
+{"title":"Herbarium","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
 ---

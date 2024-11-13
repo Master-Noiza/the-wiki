@@ -1,5 +1,5 @@
 ---
-{"title":"The Boiling Ponds","draft":false,"tags":null,"publish":true,"name":"The Boiling Ponds","aliases":"","type":"Geyser Field,<br>Hot Springs","location":"The Northern Expanse","inhabitants":"Anthalyr","path":"2. Atlas/Locations/The Boiling Ponds.md","permalink":"/2-atlas/locations/the-boiling-ponds/","PassFrontmatter":true}
+{"title":"The Boiling Ponds","draft":false,"tags":null,"publish":true,"name":"The Boiling Ponds","aliases":"","type":"Geyser Field,<br>Hot Springs","location":"The Northern Expanse","inhabitants":"Anthalyr","PassFrontmatter":true}
 ---
 
 # The Boiling Ponds

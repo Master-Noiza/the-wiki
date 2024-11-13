@@ -1,5 +1,5 @@
 ---
-{"title":"The Burning Hammer","draft":false,"tags":[null],"publish":true,"path":"6. Organizations/The Burning Hammer.md","permalink":"/6-organizations/the-burning-hammer/","PassFrontmatter":true}
+{"title":"The Burning Hammer","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
 ---
 
 

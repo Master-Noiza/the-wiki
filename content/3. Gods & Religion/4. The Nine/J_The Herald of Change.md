@@ -1,5 +1,5 @@
 ---
-{"title":"The Herald of Change","draft":false,"tags":null,"publish":true,"name":"The Herald of Change","aliases":"The Shifting Tide","organisations":"","rank":"Major","symbol":"","portfolio":"Healing, <br>Defiance, <br>Mutation, <br>Change, <br>Evolution, <br>Growth, <br>Fluidity","followers":"Inventors, <br> Healers, <br> The Sick & Wounded, <br> Weavers","relations":"","path":"3. Gods & Religion/4. The Nine/J_The Herald of Change.md","permalink":"/3-gods-and-religion/4-the-nine/j-the-herald-of-change/","PassFrontmatter":true}
+{"title":"The Herald of Change","draft":false,"tags":null,"publish":true,"name":"The Herald of Change","aliases":"The Shifting Tide","organisations":"","rank":"Major","symbol":"","portfolio":"Healing, <br>Defiance, <br>Mutation, <br>Change, <br>Evolution, <br>Growth, <br>Fluidity","followers":"Inventors, <br> Healers, <br> The Sick & Wounded, <br> Weavers","relations":"","PassFrontmatter":true}
 ---
 
 # The Herald of Change

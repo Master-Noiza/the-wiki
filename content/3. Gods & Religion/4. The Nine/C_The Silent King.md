@@ -1,5 +1,5 @@
 ---
-{"title":"The Silent King","draft":false,"tags":null,"publish":true,"name":"The Silent King","aliases":"The Mute Father,<br>The Silence,<br>The End","organisations":"The Whisper","rank":"Major","symbol":"A moonlit, silent lake, covered in mist","portfolio":"Emptiness,<br>Order,<br>Silence,<br>Peace,<br>Final Rest,<br>Infinity,<br>The Stillness of Death,<br>Sleep,<br>Untouched Nature,<br>Natural Order","followers":"","relations":"She Who Weeps (Ally)","path":"3. Gods & Religion/4. The Nine/C_The Silent King.md","permalink":"/3-gods-and-religion/4-the-nine/c-the-silent-king/","PassFrontmatter":true}
+{"title":"The Silent King","draft":false,"tags":null,"publish":true,"name":"The Silent King","aliases":"The Mute Father,<br>The Silence,<br>The End","organisations":"The Whisper","rank":"Major","symbol":"A moonlit, silent lake, covered in mist","portfolio":"Emptiness,<br>Order,<br>Silence,<br>Peace,<br>Final Rest,<br>Infinity,<br>The Stillness of Death,<br>Sleep,<br>Untouched Nature,<br>Natural Order","followers":"","relations":"She Who Weeps (Ally)","PassFrontmatter":true}
 ---
 
 # The Silent King

@@ -1,5 +1,5 @@
 ---
-{"title":"General Rules & Specifics","draft":false,"tags":[null],"publish":true,"path":"9. Mechanics/General Rules & Specifics.md","permalink":"/9-mechanics/general-rules-and-specifics/","PassFrontmatter":true}
+{"title":"General Rules & Specifics","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
 ---
 
 ## Setting specific Rules:

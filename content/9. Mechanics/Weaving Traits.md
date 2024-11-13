@@ -1,5 +1,5 @@
 ---
-{"title":"Weaving Traits","draft":false,"tags":null,"publish":true,"path":"9. Mechanics/Weaving Traits.md","permalink":"/9-mechanics/weaving-traits/","PassFrontmatter":true}
+{"title":"Weaving Traits","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
 ---
 
 # Weaving related Traits:

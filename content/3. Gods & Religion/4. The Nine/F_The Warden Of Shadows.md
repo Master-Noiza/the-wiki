@@ -1,5 +1,5 @@
 ---
-{"title":"The Warden Of Shadows","draft":false,"tags":null,"publish":true,"name":"The Warden Of Shadows","aliases":"The Keeper of Secrets","organisations":"","rank":"Major","symbol":"","portfolio":"Secrets, <br>Deception, <br>Lies, <br>Treachery, <br>Illusions, <br>Trickery","followers":"","relations":"","path":"3. Gods & Religion/4. The Nine/F_The Warden Of Shadows.md","permalink":"/3-gods-and-religion/4-the-nine/f-the-warden-of-shadows/","PassFrontmatter":true}
+{"title":"The Warden Of Shadows","draft":false,"tags":null,"publish":true,"name":"The Warden Of Shadows","aliases":"The Keeper of Secrets","organisations":"","rank":"Major","symbol":"","portfolio":"Secrets, <br>Deception, <br>Lies, <br>Treachery, <br>Illusions, <br>Trickery","followers":"","relations":"","PassFrontmatter":true}
 ---
 
 # The Warden Of Shadows

@@ -1,5 +1,5 @@
 ---
-{"title":"She Who Weeps","draft":false,"tags":null,"publish":true,"name":"She Who Weeps","aliases":"The Weeping One, <br>Ghyrush'leth, <br>Lady Of Nurture, <br>The Mother of Sorrow","aspects":"The Overgrown Heart","aspect_of":"The One","organisations":"The Mourning","rank":"Major","symbol":"Folded Hands, holding a Tear-shaped Amulet","portfolio":"Sorrow, <br>Pain, <br>Despair, <br>Hopelessness, <br>Loss, <br>Compassion, <br>Love, <br>Agriculture, <br>Fertility","followers":"Farmers,<br>Peasants,<br>","relations":null,"pantheon":"The Nine","path":"3. Gods & Religion/4. The Nine/B_She Who Weeps.md","permalink":"/3-gods-and-religion/4-the-nine/b-she-who-weeps/","PassFrontmatter":true}
+{"title":"She Who Weeps","draft":false,"tags":null,"publish":true,"name":"She Who Weeps","aliases":"The Weeping One, <br>Ghyrush'leth, <br>Lady Of Nurture, <br>The Mother of Sorrow","aspects":"The Overgrown Heart","aspect_of":"The One","organisations":"The Mourning","rank":"Major","symbol":"Folded Hands, holding a Tear-shaped Amulet","portfolio":"Sorrow, <br>Pain, <br>Despair, <br>Hopelessness, <br>Loss, <br>Compassion, <br>Love, <br>Agriculture, <br>Fertility","followers":"Farmers,<br>Peasants,<br>","relations":null,"pantheon":"The Nine","PassFrontmatter":true}
 ---
 
 # Ghyrush'leth - She Who Weeps

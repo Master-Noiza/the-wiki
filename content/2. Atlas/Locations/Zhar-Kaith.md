@@ -1,5 +1,5 @@
 ---
-{"title":"Zhar-Kaith","draft":false,"tags":null,"publish":true,"path":"2. Atlas/Locations/Zhar-Kaith.md","permalink":"/2-atlas/locations/zhar-kaith/","PassFrontmatter":true}
+{"title":"Zhar-Kaith","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
 ---
 
 # The Ruins of Zhar-Kaith
