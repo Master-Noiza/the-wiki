@@ -38,7 +38,7 @@
 <br>
 
 ## Basic Information:
-The *Glimmerwing Sparrow* is a small bird adapted to life in open landscapes such as grasslands and plains, where it has evolved unique defensive mechanisms to survive predation by the [Rustspark Falcon](8.%20Bestiary/Rustspark%20Falcon.md). These birds are known for their iridescent wings that reflect sunlight in dazzling patterns, confusing predators and making targeting difficult. They live in flocks that operate as a single, cohesive unit during flight, enhancing their collective chances of survival.
+The *Glimmerwing Sparrow* is a small bird adapted to life in open landscapes such as grasslands and plains, where it has evolved unique defensive mechanisms to survive predation by the [[8. Bestiary/Rustspark Falcon\|Rustspark Falcon]]. These birds are known for their iridescent wings that reflect sunlight in dazzling patterns, confusing predators and making targeting difficult. They live in flocks that operate as a single, cohesive unit during flight, enhancing their collective chances of survival.
 <br>
 
 **Reflective Wings:**
