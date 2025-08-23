@@ -10,7 +10,7 @@
 > 
 > ## **The Northern Pride Inn**
 > 
-> ![[Plant_Placeholder1.webp]]
+> ![[z_Assets/Plant_Placeholder1.webp]]
 > 
 > ## - Facts -
 > |  |  |
