@@ -10,7 +10,7 @@
 > 
 > ## **The Northern Expanse**
 > 
->![[castle.webp]]
+>![[castle.webp]]![[castle.webp]]
 > 
 > ## - Overview -
 > |  |  |
