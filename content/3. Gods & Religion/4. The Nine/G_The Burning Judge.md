@@ -1,5 +1,5 @@
 ---
-{"title":"The Burning Judge","draft":false,"tags":null,"publish":true,"name":"The Burning Judge","aliases":"The Righteous Fury","organisations":"The Flaming Sword","rank":"Major","symbol":"A flaming sword, crossed with a hammer","portfolio":"Justice, <br>Honor, <br>Craftsmanship, <br>Purity, <br>Fire, <br>Wrath, <br>Vengeance","followers":"Artisans, <br>Judges, <br>Politicians, <br>Miners","relations":"","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e R i g h t e o u s F u r y","title":"The Burning Judge","cssclasses":""}
 ---
 
 # The Burning Judge
@@ -10,7 +10,7 @@
 > 
 > ## **The Burning Judge**
 > 
-> ![../../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
+> ![[NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |

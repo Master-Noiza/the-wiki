@@ -1,3 +1,3 @@
 ---
-{"title":"The Markhalyr","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"The Markhalyr","cssclasses":""}
 ---

@@ -1,5 +1,5 @@
 ---
-{"title":"The Warden Of Shadows","draft":false,"tags":null,"publish":true,"name":"The Warden Of Shadows","aliases":"The Keeper of Secrets","organisations":"","rank":"Major","symbol":"","portfolio":"Secrets, <br>Deception, <br>Lies, <br>Treachery, <br>Illusions, <br>Trickery","followers":"","relations":"","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e K e e p e r o f S e c r e t s","title":"The Warden Of Shadows","cssclasses":""}
 ---
 
 # The Warden Of Shadows
@@ -10,7 +10,7 @@
 > 
 > ## **The Warden Of Shadows**
 > 
-> ![../../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
+> ![[NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |

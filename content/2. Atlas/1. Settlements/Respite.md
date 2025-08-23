@@ -1,5 +1,5 @@
 ---
-{"title":"Respite","draft":false,"tags":null,"publish":true,"name":"Respite","aliases":"","category":"Village","usage":"Agricultural Hub,<br>Shelter","location":"The Northern Expanse,<br>Near Arkhold,<br>Northern Urashalyr Satrapy","nation":"Urashalyr Empire (Officially)","population":"ca 250","inhabitants":"Mostly Mokhalyr,<br>Farmers,<br>Peasants,<br>Tradespeople","condition":"Declining","governance":"Federal Empire","leaders":"Empress","seat_of_power":"Town Hall","relations":"Arkhold (Ally),<br>Urashalyr Empire (Tensions),<br>The Skybound Holds (Ally)","organizations":"Farmers Coalition","people":"Mayor Jareth Milkho,<br>Lieutenant Mika Oresh","places":"City Hall,<br>Temple of the Weeping Mother,<br>Shrine of the Stranger,<br>Shrine of the Gilded Magnate,<br>The Northern Pride Inn","commerce":"Regulated","defence":"Pallisade,<br>Watchtowers,<br>Town Watch","religions":"The Weeping One,<br>The Gilded Magnate,<br>The Burning Judge","PassFrontmatter":true}
+{"publish":true,"title":"Respite","cssclasses":""}
 ---
 
 # Respite
@@ -10,7 +10,7 @@
 > 
 > ## **Respite**
 > 
->![Respite.webp](../../Respite.webp)
+>![[Respite.webp]]
 > 
 > ## - Overview -
 > |  |  |

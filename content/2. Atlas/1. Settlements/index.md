@@ -1,3 +1,3 @@
 ---
-{"title":"Settlements","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Settlements","tags":[null],"cssclasses":""}
 ---

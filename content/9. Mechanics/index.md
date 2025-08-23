@@ -1,3 +1,3 @@
 ---
-{"title":"Mechanics","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Mechanics","tags":[null],"cssclasses":""}
 ---

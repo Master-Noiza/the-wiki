@@ -1,5 +1,5 @@
 ---
-{"title":"Zhar-Kaith","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Zhar-Kaith","cssclasses":""}
 ---
 
 # The Ruins of Zhar-Kaith

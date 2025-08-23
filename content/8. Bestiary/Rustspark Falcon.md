@@ -1,5 +1,5 @@
 ---
-{"title":null,"draft":false,"tags":null,"publish":true,"name":"Rustspark Falcon","aliases":"Blinking Falcon","category":"Animal","rarity":"Uncommon (-4)","size":"Small to Medium","habitat":"Grasslands,<br>Plains,<br>Foothills,<br>Mountains","social":"Solitary","intellect":"Low to Average","speech":"No","diet":"Avivore","behavior":"Frightful","origin":"Natural,<br>Essence Influenced","traits":"Light Flash,<br>Short-Distance Teleportation","PassFrontmatter":true}
+{"publish":true,"aliases":"B l i n k i n g F a l c o n","cssclasses":""}
 ---
 
 # Rustspark Falcon
@@ -9,7 +9,7 @@
 > 
 > ## **Rustspark Falcon**
 > 
-> ![Rustspark_Falcon.webp](../Rustspark_Falcon.webp)
+> ![[Rustspark_Falcon.webp]]
 > 
 > ## - Facts -
 > | Type | Name |

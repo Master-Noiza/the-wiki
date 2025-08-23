@@ -1,3 +1,3 @@
 ---
-{"title":"Bestiary","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Bestiary","tags":[null],"cssclasses":""}
 ---

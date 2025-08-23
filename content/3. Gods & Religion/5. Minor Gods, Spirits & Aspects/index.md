@@ -1,4 +1,4 @@
 ---
-{"publish":true,"draft":false,"title":"Minor Gods, Spirits & Aspects","PassFrontmatter":true}
+{"publish":true,"title":"Minor Gods, Spirits & Aspects","cssclasses":""}
 ---
 

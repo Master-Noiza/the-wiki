@@ -1,5 +1,5 @@
 ---
-{"title":"The Imperial Lotus","draft":false,"tags":null,"publish":true,"name":"The Imperial Lotus","aliases":"The Heartlands Warmth","quality":"Average, with limited offerings but unique Urashalyr imports","location":"Outskirts of the main market square","owner":"K’halan Muralok, a retired Urashalyr military captain","staff":"Khalil (bartender),<br>Avani Dalin (cook),<br>Yassir Chahl (chief server),<br>Khalil (bartender)","patrons":"Primarily Urashalyr imigrants, officials and travelers; a few curious locals","status":"In Operation","legality":"Official","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e H e a r t l a n d s W a r m t h","title":"The Imperial Lotus","cssclasses":""}
 ---
 
 # The Imperial Lotus
@@ -10,7 +10,7 @@
 > 
 > ## **The Imperial Lotus**
 > 
-> ![Imperial_Lotus.webp](../../Imperial_Lotus.webp)
+> ![[Imperial_Lotus.webp]]
 > 
 > ## - Facts -
 > |  |  |

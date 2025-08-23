@@ -1,3 +1,3 @@
 ---
-{"title":"Gods & Religion","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Gods & Religion","tags":[null],"cssclasses":""}
 ---

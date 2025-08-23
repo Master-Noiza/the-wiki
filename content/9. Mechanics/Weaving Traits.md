@@ -1,5 +1,5 @@
 ---
-{"title":"Weaving Traits","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Weaving Traits","cssclasses":""}
 ---
 
 # Weaving related Traits:
@@ -31,7 +31,7 @@
 ---
 ## Untouched
 - [5 pts]
-- Prerequisite for Races other than the [[4. The Races/3. The Markhalyr/2. Mechanics\|Markhalyr]] to buy [[9. Mechanics/Weaving Traits\|Weaving Traits]]Magic Resistance & Reduced Residue Buildup
+- Prerequisite for Races other than the [[4. The Races/3. The Markhalyr/2. Mechanics\|Markhalyr]] to buy [[9. Mechanics/Weaving Traits]]Magic Resistance & Reduced Residue Buildup
 
 ---
 ## Gifted

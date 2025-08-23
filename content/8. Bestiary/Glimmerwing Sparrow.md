@@ -1,5 +1,5 @@
 ---
-{"title":null,"draft":false,"tags":null,"publish":true,"name":"Glimmerwing Sparrow","aliases":"Flickerbird","category":"Animal,<br>Bird","rarity":"Common (-2)","size":"Small","habitat":"Grasslands,<br>Plains,<br>Foothills,<br>Light Forests","social":"Flock","intellect":"Low","speech":"No","diet":"Herbivore,<br>Insectivore","behavior":"Skittish,<br>Coordinated","origin":"Natural,<br>Essence Influenced","traits":"Reflective Wings,<br>Coordinated Flock Evasion","PassFrontmatter":true}
+{"publish":true,"aliases":"F l i c k e r b i r d","cssclasses":""}
 ---
 
 # Glimmerwing Sparrow
@@ -9,7 +9,7 @@
 > 
 > ## **Glimmerwing Sparrow**
 > 
-> ![Glimmering_Sparrow.webp](../Glimmering_Sparrow.webp)
+> ![[Glimmering_Sparrow.webp]]
 > 
 > ## - Facts -
 > | Type | Name |
@@ -38,7 +38,7 @@
 <br>
 
 ## Basic Information:
-The *Glimmerwing Sparrow* is a small bird adapted to life in open landscapes such as grasslands and plains, where it has evolved unique defensive mechanisms to survive predation by the [[8. Bestiary/Rustspark Falcon\|Rustspark Falcon]]. These birds are known for their iridescent wings that reflect sunlight in dazzling patterns, confusing predators and making targeting difficult. They live in flocks that operate as a single, cohesive unit during flight, enhancing their collective chances of survival.
+The *Glimmerwing Sparrow* is a small bird adapted to life in open landscapes such as grasslands and plains, where it has evolved unique defensive mechanisms to survive predation by the [[8. Bestiary/Rustspark Falcon]]. These birds are known for their iridescent wings that reflect sunlight in dazzling patterns, confusing predators and making targeting difficult. They live in flocks that operate as a single, cohesive unit during flight, enhancing their collective chances of survival.
 <br>
 
 **Reflective Wings:**

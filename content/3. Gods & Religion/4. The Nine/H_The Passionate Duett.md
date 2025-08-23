@@ -1,5 +1,5 @@
 ---
-{"title":"The Passionate Duett","draft":false,"tags":null,"publish":true,"name":"The Passionate Duett","aliases":"The Lovers","organisations":"","rank":"Major","symbol":"A rose and a bloody dagger, <br>Two interlocking rings","portfolio":"Passion, <br>Love, <br>Impulses, <br>Jealousy, <br>Resentment, <br>Duality, <br>Contradiction","followers":"Artists, <br>Couples","relations":"","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e L o v e r s","title":"The Passionate Duett","cssclasses":""}
 ---
 
 # The Passionate Duett
@@ -10,7 +10,7 @@
 > 
 > ## **The Passionate Duett**
 > 
-> ![../../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
+> ![[NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |

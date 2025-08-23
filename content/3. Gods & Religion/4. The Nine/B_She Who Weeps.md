@@ -1,15 +1,15 @@
 ---
-{"title":"She Who Weeps","draft":false,"tags":null,"publish":true,"name":"She Who Weeps","aliases":"The Weeping One, <br>Ghyrush'leth, <br>Lady Of Nurture, <br>The Mother of Sorrow","aspects":"The Overgrown Heart","aspect_of":"The One","organisations":"The Mourning","rank":"Major","symbol":"Folded Hands, holding a Tear-shaped Amulet","portfolio":"Sorrow, <br>Pain, <br>Despair, <br>Hopelessness, <br>Loss, <br>Compassion, <br>Love, <br>Agriculture, <br>Fertility","followers":"Farmers,<br>Peasants,<br>","relations":null,"pantheon":"The Nine","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e W e e p i n g O n e < b r > G h y r u s h ' l e t h < b r > L a d y O f N u r t u r e < b r > T h e M o t h e r o f S o r r o w","title":"She Who Weeps","cssclasses":""}
 ---
 
 # Ghyrush'leth - She Who Weeps
-![Divider_1.webp](../../Divider_1.webp)
+![[Divider_1.webp]]
 > [!infobox]
 > 
 > 
 > ## **She Who Weeps**
 > 
-> ![She_Who_Weeps.webp](../../She_Who_Weeps.webp)
+> ![[She_Who_Weeps.webp]]
 > 
 > ## - Facts -
 > | Type | Name |
@@ -58,7 +58,7 @@ Sometimes shadows envelop her form, and she is often surrounded by dark clouds o
 **Holy Animal:**
 - **The Raven**, a creature serving as a messenger between realms, embodying the transition from life to death and symbolizing the weight of sorrow that she carries. Ravens are often seen as companions of She Who Weeps, guiding lost souls through their grief.
 
-![](../../Divider_1.webp)
+![](Divider_1.webp)
 ## Ideals:
 
 **Embrace Sorrow.**

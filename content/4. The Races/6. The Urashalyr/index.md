@@ -1,3 +1,3 @@
 ---
-{"title":"The Urashalyr","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"The Urashalyr","cssclasses":""}
 ---

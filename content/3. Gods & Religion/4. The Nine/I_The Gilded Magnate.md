@@ -1,5 +1,5 @@
 ---
-{"title":"The Gilded Magnate","draft":false,"tags":null,"publish":true,"name":"The Gilded Magnate","aliases":"The Golden King","organisations":"","rank":"Major","symbol":"","portfolio":"Civilisation, <br>Ambition, <br>Greed, <br>Debt, <br>Wealth, <br>Ruin","followers":"Merchants, <br>Leaders, <br>Nobility, <br>Beggars","relations":"","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e G o l d e n K i n g","title":"The Gilded Magnate","cssclasses":""}
 ---
 
 # The Gilded Magnate
@@ -10,7 +10,7 @@
 > 
 > ## **The Gilded Magnate**
 > 
-> ![../../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
+> ![[NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |

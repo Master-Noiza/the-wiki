@@ -1,5 +1,5 @@
 ---
-{"title":"Arkhold","draft":false,"tags":null,"publish":true,"name":"Arkhold","aliases":"The Black Bastion","category":"Fortress City, <br>City-State, <br>Former Capital","usage":"Trade-Hub,<br>Fortress,<br>Defence,<br>Territorial Capital","population":10000,"condition":"Declining","nation":null,"relations":null,"religions":null,"organisations":null,"leader":null,"governance":"Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial)","leaders":"Lord Commander (Informal), <br>The Circle of the Nine (Formal)","places":null,"economy":"Regulated","defence":"City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes","magic":"Heavily Regulated","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e B l a c k B a s t i o n","title":"Arkhold","cssclasses":""}
 ---
 
 # Arkhold
@@ -10,7 +10,7 @@
 > 
 > ## **Arkhold**
 > 
->![castle.webp](../../castle.webp)
+>![[castle.webp]]
 > 
 > ## - Overview -
 > |  |  |
@@ -27,7 +27,7 @@
 > | **Leaders** | Lord Commander (Informal), <br>The Circle of the Nine (Formal) |
 > | **Seat of Power** | The Black Spire |
 > | **Relations** | The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions) |
-> | **Organizations** | [The Burning Hammer](../../6.%20Organizations/The%20Burning%20Hammer.md), <br>[[The Circle of the Nine\|The Circle of the Nine]] |
+> | **Organizations** | [The Burning Hammer](../../6.%20Organizations/The%20Burning%20Hammer.md), <br>[[The Circle of the Nine]] |
 > | **People of Note** | [Lord Marek Hraldorn](../../5.%20Dramatis%20Personae/Lord%20Marek%20Hraldorn.md) |
 > | **Places of Note** | The Black Spire, <br>Temple of the Nine, <br>The Ruins of Zhar-Kaith, <br>Clifftop Ward, <br>Coldstone Ward, <br>Ironwind Ward, <br>The Wailing Labyrinth |
 > | **Economy** | Regulated |

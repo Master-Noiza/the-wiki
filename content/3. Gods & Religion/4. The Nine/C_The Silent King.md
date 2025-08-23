@@ -1,5 +1,5 @@
 ---
-{"title":"The Silent King","draft":false,"tags":null,"publish":true,"name":"The Silent King","aliases":"The Mute Father,<br>The Silence,<br>The End","organisations":"The Whisper","rank":"Major","symbol":"A moonlit, silent lake, covered in mist","portfolio":"Emptiness,<br>Order,<br>Silence,<br>Peace,<br>Final Rest,<br>Infinity,<br>The Stillness of Death,<br>Sleep,<br>Untouched Nature,<br>Natural Order","followers":"","relations":"She Who Weeps (Ally)","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e M u t e F a t h e r < b r > T h e S i l e n c e < b r > T h e E n d","title":"The Silent King","cssclasses":""}
 ---
 
 # The Silent King
@@ -9,7 +9,7 @@
 > 
 > ## **The Silent King**
 > 
-> ![../../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
+> ![[NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |

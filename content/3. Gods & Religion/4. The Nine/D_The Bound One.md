@@ -1,5 +1,5 @@
 ---
-{"title":"The Bound One","draft":false,"tags":null,"publish":true,"name":"The Bound One","aliases":"Iakush'neth,<br>The Broken One,<br>The Chained God","organisations":"","rank":"Major","symbol":"Cracked, broken Chains, etched in Runes","portfolio":"Destruction,<br>Hatred,<br>Sacrifice,<br>Betrayal,<br>Chaos,<br>Rage,<br>Violent Ends,<br>Natural Disasters,<br>War,<br>Subjugation","followers":"Warriors,<br>Rebels,<br>Conquerors","relations":"","PassFrontmatter":true}
+{"publish":true,"aliases":"I a k u s h ' n e t h < b r > T h e B r o k e n O n e < b r > T h e C h a i n e d G o d","title":"The Bound One","cssclasses":""}
 ---
 
 # The Bound One
@@ -10,7 +10,7 @@
 > 
 > ## **The Bound One**
 > 
-> ![../../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
+> ![[NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |

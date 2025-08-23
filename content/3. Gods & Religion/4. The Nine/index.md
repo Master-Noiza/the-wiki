@@ -1,4 +1,4 @@
 ---
-{"publish":true,"draft":false,"title":"The Nine","PassFrontmatter":true}
+{"publish":true,"title":"The Nine","cssclasses":""}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Character_Template","draft":false,"publish":true,"name":"Empress Thala’vren Kaeshara Tanvir","race":"Urashalyr","culture":"Imperial Heartlands","aliases":"The God-Empress,<br>The Unifier,<br>The Chosen,<br>The Keeper of Peace,<br>The Creator's Hand,<br>The Preserver's Fist,<br>The Destroyer's Hammer","titles":null,"allegiances":"The Circle of Elders (Guidance),<br>The Triage,<br>Imperial Provinces (Subordinate)","relations":"","location":"Capital of the Empire","age":"Unknown,<br>Approximately late 60s","eyes":"Bright Orange","hair":"Black,<br>Elaborate Dreadlocks","features":"Elaborate Tattoos,<br>Ritualistic Scars","born":"Unknown","died":null,"origin":"Send by the Gods","residence":"The Imperial Capital","occupation":"God-Empress,<br>High Priestess of the Trinity,<br>High General of the Urashalyr Empire","religion":"The Trinity","relatives":"","rank":"God-Empress","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e G o d - E m p r e s s < b r > T h e U n i f i e r < b r > T h e C h o s e n < b r > T h e K e e p e r o f P e a c e < b r > T h e C r e a t o r ' s H a n d < b r > T h e P r e s e r v e r ' s F i s t < b r > T h e D e s t r o y e r ' s H a m m e r","title":"Character_Template","cssclasses":""}
 ---
 
 # Empress Thala’vren Kaeshara Tanvir
@@ -10,7 +10,7 @@
 > 
 > ## Empress Thala’vren Kaeshara Tanvir
 > 
-> ![Marek_Hraldorn.webp](../Marek_Hraldorn.webp)
+> ![[Marek_Hraldorn.webp]]
 > 
 > ## **- Facts -**
 > |  |  |

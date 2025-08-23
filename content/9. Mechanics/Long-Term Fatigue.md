@@ -1,5 +1,5 @@
 ---
-{"title":"Long-Term Fatigue","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Long-Term Fatigue","tags":[null],"cssclasses":""}
 ---
 
 # Long-Term Fatigue:
@@ -28,4 +28,4 @@
 - Recovery: 1 LTFP (Battle) per hour without a Battle
 <br>
 
-**New Trait: [[9. Mechanics/Traits#Scrappy\|Traits#Scrappy]]
+**New Trait: [[9. Mechanics/Traits#Scrappy]]

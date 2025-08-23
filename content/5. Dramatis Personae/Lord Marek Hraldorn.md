@@ -1,5 +1,5 @@
 ---
-{"title":"Lord Marek Hraldorn","draft":false,"publish":true,"name":"Lord Marek Hraldorn","age":"Early 50s","occupation":"Leader,<br>General,<br>Governor","aliases":"The Unyielding","titles":"Lord Commander of Arkhold, <br>Warden of the Howling Rock","culture":null,"allegiances":"The Burning Hammer","features":"Scarred Face, <br>Blind left eye, <br>Muscular, <br>Tall, <br>Lean","affiliations":"The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions)","location":"Arkhold","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e U n y i e l d i n g","title":"Lord Marek Hraldorn","cssclasses":""}
 ---
 
 # Lord Marek Hraldorn
@@ -10,7 +10,7 @@
 > 
 > ## Lord Marek Hraldorn
 > 
-> ![Marek_Hraldorn.webp](../Marek_Hraldorn.webp)
+> ![[Marek_Hraldorn.webp]]
 > 
 > ## **- Facts -**
 > |  |  |

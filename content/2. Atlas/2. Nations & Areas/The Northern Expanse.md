@@ -1,5 +1,5 @@
 ---
-{"title":"The Northern Expanse","draft":false,"tags":null,"publish":true,"name":"The Northern Expanse","aliases":"Suth Ka'al","type":"Imperial Territory (official), <br> Self Governed (inofficial)","system":"Imperial Territory (official), <br> Self Governed (formally)","ruler":"High Empress of the Urashalyri Empire (official), <br>Lord Marek Hraldorn (inofficial)","capital":"Arkhold","cities":"Arkhold,<br>Beacon,<br>Respite","places_of_note":"Ruins of Zhar-Kaith, <br>The Boiling Ponds","religions":"The Nine, <br>The Burning Judge, The One (Imperial)","traits":"Defiance, God-fearing, Loyality","races":null,"relations":null,"organizations":null,"commerce":null,"defence":null,"PassFrontmatter":true}
+{"publish":true,"aliases":"S u t h K a ' a l","title":"The Northern Expanse","cssclasses":""}
 ---
 
 # The Northern Expanse
@@ -10,7 +10,7 @@
 > 
 > ## **The Northern Expanse**
 > 
->![castle.webp](../../castle.webp)
+>![[castle.webp]]
 > 
 > ## - Overview -
 > |  |  |

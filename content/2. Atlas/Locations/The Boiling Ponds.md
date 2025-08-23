@@ -1,5 +1,5 @@
 ---
-{"title":"The Boiling Ponds","draft":false,"tags":null,"publish":true,"name":"The Boiling Ponds","aliases":"","type":"Geyser Field,<br>Hot Springs","location":"The Northern Expanse","inhabitants":"Anthalyr","PassFrontmatter":true}
+{"publish":true,"title":"The Boiling Ponds","cssclasses":""}
 ---
 
 # The Boiling Ponds
@@ -10,7 +10,7 @@
 > 
 > ## **The Boiling Ponds**
 > 
-> ![Boiling_Ponds.webp](../../Boiling_Ponds.webp)
+> ![[Boiling_Ponds.webp]]
 > 
 > ## - Facts -
 > |  |  |

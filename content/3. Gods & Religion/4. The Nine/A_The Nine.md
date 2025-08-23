@@ -1,5 +1,5 @@
 ---
-{"title":"The Nine","draft":false,"tags":null,"publish":true,"name":"The Nine","PassFrontmatter":true}
+{"publish":true,"title":"The Nine","cssclasses":""}
 ---
 
 # The Nine

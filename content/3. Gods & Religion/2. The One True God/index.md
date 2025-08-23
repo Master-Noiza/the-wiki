@@ -1,4 +1,4 @@
 ---
-{"publish":true,"draft":false,"title":"The One True God","PassFrontmatter":true}
+{"publish":true,"title":"The One True God","cssclasses":""}
 ---
 

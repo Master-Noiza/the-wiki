@@ -1,5 +1,5 @@
 ---
-{"title":"The Herald of Change","draft":false,"tags":null,"publish":true,"name":"The Herald of Change","aliases":"The Shifting Tide","organisations":"","rank":"Major","symbol":"","portfolio":"Healing, <br>Defiance, <br>Mutation, <br>Change, <br>Evolution, <br>Growth, <br>Fluidity","followers":"Inventors, <br> Healers, <br> The Sick & Wounded, <br> Weavers","relations":"","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e S h i f t i n g T i d e","title":"The Herald of Change","cssclasses":""}
 ---
 
 # The Herald of Change
@@ -10,7 +10,7 @@
 > 
 > ## **The Herald of Change**
 > 
-> ![../../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
+> ![[NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |

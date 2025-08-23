@@ -1,3 +1,3 @@
 ---
-{"title":"The Magic","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"The Magic","tags":[null],"cssclasses":""}
 ---

@@ -1,3 +1,3 @@
 ---
-{"title":"Herbarium","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Herbarium","tags":[null],"cssclasses":""}
 ---

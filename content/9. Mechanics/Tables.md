@@ -1,5 +1,5 @@
 ---
-{"title":"Tables","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Tables","tags":[null],"cssclasses":""}
 ---
 
 ## Spell/Rune Crafting Side-Effects Tables:

@@ -1,5 +1,5 @@
 ---
-{"title":"General Rules & Specifics","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"General Rules & Specifics","tags":[null],"cssclasses":""}
 ---
 
 ## Setting specific Rules:

@@ -1,3 +1,3 @@
 ---
-{"title":"Atlas","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Atlas","tags":[null],"cssclasses":""}
 ---

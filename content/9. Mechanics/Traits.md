@@ -1,5 +1,5 @@
 ---
-{"title":"Traits","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Traits","tags":[null],"cssclasses":""}
 ---
 
 # New  and important Traits:
@@ -42,7 +42,7 @@
 - At level 3: Prerequisite Ham Fisted [-5]
 - At level 6: Prerequisite Disturbing Voice [-10]
 - At level 6: Prerequisite Numb [-20]
-- At level 6: Prerequisite [[Inflexibility\|Inflexibility]] [-5]
+- At level 6: Prerequisite [[Inflexibility]] [-5]
 
 *Many Markhalyr, despite not yet having reached the age of stone, already show varibly severe signs of petrification. A few effects of the curse are constant but others can vary greatly between individuals*
 
@@ -65,18 +65,18 @@
 **Damage Resistance (Markhalyri, Neck):**
 - [3pts/lvl]
 - Partial [-50%]
-- At level 6: Prerequisite [[Inflexibility\|Inflexibility]] [-5]
+- At level 6: Prerequisite [[Inflexibility]] [-5]
 ---
 **Damage Resistance (Markhalyri, Torso):**
 - [4pts/lvl]
 - Partial [-10%]
 - Prerequisite: Move -1 per DR
-- At level 6: Prerequisite [[Inflexibility\|Inflexibility]] [-5]
+- At level 6: Prerequisite [[Inflexibility]] [-5]
 ---
 **Damage Resistance (Markhalyr, Arms):**
 - [4pts/lvl], One Arm: [3pts/lvl]
 - Partial [-20%]/One Limb [-40%]
-- At level 6: Prerequisite [[Inflexibility\|Inflexibility]] [-5]
+- At level 6: Prerequisite [[Inflexibility]] [-5]
 ---
 **Damage Resistance (Markhalyri, Hands):**
 - [3pts/lvl], One Hand: [1pt/lvl]

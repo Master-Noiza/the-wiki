@@ -1,3 +1,3 @@
 ---
-{"title":"Dramatis Personae","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Dramatis Personae","tags":[null],"cssclasses":""}
 ---

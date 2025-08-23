@@ -1,5 +1,5 @@
 ---
-{"title":"Campfire Stories","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Campfire Stories","tags":[null],"cssclasses":""}
 ---
 
 # The Campfire Stories:

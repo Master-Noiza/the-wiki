@@ -1,5 +1,5 @@
 ---
-{"title":"The Burning Hammer","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"The Burning Hammer","tags":[null],"cssclasses":""}
 ---
 
 

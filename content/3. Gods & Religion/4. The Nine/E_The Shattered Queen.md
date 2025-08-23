@@ -1,5 +1,5 @@
 ---
-{"title":"The Shattered Queen","draft":false,"tags":null,"publish":true,"name":"The Shattered Queen","aliases":"The Gazer of Stars, <br>The Fragmented Weaver","organisations":"The Celestial Order","rank":"Major","symbol":"A broken mirror","portfolio":"Destiny, <br>Knowledge, <br>Fragmentation, <br>Dream & Nightmares, <br>Storms","followers":"","relations":"","PassFrontmatter":true}
+{"publish":true,"aliases":"T h e G a z e r o f S t a r s < b r > T h e F r a g m e n t e d W e a v e r","title":"The Shattered Queen","cssclasses":""}
 ---
 
 # The Shattered Queen
@@ -10,7 +10,7 @@
 > 
 > ## **The Shattered Queen**
 > 
-> ![../../../NPC_Placeholder.jpg](../../NPC_Placeholder.jpg)
+> ![[NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |

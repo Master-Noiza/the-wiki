@@ -1,19 +1,19 @@
 ---
-{"title":"The World of Vilenought","draft":false,"tags":null,"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"The World of Vilenought","cssclasses":""}
 ---
 
-![Banner.webp| banner p+cct](Banner.webp)
+![[Banner.webp| banner p+cct]]
 
 # The World of Vilenought
 
-![Divider_1.webp](Divider_1.webp)
+![[Divider_1.webp]]
 
 > [!quote] Beyond our world, not far, but close enough to touch it, yet forever distant and cut off by the Veil, lies the Mirror. A feint imprint of the reality we are so sure we call our own. Every stone cast in a still forest lake sends ripples down the surface of its misty, bleak projection in the Mirror. Or are we the projections? Are we mere echoes of the spirits that roam the dim forests beyond our reach? Beyond the Mirror still, to where only the bravest dare to pierce the Veil, lie the Shards. The fragmentation rising with every step, reality shifting, space streching and time in constant flux. Beyond the shard lies nothing. Nothing of such an agonizing depth, of such hopelessness and despair... Filled with silence, filled with the silence of dead gods, filled with the laughter of those who are not. But the Veil protects us.... For aeons it protected us... But the Veil is wearing thin.
 > 
 
 <iframe src="https://master-noiza.github.io/world-map/" width="100%" height="800px"></iframe>
 
-![Divider_1.webp](Divider_1.webp)
+![[Divider_1.webp]]
 
 
 ## <center> Table of Contents: <center/>
@@ -74,7 +74,7 @@
 >> - [Traits](9.%20Mechanics/Traits.md)
 >> - [Weaving Traits](9.%20Mechanics/Weaving%20Traits.md)
 
-![Divider_1.webp](Divider_1.webp)
+![[Divider_1.webp]]
 
 ## Introduction to the setting:
 

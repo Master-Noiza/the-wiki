@@ -1,3 +1,3 @@
 ---
-{"title":"Taverns & Shops","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Taverns & Shops","tags":[null],"cssclasses":""}
 ---

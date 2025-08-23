@@ -1,5 +1,5 @@
 ---
-{"title":"The Gods & Pantheons","draft":false,"tags":[null],"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"The Gods & Pantheons","tags":[null],"cssclasses":""}
 ---
 
 # The Gods & Pantheons
