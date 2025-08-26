@@ -19,13 +19,13 @@
 > | **Category** | Village |
 > | **Function** | Agricultural Hub,<br>Shelter |
 > | **Location** | The Northern Expanse,<br>Near Arkhold,<br>Northern Urashalyr Satrapy |
-> | **Nation** | Urashalyr Empire (Officially) |
-> | **Population** | ca 250 |
+> | **Nation** | Urashalyr Empire (Officially), Arkhold municipality (Informally) |
+> | **Population** | ca 120 |
 > | **Inhabitants** | Mostly Mokhalyr,<br>Farmers,<br>Peasants,<br>Tradespeople |
 > | **Condition** | Declining |
-> | **Governance** | Federal Empire |
-> | **Leaders** | [Empress Thala’vren Kaeshara Tanvir](../../5.%20Dramatis%20Personae/Empress%20Thala’vren%20Kaeshara%20Tanvir.md) (Official),<br>Mayor Jareth Milkho (Locally),<br>The Circle of the Nine (Regional) |
-> | **Seat of Power** | Town Hall |
+> | **Governance** | Mayor-Council System |
+> | **Leaders** | [Empress Thala’vren Kaeshara Tanvir](../../5.%20Dramatis%20Personae/Empress%20Thala’vren%20Kaeshara%20Tanvir.md) (Official),<br>Mayor [[5. Dramatis Personae/Jareth Milkho]] (Locally),The Council of Reaon (Locally)<br>The Circle of the Nine (Regional) |
+> | **Seat of Power** | Mayoral Longhouse |
 > | **Relations** | Arkhold (Ally),<br>Urashalyr Empire (Tensions),<br>The Skybound Holds (Ally) |
 > | **Organizations** | Farmers Coalition |
 > | **People of Note** | Mayor Jareth Milkho,<br>Lieutenant Mika Oresh |
@@ -36,7 +36,7 @@
 > 
 
 > [!quote|author clean] *"The trees creep closer by the year, and the shadows are watching."*
-> Melisandre the Apothecary, over a mug of warm ale, in the Northern Pride Inn
+> Rainee the Apothecary, over a mug of warm ale, in the Northern Pride Inn
 
 > [!quote|author clean] *"Mother Helga has not aged a day, the gods are truly with her."*
 > The Quoted, at place X, at time Y
