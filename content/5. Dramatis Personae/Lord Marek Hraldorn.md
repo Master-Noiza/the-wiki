@@ -21,7 +21,7 @@
 > | **Rank/Title** | Lord Commander of Arkhold, <br>Warden of the Howling Rock |
 > | **Allegiance** | [The Burning Hammer](../6.%20Organizations/The%20Burning%20Hammer.md) |
 > | **Relations** | The Skybound Holds (Ally), <br>Clan Drazhmir (Neutral), <br>The Urashalyri Empire (Tensions) |
-> | **Location** | [Arkhold](../2.%20Atlas/1.%20Settlements/Arkhold.md) |
+> | **Location** | [Arkhold](Arkhold.md) |
 > 
 > ## **- Description -**
 > |  |  |
@@ -36,8 +36,8 @@
 > | ---- | ---- |
 > | **Born** | Unknown |
 > | **Died** | - |
-> | **Origin** | [Arkhold](../2.%20Atlas/1.%20Settlements/Arkhold.md) |
-> | **Residence** | [Arkhold](../2.%20Atlas/1.%20Settlements/Arkhold.md) |
+> | **Origin** | [Arkhold](Arkhold.md) |
+> | **Residence** | [Arkhold](Arkhold.md) |
 > | **Profession** | Leader,<br>General,<br>Governor |
 > | **Primary Belief** | [The Nine](../3.%20Gods%20&%20Religion/4.%20The%20Nine/A_The%20Nine.md), <br>[The Burning Judge](../3.%20Gods%20&%20Religion/4.%20The%20Nine/G_The%20Burning%20Judge.md), <br>[The Gilded Magnate](../3.%20Gods%20&%20Religion/4.%20The%20Nine/I_The%20Gilded%20Magnate.md) |
 > | **Relatives & Relationships** | - |
@@ -52,7 +52,7 @@
 
 ## Basic Information:
 
-Lord Marek Hraldorn has been the Commander of [Arkhold's](../2.%20Atlas/1.%20Settlements/Arkhold.md) City Watch and Elite Military Force, *The Black Guard* for over two decades. He is a decorated Veteran of many border skirmishes but is yet to prove his worth in a real war scenario. 
+Lord Marek Hraldorn has been the Commander of [Arkhold's](Arkhold.md) City Watch and Elite Military Force, *The Black Guard* for over two decades. He is a decorated Veteran of many border skirmishes but is yet to prove his worth in a real war scenario. 
 
 Lord Hraldorn is known as a zealous follower of the [the Burning Judge](../3.%20Gods%20&%20Religion/4.%20The%20Nine/G_The%20Burning%20Judge.md) and a stern traditionalist, longing to bring *Arkhold* back to its former glory and, keeping in line with the *Judge's* teachings, bringing justice to those that humiliated his home.
 

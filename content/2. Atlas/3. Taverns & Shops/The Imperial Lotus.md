@@ -17,7 +17,7 @@
 > | ---- | ---- |
 > | **Aliases** | The Heartlands Warmth |
 > | **Quality** | Average, with limited offerings but unique Urashalyr imports |
-> | **Location** |[The Northern Expanse](../2.%20Nations%20&%20Areas/The%20Northern%20Expanse.md),<br>[Arkhold](../1.%20Settlements/Arkhold.md),<br>Outskirts of the main market square |
+> | **Location** |[The Northern Expanse](../2.%20Nations%20&%20Areas/The%20Northern%20Expanse.md),<br>[Arkhold](Arkhold.md),<br>Outskirts of the main market square |
 > | **Owner** | K’halan Muralok, a retired Urashalyr military captain |
 > | **Staff** | Khalil (bartender),<br>Avani Dalin (cook),<br>Yassir Chahl (chief server),<br>Khalil (bartender) |
 > | **Patrons** | Primarily Urashalyr imigrants, officials and travelers; a few curious locals |
