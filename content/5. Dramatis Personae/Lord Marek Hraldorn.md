@@ -16,7 +16,7 @@
 > |  |  |
 > | ---- | ---- |
 > | **Race** | [Monkhalyr](../4.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md) |
-> | **Culture** | `=this.culture` |
+> | **Culture** | Northerner |
 > | **Aliases** | The Unyielding |
 > | **Rank/Title** | Lord Commander of Arkhold, <br>Warden of the Howling Rock |
 > | **Allegiance** | [The Burning Hammer](../6.%20Organizations/The%20Burning%20Hammer.md) |

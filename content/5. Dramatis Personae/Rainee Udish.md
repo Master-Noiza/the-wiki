@@ -1,46 +1,46 @@
 ---
-{"publish":true,"aliases":"T h e R a t ( S e c e t l y ) < b r > T h e F o r e i g n e r","title":"Jareth Milkho","cssclasses":""}
+{"publish":true,"aliases":"T h e W i t c h < b r > G r a n n y R a i n e e","title":"Character_Template","cssclasses":""}
 ---
 
-# Jareth Milkho
+# Rainee Udish
 
 ---
 > [!infobox]
 > 
 > 
-> ## Jareth Milkho
+> ## Rainee Udish
 > 
-> ![[z_Assets/Jareth Milkho.jpg]]
+> ![[z_Assets/Rainee Udish.jpg]]
 > 
 > ## **- Facts -**
 > |  |  |
 > | ---- | ---- |
 > | **Race** | Monkhalyr |
-> | **Culture** | Selvonian |
-> | **Aliases** | The Rat (Secetly),<br>The Foreigner |
-> | **Rank/Title** | Appointed Mayor of [[2. Atlas/1. Settlements/Respite]] |
-> | **Allegiance** | The Urashalyri Empire (Loyal),<br>[[2. Atlas/1. Settlements/Arkhold]] (Tensions),<br>The Council of Reason (Tensions) |
+> | **Culture** | Northerner |
+> | **Aliases** | The Witch,<br>Granny Rainee |
+> | **Rank/Title** | `=this.titles` |
+> | **Allegiance** | The Order of Rebirth |
 > | **Relations** | `=this.relations` |
 > | **Location** | Respite |
 > 
 > ## **- Description -**
 > |  |  |
 > | ---- | ---- |
-> | **Age** | Late 40s |
-> | **Eyes** | Grey |
-> | **Hair** | Upswept,<br>Powdered,<br>Died black |
-> | **Distinctive Features** | Gaunt,<br>Chewed nails on left hand,<br>Tall,<br>Lengthy |
+> | **Age** | PT60S |
+> | **Eyes** | Green |
+> | **Hair** | Grey,<br>Messy bun |
+> | **Distinctive Features** | Wrinkled,<br>Slender,<br>Upright |
 > 
 > ## **- Biography -**
 > |  |  |
 > | ---- | ---- |
 > | **Born** | Unknown |
-> | **Died** | `=this.died` |
-> | **Origin** | Kingdom of Selvona |
-> | **Residence** | The Mayoral Longhouse,<br>Respite |
-> | **Profession** | Appointed Mayor of Respite |
-> | **Primary Belief** | [[3. Gods & Religion/2. The One True God/1. The One\|The One]] |
-> | **Relatives & Relationships** | Unknown |
+> | **Died** | - |
+> | **Origin** | Respite |
+> | **Residence** | Outskirts of Respite, [[2. Atlas/3. Taverns & Shops/Rainee's Herbs & Poultices]] |
+> | **Profession** | Apothecary,<br>Healer |
+> | **Primary Belief** | [[3. Gods & Religion/5. Minor Gods, Spirits & Aspects/1. Minor Gods & Aspects\|The Gracious Reflection]] |
+> | **Relatives & Relationships** | Goran Udish (Husband) |
 
 > [!quote|author clean] This is the first quote
 > The Quoted, at place x, at time y
