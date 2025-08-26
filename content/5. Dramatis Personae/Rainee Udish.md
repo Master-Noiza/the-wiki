@@ -37,7 +37,7 @@
 > | **Born** | Unknown |
 > | **Died** | - |
 > | **Origin** | Respite |
-> | **Residence** | Outskirts of Respite, [[2. Atlas/3. Taverns & Shops/Rainee's Herbs & Poultices]] |
+> | **Residence** | Outskirts of Respite, [[2. Atlas/3. Taverns & Shops/Rainees Herbs & Poultices]] |
 > | **Profession** | Apothecary,<br>Healer |
 > | **Primary Belief** | [[3. Gods & Religion/5. Minor Gods, Spirits & Aspects/1. Minor Gods & Aspects\|The Gracious Reflection]] |
 > | **Relatives & Relationships** | Goran Udish (Husband) |
