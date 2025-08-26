@@ -5,6 +5,9 @@
 ![[z_Assets/Banner.webp| banner p+cct]]
 
 # The World of Vilenought
+<br>
+
+## A Compendium of the Lands and Seas of the known World, compiled and curated by Edmund Gelting, wandering scribe, loremaster and third high counselor to the God-Empress of the Urashalyri Empire
 
 ![[z_Assets/Divider_1.webp]]
 
