@@ -15,21 +15,28 @@
 ---
 ### Taverns:
 
-| Pages                                                                            | Location                                           |
-| -------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [[2. Atlas/1. The Northern Expanse/The Familiar Hearth\|The Familiar Hearth]] | The Northern Expanse, Arkhold Hinterlands, Respite |
-| [[2. Atlas/1. The Northern Expanse/The Imperial Lotus\|The Imperial Lotus]]   | Outskirts of the main market square                |
+| Pages                                                                                    | Location                                           |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [[2. Atlas/1. The Northern Expanse/Taverns/The Familiar Hearth\|The Familiar Hearth]] | The Northern Expanse, Arkhold Hinterlands, Respite |
+| [[2. Atlas/1. The Northern Expanse/Taverns/The Imperial Lotus\|The Imperial Lotus]]   | Outskirts of the main market square                |
 
 ---
-### Shops:
+### Shops & Services:
 
-| Pages                                                                                        | Location                                           |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [[2. Atlas/1. The Northern Expanse/Rainees Herbs & Poultices\|Rainees Herbs & Poultices]] | The Northern Expanse, Arkhold Hinterlands, Respite |
+| Pages                                                                                                         | Location                                           |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [[2. Atlas/1. The Northern Expanse/Shops & Services/Rainees Herbs & Poultices\|Rainees Herbs & Poultices]] | The Northern Expanse, Arkhold Hinterlands, Respite |
 
 ---
 ### Natural Locations:
 
-| Pages                                                                        | Location             |
-| ---------------------------------------------------------------------------- | -------------------- |
-| [[2. Atlas/1. The Northern Expanse/The Boiling Ponds\|The Boiling Ponds]] | The Northern Expanse |
+| Pages                                                                                          | Location             |
+| ---------------------------------------------------------------------------------------------- | -------------------- |
+| [[2. Atlas/1. The Northern Expanse/Natural Locations/The Boiling Ponds\|The Boiling Ponds]] | The Northern Expanse |
+
+---
+### Points of Interest:
+
+| Pages                                                                             | Location |
+| --------------------------------------------------------------------------------- | -------- |
+| [[2. Atlas/1. The Northern Expanse/Points of Interest/Zhar-Kaith\|Zhar-Kaith]] | \-       |

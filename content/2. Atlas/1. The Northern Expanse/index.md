@@ -16,12 +16,12 @@
 > |  |  |
 > | ---- | ---- |
 > | **Aliases** | Suth Ka'al |
-> | **Type** | `=this.category` |
+> | **Type** | Imperial Territory (official), <br> Self Governed (inofficial) |
 > | **Governing<br>System** | Imperial Territory (official), <br> Self Governed (formally) |
 > | **Ruler** | High Empress of the Urashalyri Empire (official), <br>Lord Marek Hraldorn (inofficial) |
-> | **Capital** | Arkhold |
-> | **Important<br>Cities** | Arkhold,<br>Beacon,<br>Respite |
-> | **Places of Note** | Ruins of Zhar-Kaith, <br>The Boiling Ponds |
+> | **Capital** | [[2. Atlas/1. The Northern Expanse/Settlements/Arkhold]] |
+> | **Important<br>Cities** | Arkhold,<br>Respite |
+> | **Places of Note** | [[2. Atlas/1. The Northern Expanse/Points of Interest/Zhar-Kaith]],<br>[[2. Atlas/1. The Northern Expanse/Natural Locations/The Boiling Ponds]] |
 > | **Major<br>Religions** | The Nine, <br>The Burning Judge, The One (Imperial) |
 > | **Renowned<br>Traits** | Defiance, God-fearing, Loyality |
 > | **Population** | `=this.races` |
