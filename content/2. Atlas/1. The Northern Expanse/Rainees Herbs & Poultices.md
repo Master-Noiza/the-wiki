@@ -5,4 +5,4 @@
 # Rainee's Herbs & Poultices
 
 ---
-Rainee's is a humble, yet reliable apothecary in the village of [[2. Atlas/1. The Northern Expanse/Respite]]. Just a short walk from the town square it offers local herbs, bandages, poultrices and first aid to those who need it.
+Rainee's is a humble, yet reliable apothecary in the village of [[2. Atlas/1. The Northern Expanse/Settlements/Respite]]. Just a short walk from the town square it offers local herbs, bandages, poultrices and first aid to those who need it.

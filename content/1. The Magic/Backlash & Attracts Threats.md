@@ -8,13 +8,21 @@
 ## Backlash:
 <br>
 
-| Roll | Effect   | Mechanics                                        |
-| ---- | -------- | ------------------------------------------------ |
-|      | Drowsy   | -2 to DX, IQ & SC-Rolls                          |
-|      | Drunk    | -2 to DX & IQ, -4 to SC-Rolls (Expept Cowardice) |
-|      | Euphoria | -3 to DX, IQ, Skill & SC-Rolls                   |
-|      | Nausea   | -2 to Attribute & Skill-Rolls, -1 DB,                  |
-|      |          |                                                  |
+| Roll | Effect          | Mechanics                                                                                                                           |     |
+| ---- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
+|      | Cosmetic effect | Smoke, Frost, Wind, Eerie sounds, etc (MOF Minutes)                                                                                 |     |
+|      | Drowsy          | -2 to DX, IQ & SC-Rolls                                                                                                             |     |
+|      | Drunk           | -2 to DX & IQ, -4 to SC-Rolls (Expept Cowardice)                                                                                    |     |
+|      | Euphoria        | -3 to DX, IQ, Skill & SC-Rolls                                                                                                      |     |
+|      | Nausea          | -2 to Attribute & Skill-Rolls, -1 DB,                                                                                               |     |
+|      | Moderate Pain   | -2 to DX, IQ, Skill & SC-Rolls (Halved/Doubled by HPT/LPT)                                                                          |     |
+|      | Severe Pain     | -4 to DX, IQ, Skill & SC-Rolls (Halved/Doubled by HPT/LPT)                                                                          |     |
+|      | Terrible Pain   | -6 to DX, IQ, Skill & SC-Rolls (Halved/Doubled by HPT/LPT)                                                                          |     |
+|      | Agony           | Do nothing but moan or scream and fall down. Loose 1 FP per second & 1 LTFP overall.   LPT Doubles FP loss. HPT allows acting at -3 |     |
+|      | Choking         | Fall down, Effects of 'Suffocation'                                                                                                 |     |
+|      | Daze            | Conscious but Do nothing                                                                                                            |     |
+|      | Ecstasy         | Same as Agony but HPT/LPT have no effect                                                                                            |     |
+|      |                 |                                                                                                                                     |     |
 
 ---
 

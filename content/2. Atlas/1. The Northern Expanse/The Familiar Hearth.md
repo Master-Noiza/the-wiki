@@ -17,7 +17,7 @@
 > | ---- | ---- |
 > | **Aliases** | `=this.aliases` |
 > | **Quality** | Low to Average,<br>Famous Elderberry Spirit |
-> | **Location** | `=this.location` |
+> | **Location** | The Northern Expanse, Arkhold Hinterlands, Respite |
 > | **Owner** | Bethem & Igrit Gerul |
 > | **Staff** | Levin Gerul |
 > | **Patrons** | Locals,<br>Farmers,<br>Travelers |
