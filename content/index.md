@@ -7,7 +7,10 @@
 # The World of Vilenought
 <br>
 
-## A Compendium of the Lands and Seas of the known World, compiled and curated by Edmund Gelting, wandering scribe, loremaster and third high counselor to the God-Empress of the Urashalyri Empire
+## A Compendium of the Lands and Seas of the known World
+<br>
+
+### Compiled and curated by Edmund Gelting, wandering scribe, loremaster and third high counselor to the God-Empress of the Urashalyri Empire
 
 ![[z_Assets/Divider_1.webp]]
 
@@ -85,7 +88,7 @@
 <br>
 In a time long forgotten, the world was ruled by the ambition and mastery of the *Monkhalyr*, the first and most dominant of the sentient races. Their relentless thirst for power led to their undoing. Through the reckless use of magic, they tore apart the Veil, the fragile barrier separating reality from the Mirror, a dark, twisted reflection of the world. This event, known as the *Convergence*, unleashed chaotic forces that forever altered the course of history.
 
-Now, countless aeons later, the world is but a shattered remnant of its former glory. The great human empires have crumbled, and the Monkhalyr are fractured into war-torn kingdoms, desperately clinging to the ruins of their past. Their great cities lie in decay, haunted by the echoes of the Convergence, places where the *Veil* remains thin, and magic warps the fabric of reality.
+Now, thirty thousand years later, the world is but a shattered remnant of its former glory. The great ancient empires have crumbled, and the Monkhalyr are fractured into war-torn kingdoms, desperately clinging to the ruins of their past. Their great cities lie in decay, haunted by the echoes of the Convergence, places where the *Veil* remains thin, and magic warps the fabric of reality.
 
 Amid the remnants of this broken world, other races have risen, each scarred by the same cataclysm but twisted into new forms. The *Venthalyr*, once human, are now the embodiment of nature's darker side. These Wood Elves have been irrevocably changed by the untamed, magical forests that blend the real and the surreal. Immortal within their forest homes, they cannot survive long beyond them, and to sustain their race, they enslave humans, using them to birth new Venthalyr.
 
