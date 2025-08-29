@@ -19,10 +19,6 @@
 
 ---
 
-The gods in this world are rarely altruistic (except for the "Benevolent Stranger" and his motives might prove to be somewhat questionable aswell) and usually act far removed from the affairs of mortals. Temples and holidays may exist, but should someone have to choose between worship and fear, they would be wise to choose fear. Possibly the gods are even entirely removed, sleeping or dead. 
-Whatever the case may be, these gods are the "young" ones, the ones which wrestled control over reality from the primordials in the beginning of time.
-
----
 ## [She Who Weeps](B_She%20Who%20Weeps.md)
 
 - Goddess of sorrow, pain, despair, hopelessness, loss, compassion, love, agriculture, fertility.
@@ -33,7 +29,7 @@ Whatever the case may be, these gods are the "young" ones, the ones which wrestl
 ---
 ## [The Silent King](C_The%20Silent%20King.md)
 
-- God of emptiness, order, silence, peace, final rest, infinity, the stillness of death, sleep, untouched nature, natural order.
+- God of emptiness, silence, peace, final rest, infinity, the stillness of death, sleep, untouched nature, natural balance.
 
 - It is said that when everything returns to ash, dust, and silence, when the screams fade away, the Silent King will smile.
 - Symbol: A moonlit, silent lake, covered in mist.
@@ -65,7 +61,7 @@ Whatever the case may be, these gods are the "young" ones, the ones which wrestl
 ---
 ## [The Burning Judge](G_The%20Burning%20Judge.md)
 
-- God of justice, vengeance, fire, purification, wrath, craftsmanship, smithing, combat, war.
+- God of justice, order, vengeance, fire, purification, wrath, craftsmanship, smithing, combat, war.
 
 - The Burning Judge is an unyielding enforcer of divine justice. He is the father of the Bound God, but unlike "She Who Weeps," he remains stoic, cold, and merciless. His fiery wrath is feared. Smiths and craftsmen invoke his mastery over fire, viewing their work as a form of purification and creation.
 - Symbol: A flaming sword.
