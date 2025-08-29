@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Template_Title","cssclasses":""}
+{"publish":true,"title":"Spell modification - On the Fly","cssclasses":""}
 ---
 
 # Weaving Parameters  & Spell Modification on the fly:
