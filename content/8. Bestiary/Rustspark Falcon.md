@@ -60,7 +60,7 @@ The falcon primarily inhabits open, expansive landscapes such as grasslands, pla
 >> [!error| no-i ttl-c] Harvestables:
 >> 
 >>**Feathers**
->>- Used by some alchemists to create potions of stealth, teleportation and generally enhance [Aethermancy](9.%20Mechanics/1.%20The%20Magic/3.%20The%20Disciplines%20&%20Aspects.md#Aethermancy)
+>>- Used by some alchemists to create potions of stealth, teleportation and generally enhance [Aethermancy](C_The%20Disciplines%20&%20Aspects.md#Aethermancy)
 >>- Known for their luminescent properties, they are used in ceremonial garments and by mages for essence studies.
 >>
 >>**Flash-Essence Core**
