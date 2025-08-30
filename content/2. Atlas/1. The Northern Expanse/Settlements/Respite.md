@@ -4,6 +4,8 @@
 
 # Respite
 
+<iframe src="https://master-noiza.github.io/Respite_Map/" width="100%" height="500px"></iframe>
+
 ---
 > [!infobox]
 > 
@@ -49,7 +51,7 @@ A humble, yet vastly important Village in the outskirts of [Arkhold's](Arkhold.m
 
 Respite is 
 
-<iframe src="https://master-noiza.github.io/Respite_Map/" width="100%" height="800px"></iframe>
+<br>
 
 ## Governance:
 
