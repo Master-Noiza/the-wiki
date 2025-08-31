@@ -1,4 +1,38 @@
 ---
-{"publish":true,"title":"The Trinity","cssclasses":""}
+{"publish":true,"title":"The Trinity","tags":[null],"cssclasses":""}
 ---
 
+# Treysh'neth'ar - The Trinity
+
+---
+
+> [!bug|clean no-i ttl-c txt-c] ## Morning and Nightly Prayer to the Trinity
+> 
+> *"One hand to Shape, the Stars, the Earth and sea,                                                                 
+> One breath to bind, what must forever be,                                                                               
+> One flame to set the world alight,                                                                                               
+> In endless cycles, of day and night.*                                                                                          
+>
+> *Three faces, veiled and ever near,                                                                                             
+> Three Voices, whispers none can hear,                                                             
+> Three shadows cast by one decree,                                                   
+> Create, preserve, destroy all free.*                                                        
+>
+> *O Maker of the heavens wide,                                                 
+> O Keeper where all fates abide,                                                                      
+> O Flame that burns what none may mend,                                                          
+> To you, we turn, to break or bend."*
+
+---
+
+## [The Creator](1.%20The%20Creator.md)
+
+---
+
+## [The Preserver](2.%20The%20Preserver.md)
+
+---
+
+## [The Destroyer](3.%20The%20Destroyer.md)
+
+---

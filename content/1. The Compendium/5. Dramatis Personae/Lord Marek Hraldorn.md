@@ -39,7 +39,7 @@
 > | **Origin** | [Arkhold](Arkhold.md) |
 > | **Residence** | [Arkhold](Arkhold.md) |
 > | **Profession** | Leader,<br>General,<br>Governor |
-> | **Primary Belief** | [The Nine](A_The%20Nine.md), <br>[The Burning Judge](G_The%20Burning%20Judge.md), <br>[The Gilded Magnate](I_The%20Gilded%20Magnate.md) |
+> | **Primary Belief** | [The Nine](A_The%20Nine.md), <br>[The Burning Judge](F_The%20Burning%20Judge.md), <br>[The Gilded Magnate](H_The%20Gilded%20Magnate.md) |
 > | **Relatives & Relationships** | - |
 
 > [!quote|author clean] This is the first quote
@@ -54,7 +54,7 @@
 
 Lord Marek Hraldorn has been the Commander of [Arkhold's](Arkhold.md) City Watch and Elite Military Force, *The Black Guard* for over two decades. He is a decorated Veteran of many border skirmishes but is yet to prove his worth in a real war scenario. 
 
-Lord Hraldorn is known as a zealous follower of the [the Burning Judge](G_The%20Burning%20Judge.md) and a stern traditionalist, longing to bring *Arkhold* back to its former glory and, keeping in line with the *Judge's* teachings, bringing justice to those that humiliated his home.
+Lord Hraldorn is known as a zealous follower of the [the Burning Judge](F_The%20Burning%20Judge.md) and a stern traditionalist, longing to bring *Arkhold* back to its former glory and, keeping in line with the *Judge's* teachings, bringing justice to those that humiliated his home.
 
 Lately there are increasingly damning rumours about his growing ambition and influence, some even whispering of open rebellion and a reach for power.
 

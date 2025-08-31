@@ -7,7 +7,7 @@
 
 **The Gods**, whatever they truly are, sleeping, dead, removed, malevolent or altruistic, are seen with a multitude of interpretations, prioritisation and reverence depending on culture, social standing or even momentary needs.
 
-The vast majority of deities are neither purely "good", nor "evil". The only expetions to this might be [[1. The Compendium/3. Gods & Religion/4. The Nine/D_The Bound One]]
+The vast majority of deities are neither purely "good", nor "evil". The only expetions to this might be [[1. The Compendium/3. Gods & Religion/4. The Nine/C_The Bound One]]
 
 The Most common interpretations in the present day are the *"Hierarchy-Model"* and the *"Aspect-Model"*.
 
@@ -20,7 +20,7 @@ Hierarchy-Model:
 Aspect-Model:
 - Only [[1. The Compendium/3. Gods & Religion/2. The One True God/1. The One\|The One]] exists as an individual
 - All other "gods" are mere aspects, no individuals themselfes
-- Some, most prominently The imperial [[1. The Compendium/4. The Races/6. The Urashalyr/index\|Urashalyr]], interpret [[1. The Compendium/3. Gods & Religion/3. The Trinity/1. The Trinity\|The Trinity]] as the truly existing triage of Gods where other proponents view them as primary aspects of The One 
+- Some, most prominently The imperial [[1. The Compendium/4. The Races/6. The Urashalyr/index\|Urashalyr]], interpret [[1. The Trinity\|The Trinity]] as the truly existing triage of Gods where other proponents view them as primary aspects of The One 
 
 ---
 In times before, despite their waning relevance today, the now so called "[[1. The Compendium/3. Gods & Religion/5. Minor Gods, Spirits & Aspects/index\|Minor Gods]]" where actually the **only** gods worshipped.
