@@ -8,6 +8,8 @@ import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
 import DepGraph from "../../depgraph"
+// mod: inherit definition of frontmatter
+import { QuartzPluginData } from "../vfile"
 
 export type ContentIndex = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
