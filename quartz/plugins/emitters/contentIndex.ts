@@ -135,6 +135,8 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
               : undefined,
             date: date,
             description: file.data.description ?? "",
+            // mod: add the original frontmatter as whole
+            frontmatter: file.data.frontmatter,
           })
         }
       }
