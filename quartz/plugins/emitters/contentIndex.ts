@@ -18,6 +18,8 @@ export type ContentDetails = {
   richContent?: string
   date?: Date
   description?: string
+    // mod: add frontmatter
+  frontmatter?: QuartzPluginData["frontmatter"]
 }
 
 interface Options {
