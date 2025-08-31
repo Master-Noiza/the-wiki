@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Spells","tags":[null],"cssclasses":""}
+{"publish":true,"title":"- The Spells","tags":[null],"cssclasses":""}
 ---
 
 # The Spells

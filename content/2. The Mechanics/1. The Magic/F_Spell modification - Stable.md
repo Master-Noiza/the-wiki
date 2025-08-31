@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Spell modification - Stable","tags":[null],"cssclasses":""}
+{"publish":true,"title":"- Spell modification - Stable","tags":[null],"cssclasses":""}
 ---
 
 

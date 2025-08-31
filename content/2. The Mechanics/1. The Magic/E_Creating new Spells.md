@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Creating new Spells","cssclasses":""}
+{"publish":true,"title":"- Creating new Spells","cssclasses":""}
 ---
 
 # Creating new Spells

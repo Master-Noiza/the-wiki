@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Weaving parameters","cssclasses":""}
+{"publish":true,"title":"- Weaving parameters","cssclasses":""}
 ---
 
 # Weaving Parameters  & Spell Modification on the fly:
@@ -27,11 +27,12 @@
 ## Weaving Parameters:
 <br>
 
-| Mod | Energy spend   | Preperation | Circle (Thaumatology to visualize)                             | Verbal                   | Somatic                               | Extra People |
-| --- | -------------- | ----------- | -------------------------------------------------------------- | ------------------------ | ------------------------------------- | ------------ |
-| -2  | Per -1 on cost |             |                                                                |                          |                                       |              |
-| +0  | Base           | 1 Second    | None                                                           | Word                     | Gesture (No roll)                     | None         |
-| +1  | Double         | 1 Minute    | Basic (1 hour, Symbol Drawing+0)                               | Short Sentence  (+1 sec) | Complex Motion (DX-Thaum Roll)        | 1            |
-| +2  | Triple         | 1 Hour      | Elaborate (2 hours, Symbol Drawing-2)                          | Long Sentence (+2 sec)   | Complicated Motion (DX-Thaum Roll -2) | 2            |
-| +3  | Quadruple      | 1 Day       | Elaborate and inscribed (4 hours, Symbol Drawing-3)            | Paragraph (+4 sec)       | Elaborate Motion (DX-Thaum Roll -3)   | 3            |
-| +4  | Quintuple      | 1 Week      | Elaborate, inscribed and prepared (8 hours, Symbol Drawing -4) | Long Paragraph (+8 sec)  | Intricate Action (DX-Thaum Roll -4)   | 4            |
+| Mod | Energy spend  | Preperation | Circle (Thaumatology to visualize)                             | Verbal                   | Somatic                               | Extra People |
+| --- | ------------- | ----------- | -------------------------------------------------------------- | ------------------------ | ------------------------------------- | ------------ |
+| -2  | Per -1 to cost              |             |                                                                |                          |                                       |              |
+| -1  | Per +10% cost |             |                                                                |                          |                                       |              |
+| +0  | Base          | 1 Second    | None                                                           | Word                     | Gesture (No roll)                     | None         |
+| +1  | Double        | 1 Minute    | Basic (1 hour, Symbol Drawing+0)                               | Short Sentence  (+1 sec) | Complex Motion (DX-Thaum Roll)        | 1            |
+| +2  | Triple        | 1 Hour      | Elaborate (2 hours, Symbol Drawing-2)                          | Long Sentence (+2 sec)   | Complicated Motion (DX-Thaum Roll -2) | 2            |
+| +3  | Quadruple     | 1 Day       | Elaborate and inscribed (4 hours, Symbol Drawing-3)            | Paragraph (+4 sec)       | Elaborate Motion (DX-Thaum Roll -3)   | 3            |
+| +4  | Quintuple     | 1 Week      | Elaborate, inscribed and prepared (8 hours, Symbol Drawing -4) | Long Paragraph (+8 sec)  | Intricate Action (DX-Thaum Roll -4)   | 4            |

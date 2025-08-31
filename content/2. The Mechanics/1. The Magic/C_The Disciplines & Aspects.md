@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Disciplines & Aspects","tags":[null],"cssclasses":""}
+{"publish":true,"title":"- The Disciplines & Aspects","tags":[null],"cssclasses":""}
 ---
 
 # The Disciplines of Magic:
