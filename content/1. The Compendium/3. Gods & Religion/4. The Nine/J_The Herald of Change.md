@@ -1,26 +1,26 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e S h i f t i n g T i d e","title":"- The Herald of Change","cssclasses":""}
 ---
 
-# The Creator
+# The Herald of Change
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Herald of Change**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
-> | **Followers** | `=this.followers` |
+> | **Aliases** | The Shifting Tide |
+> | **Rank** | Major |
+> | **Aspects** | `=this.aspects` |
+> | **Aspect of** | [The One](1.%20The%20One.md), <br>[The Trinity](1.%20The%20Trinity.md) |
+> | **Portfolio** | Healing, <br>Defiance, <br>Mutation, <br>Change, <br>Evolution, <br>Growth, <br>Fluidity |
+> | **Followers** | Inventors, <br> Healers, <br> The Sick & Wounded, <br> Weavers |
 > | **Organisations** | `=this.organisations` |
 > | **Symbols** | `=this.symbol` |
 > | **Godly Relations** |  |

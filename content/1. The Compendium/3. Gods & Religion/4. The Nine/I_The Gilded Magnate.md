@@ -1,26 +1,26 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e G o l d e n K i n g","title":"- The Gilded Magnate","cssclasses":""}
 ---
 
-# The Creator
+# The Gilded Magnate
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Gilded Magnate**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
-> | **Followers** | `=this.followers` |
+> | **Aliases** | The Golden King |
+> | **Rank** | Major |
+> | **Aspects** | `=this.aspects` |
+> | **Aspect of** | [The One](1.%20The%20One.md), <br>[The Trinity](1.%20The%20Trinity.md) |
+> | **Portfolio** | Civilisation, <br>Ambition, <br>Greed, <br>Debt, <br>Wealth, <br>Ruin |
+> | **Followers** | Merchants, <br>Leaders, <br>Nobility, <br>Beggars |
 > | **Organisations** | `=this.organisations` |
 > | **Symbols** | `=this.symbol` |
 > | **Godly Relations** |  |

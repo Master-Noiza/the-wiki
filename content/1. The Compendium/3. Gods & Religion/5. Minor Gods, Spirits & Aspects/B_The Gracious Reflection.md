@@ -1,29 +1,29 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e B e n e v o l e n t S t r a n g e r < b r > T h e C o m p a s s i o n a t e W a n d e r e r","title":"- The Gracious Reflection","cssclasses":""}
 ---
 
-# The Creator
+# The Gracious Reflection
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Gracious Reflection**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
+> | **Aliases** | The Benevolent Stranger, <br>The Compassionate Wanderer |
+> | **Rank** | Minor |
+> | **Aspects** | `=this.aspects` |
+> | **Aspect of** | [She Who Weeps](B_She%20Who%20Weeps.md), <br>[The Shattered Queen](E_The%20Shattered%20Queen.md) |
+> | **Portfolio** | Altruism, <br>Hope, <br>Anonymous good deeds, <br>Renewal, <br>Charity |
 > | **Followers** | `=this.followers` |
-> | **Organisations** | `=this.organisations` |
-> | **Symbols** | `=this.symbol` |
-> | **Godly Relations** |  |
+> | **Organisations** | The Smiling Mask |
+> | **Symbols** | A masked, always smiling face |
+> | **Godly Relations** | [The Spiteful Shade](D_The%20Spiteful%20Shade.md) (Antithesis) |
 
 
 > [!quote|author] The Quoted, yyyy

@@ -1,25 +1,25 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e K e e p e r o f S e c r e t s","title":"- The Warden Of Shadows","cssclasses":""}
 ---
 
-# The Creator
+# The Warden Of Shadows
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Warden Of Shadows**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
+> | **Aliases** | The Keeper of Secrets |
+> | **Rank** | Major |
+> | **Aspects** | `=this.aspects` |
+> | **Aspect of** | [The One](1.%20The%20One.md), <br>[The Trinity](1.%20The%20Trinity.md) |
+> | **Portfolio** | Secrets, <br>Deception, <br>Lies, <br>Treachery, <br>Illusions, <br>Trickery |
 > | **Followers** | `=this.followers` |
 > | **Organisations** | `=this.organisations` |
 > | **Symbols** | `=this.symbol` |

@@ -1,28 +1,28 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e R i g h t e o u s F u r y","title":"- The Burning Judge","cssclasses":""}
 ---
 
-# The Creator
+# The Burning Judge
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Burning Judge**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
-> | **Followers** | `=this.followers` |
-> | **Organisations** | `=this.organisations` |
-> | **Symbols** | `=this.symbol` |
+> | **Aliases** | The Righteous Fury |
+> | **Rank** | Major |
+> | **Aspects** | `=this.aspects` |
+> | **Aspect of** | [The One](1.%20The%20One.md), <br>[The Trinity](1.%20The%20Trinity.md) |
+> | **Portfolio** | Justice, <br>Honor, <br>Craftsmanship, <br>Purity, <br>Fire, <br>Wrath, <br>Vengeance |
+> | **Followers** | Artisans, <br>Judges, <br>Politicians, <br>Miners |
+> | **Organisations** | The Flaming Sword |
+> | **Symbols** | A flaming sword, crossed with a hammer |
 > | **Godly Relations** |  |
 
 

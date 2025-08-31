@@ -1,28 +1,28 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e L o v e r s","title":"- The Passionate Duett","cssclasses":""}
 ---
 
-# The Creator
+# The Passionate Duett
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Passionate Duett**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
-> | **Followers** | `=this.followers` |
+> | **Aliases** | The Lovers |
+> | **Rank** | Major |
+> | **Aspects** | `=this.aspects` |
+> | **Aspect of** | [The One](1.%20The%20One.md), <br>[The Trinity](1.%20The%20Trinity.md) |
+> | **Portfolio** | Passion, <br>Love, <br>Impulses, <br>Jealousy, <br>Resentment, <br>Duality, <br>Contradiction |
+> | **Followers** | Artists, <br>Couples |
 > | **Organisations** | `=this.organisations` |
-> | **Symbols** | `=this.symbol` |
+> | **Symbols** | A rose and a bloody dagger, <br>Two interlocking rings |
 > | **Godly Relations** |  |
 
 

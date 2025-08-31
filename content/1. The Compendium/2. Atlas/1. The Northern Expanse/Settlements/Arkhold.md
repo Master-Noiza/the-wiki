@@ -33,7 +33,7 @@
 > | **Economy** | Regulated |
 > | **Defence** | City Walls, <br>The Black Guard, <br>City Watch, <br>Standing Military, <br>Protection Runes |
 > | **Magic** | Heavily Regulated |
-> | **Primary Religions** | [The Nine](A_The%20Nine.md), <br>[The Burning Judge](7.%20The%20Burning%20Judge.md),<br>[The Silent King](3.%20The%20Silent%20King.md) |
+> | **Primary Religions** | [The Nine](A_The%20Nine.md), <br>[The Burning Judge](G_The%20Burning%20Judge.md),<br>[The Silent King](C_The%20Silent%20King.md) |
 
 > [!quote|author clean] *"When they came, they came with shining steel and promises of peace. They left with Arkhold's coin and sons. But the north is ours yet. What the Empire forgets, Arkhold remembers."*
 > Elara of the Council of Nine, Reflections on the Northern Wars

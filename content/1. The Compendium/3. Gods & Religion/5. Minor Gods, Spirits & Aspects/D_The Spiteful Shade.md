@@ -1,29 +1,29 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e M a l e v o l e n t S t r a n g e r","title":"- The Spiteful Shade","cssclasses":""}
 ---
 
-# The Creator
+# The Spiteful Shade
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Spiteful Shade**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
-> | **Followers** | `=this.followers` |
+> | **Aliases** | The Malevolent Stranger |
+> | **Rank** | Minor |
+> | **Aspects** | `=this.aspects` |
+> | **Aspect of** | [The Shattered Queen](E_The%20Shattered%20Queen.md), <br>[The Warden Of Shadows](F_The%20Warden%20Of%20Shadows.md) |
+> | **Portfolio** | Deceit, <br>Treachery, <br>Exploitation, <br>False Promises, <br>Betrayal |
+> | **Followers** | Con-artists, <br>The Disillusioned, <br>The Corrupt, <br>The Ambitious |
 > | **Organisations** | `=this.organisations` |
-> | **Symbols** | `=this.symbol` |
-> | **Godly Relations** |  |
+> | **Symbols** | A hand clutching a shattered mask |
+> | **Godly Relations** | [The Gracious Reflection](B_The%20Gracious%20Reflection.md) (Antithesis)|
 
 
 > [!quote|author] The Quoted, yyyy

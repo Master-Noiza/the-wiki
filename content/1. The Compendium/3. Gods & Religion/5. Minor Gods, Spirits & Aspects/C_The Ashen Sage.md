@@ -1,27 +1,27 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e T e a c h e r a n d S t u d e n t","title":"The Ashen Sage","cssclasses":""}
 ---
 
-# The Creator
+# The Ashen Sage
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Ashen Sage**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
-> | **Followers** | `=this.followers` |
-> | **Organisations** | `=this.organisations` |
+> | **Aliases** | The Teacher and Student |
+> | **Rank** | Minor |
+> | **Aspects** | `=this.aspects` |
+> | **Aspect of** | [The Shattered Queen](E_The%20Shattered%20Queen.md) |
+> | **Portfolio** | Knowledge, <br>Rebirth, <br>Memory, <br>Forgetting, <br>Teaching & Learning, <br>Wisdom |
+> | **Followers** | Scholars, Historians |
+> | **Organisations** | The Librarians |
 > | **Symbols** | `=this.symbol` |
 > | **Godly Relations** |  |
 
@@ -38,7 +38,9 @@
 
 ## Basic Information:
 Über welche Aspekte der natürlichen oder übernatürlichen Welt herrscht die Gottheit?
+Goddess of knowledge, forgetting, ash, rebirth, sacrifice, mortality, alchemy, wisdom, learning, and teaching.
 
+The Ashen Sage preserves all knowledge and teaches that everything must end to be reborn. Scholars and alchemists seek her wisdom, believing in the cyclical nature of existence and the transformative power of knowledge.
 What are their general characteristics?  
 (answer this without using a bullet list)
 

@@ -1,28 +1,28 @@
 ---
-{"publish":true,"aliases":"C h a m u s h ' n e t h","title":"- The Creator","cssclasses":""}
+{"publish":true,"aliases":"T h e G a z e r o f S t a r s < b r > T h e F r a g m e n t e d W e a v e r","title":"- The Shattered Queen","cssclasses":""}
 ---
 
-# The Creator
+# The Shattered Queen
 
 ---
 > [!infobox]
 > 
 > 
-> ## **The Creator**
+> ## **The Shattered Queen**
 > 
 > ![[z_Assets/NPC_Placeholder.jpg]]
 > 
 > ## - Facts -
 > | Type | Name |
 > | ---- | ---- |
-> | **Aliases** | Chamush'neth |
-> | **Rank** | Supreme Aspect |
-> | **Aspects** | [The Burning Judge](G_The%20Burning%20Judge.md), <br>[J_The Herald of Change](J_The%20Herald%20of%20Change.md), <br>[The Passionate Duett](H_The%20Passionate%20Duett.md) |
-> | **Aspect of** | [The One](1.%20The%20One.md) |
-> | **Portfolio** | Birth, <br>Creation, <br>Growth |
+> | **Aliases** | The Gazer of Stars, <br>The Fragmented Weaver |
+> | **Rank** | Major |
+> | **Aspects** | [The One](1.%20The%20One.md), <br>[The Trinity](1.%20The%20Trinity.md) |
+> | **Aspect of** | `=this.aspect_of` |
+> | **Portfolio** | Destiny, <br>Knowledge, <br>Fragmentation, <br>Dream & Nightmares, <br>Storms |
 > | **Followers** | `=this.followers` |
-> | **Organisations** | `=this.organisations` |
-> | **Symbols** | `=this.symbol` |
+> | **Organisations** | The Celestial Order |
+> | **Symbols** | A broken mirror |
 > | **Godly Relations** |  |
 
 
