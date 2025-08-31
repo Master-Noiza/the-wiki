@@ -4,13 +4,11 @@
 
 ![[z_Assets/Banner.webp| banner p+cct]]
 
-# The World of Vilenought
+# <center> The World of Vilenought </center>
 <br>
 
 ## A Compendium of the Lands and Seas of the known World
-<br>
-
-### Compiled and curated by Edmund Gelting, wandering scribe, loremaster and third high counselor to the God-Empress of the Urashalyri Empire
+### Compiled and curated by Eddart of Gelthyr, wandering scribe, loremaster and third high counselor to the God-Empress of the Urashalyri Empire
 
 ![[z_Assets/Divider_1.webp]]
 
@@ -26,59 +24,17 @@
 
 > [!column| no-t no-i]
 >
->> [!bug| no-i ttl-c]- The Magic
->>
->> - [Essence Weaving](1.%20The%20Magic%20of%20Vilenought/1.%20Essence%20Weaving.md)
->> - [Residue Buildup & Veil Scarring](1.%20The%20Magic%20of%20Vilenought/2.%20Residue%20Buildup,%20Veil%20Susceptibility%20&%20Veil%20Scarring.md)
->> - [The Disciplines & Aspects](1.%20The%20Magic%20of%20Vilenought/3.%20The%20Disciplines%20&%20Aspects.md)
->> - [The Spells](1.%20The%20Magic%20of%20Vilenought/4.%20The%20Spells.md)
->> - [Creating new Spells](1.%20The%20Magic%20of%20Vilenought/5.%20Creating%20new%20Spells.md)
->> - [Spell modification - On the Fly](1.%20The%20Magic%20of%20Vilenought/6.%20Spell%20modification%20-%20On%20the%20Fly.md)
->> - [Spell modification - Stable](1.%20The%20Magic%20of%20Vilenought/7.%20Spell%20modification%20-%20Stable.md)
+>> [!bug| no-i ttl-c]- The Lore
+>> 
+>> - [[1. The Compendium/1. The Magic of Vilenought/1. Overview\|The Magic of Vilenought]]
+>> - [[1. The Compendium/2. Atlas/1. Overview\|The Atlas]]
+>> - [[1. The Compendium/3. Gods & Religion/1. Overview\|Gods & Religion]]
+>> - [[1. The Compendium/4. The Races/1. Overview\|The Races]]
+>> - [[1. The Compendium/7. Herbarium/index\|The Herbarium]]
+>> - [[1. The Compendium/8. Bestiary/index\|The Bestiary]]
 >
->> [!error| no-i ttl-c]- The Races
->>
->> - [Overview](The%20Races%20of%20Vilenought.md)
->> - [The Monkhalyr](1.%20The%20Compendium/4.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md)
->> - [The Markhalyr](1.%20The%20Compendium/4.%20The%20Races/3.%20The%20Markhalyr/1.%20Lore.md)
->> - [The Venthalyr](1.%20The%20Compendium/4.%20The%20Races/4.%20The%20Venthalyr/1.%20Lore.md)
->> - [The Anthalyr](1.%20The%20Compendium/4.%20The%20Races/5.%20The%20Anthalyr/2.%20Mechanics.md)
->> - [The Urashalyr](1.%20The%20Compendium/4.%20The%20Races/6.%20The%20Urashalyr/1.%20Lore.md)
->> - [The Varashalyr](1.%20The%20Compendium/4.%20The%20Races/7.%20The%20Varashalyr/2.%20Mechanics.md)
+>> [!error| no-i ttl-c]- The Mechanics
 
-> [!column| no-t no-i]
->> [!bug| no-i ttl-c]- The Gods
->> - [The Gods & Pantheons](The%20Gods%20&%20Pantheons.md)
->> <br>
->> - [The One](1.%20The%20One.md)
->> - [The Trinity](1.%20The%20Trinity.md)
->>   - [The Creator](1.%20The%20Creator.md)
->>   - [The Preserver](2.%20The%20Preserver.md)
->>   - [The Destroyer](3.%20The%20Destroyer.md)
->> - [The Nine](A_The%20Nine.md)
->>   - [She Who Weeps](A_She%20Who%20Weeps.md)
->>   - [The Silent King](B_The%20Silent%20King.md)
->>   - [The Bound One](C_The%20Bound%20One.md)
->>   - [The Shattered Queen](D_The%20Shattered%20Queen.md)
->>   - [The Warden Of Shadows](E_The%20Warden%20Of%20Shadows.md)
->>   - [The Burning Judge](F_The%20Burning%20Judge.md)
->>   - [The Passionate Duett](G_The%20Passionate%20Duett.md)
->>   - [The Gilded Magnate](H_The%20Gilded%20Magnate.md)
->>   - [I_The Herald of Change](I_The%20Herald%20of%20Change.md)
->> - [Minor Gods & Aspects](1.%20Minor%20Gods%20&%20Aspects.md)
->>   - [The Gracious Reflection](2.%20The%20Gracious%20Reflection.md)
->>   - [The Spiteful Shade](3.%20The%20Spiteful%20Shade.md)
->>   - [The Ashen Sage](4.%20The%20Ashen%20Sage.md)
->>   - [The Primal Sovereign](5.%20The%20Primal%20Sovereign.md)
->
->> [!bug| txt-c ttl-c no-i]- The Mechanics
->> - [General Rules & Specifics](General%20Rules%20&%20Specifics.md)
->> - [Long-Term Fatigue](Long-Term%20Fatigue.md)
->> - [Mutations](Mutations.md)
->> - [Skills](9.%20Mechanics/Skills.md)
->> - [Tables](Tables.md)
->> - [Traits](Traits.md)
->> - [Weaving Traits](Weaving%20Traits.md)
 
 ![[z_Assets/Divider_1.webp]]
 
