@@ -105,7 +105,7 @@
   - Casting parameters reduce/increase the penalties on the casting-roll
   - Spontaneous enhancements increase the penalties on the casting roll
   - Penalties can be balanced out by spending more FP/HP and/or adjusting the casting parameters
-  - See [Spell modification - On the Fly](G_Spell%20modification%20-%20On%20the%20Fly.md) for details
+  - See [Spell modification - On the Fly](G_Weaving%20parameters.md) for details
   - Spontaneously modified spells can **not** be cast above default
   - Spells can be modified in a more stable, prepared manner too
   - See [Spell modification - Stable](F_Spell%20modification%20-%20Stable.md) for details

@@ -7,7 +7,7 @@
 
 Instead of creating a new spell for every use case, or searching for a scroll/teacher, a Weaver may choose to modify a known spell instead.
 
-In contrast to [Spell modification - On the Fly](G_Spell%20modification%20-%20On%20the%20Fly.md), this is a more permanent and stable approach.
+In contrast to [Spell modification - On the Fly](G_Weaving%20parameters.md), this is a more permanent and stable approach.
 
 This can **not** alter the underlying spell fundamentally. For that use [Creating new Spells](E_Creating%20new%20Spells.md) instead.
 

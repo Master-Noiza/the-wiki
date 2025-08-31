@@ -20,7 +20,7 @@ In order to get access to new or more powerful spells, a caster can take a few d
 **[[2. The Mechanics/1. The Magic/F_Spell modification - Stable\|Stable Spell Modification]]**: If the desired effect can reasonably linked to an existing, already known spell it is possible to modify the known spell to include the new effect.
 
 ---
-**[[2. The Mechanics/1. The Magic/G_Spell modification - On the Fly\|On the Fly Spell Modification]]**: Alternatively, when needing a different effect **right now**, the Weaver can add the desired effects and additions to a known spell on the fly.
+**[[2. The Mechanics/1. The Magic/G_Weaving parameters\|On the Fly Spell Modification]]**: Alternatively, when needing a different effect **right now**, the Weaver can add the desired effects and additions to a known spell on the fly.
 
 ---
 **[[2. The Mechanics/1. The Magic/E_Creating new Spells\|Creating new Spells]]**: Finally, if modification is not enough and a Weaver wishes to create an entirely new spell there are a few prerequisites:
