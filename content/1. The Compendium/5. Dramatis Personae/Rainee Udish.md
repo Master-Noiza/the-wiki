@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e W i t c h < b r > G r a n n y R a i n e e","title":"Rainee Udish","cssclasses":""}
+{"publish":true,"aliases":"T h e W i t c h < b r > G r a n n y R a i n e e","title":"Rainee Udish","modified":"2025-08-26T16:06:34.381+02:00","cssclasses":""}
 ---
 
 # Rainee Udish
@@ -39,7 +39,7 @@
 > | **Origin** | Respite |
 > | **Residence** | Outskirts of Respite, [[1. The Compendium/2. Atlas/1. The Northern Expanse/Shops & Services/Rainees Herbs & Poultices]] |
 > | **Profession** | Apothecary,<br>Healer |
-> | **Primary Belief** | [[1. The Compendium/3. Gods & Religion/5. Minor Gods, Spirits & Aspects/1. Minor Gods & Aspects\|The Gracious Reflection]] |
+> | **Primary Belief** | [[1. Minor Gods & Aspects\|The Gracious Reflection]] |
 > | **Relatives & Relationships** | Goran Udish (Husband) |
 
 > [!quote|author clean] This is the first quote

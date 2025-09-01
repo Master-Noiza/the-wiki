@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Familiar Hearth","cssclasses":""}
+{"publish":true,"title":"The Familiar Hearth","modified":"2025-08-28T15:35:47.046+02:00","cssclasses":""}
 ---
 
 # The Familiar Hearth

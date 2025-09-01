@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e L a d y o f t h e W i l d s < b r > T h e H u n t r e s s","title":"- The Primal Sovereign","cssclasses":""}
+{"publish":true,"aliases":"T h e L a d y o f t h e W i l d s < b r > T h e H u n t r e s s","title":"- The Primal Sovereign","modified":"2025-08-31T22:28:06.930+02:00","cssclasses":""}
 ---
 
 # The Primal Sovereign

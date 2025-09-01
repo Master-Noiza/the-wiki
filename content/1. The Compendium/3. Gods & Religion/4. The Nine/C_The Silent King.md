@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e M u t e F a t h e r < b r > T h e S i l e n c e < b r > T h e E n d","title":"- The Silent King","cssclasses":""}
+{"publish":true,"aliases":"T h e M u t e F a t h e r < b r > T h e S i l e n c e < b r > T h e E n d","title":"- The Silent King","modified":"2025-08-31T22:28:53.852+02:00","cssclasses":""}
 ---
 
 # The Silent King

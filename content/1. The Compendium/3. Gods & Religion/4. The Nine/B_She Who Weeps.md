@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e W e e p i n g O n e < b r > G h y r u s h ' l e t h < b r > L a d y O f N u r t u r e < b r > T h e M o t h e r o f S o r r o w","title":"- She Who Weeps","cssclasses":""}
+{"publish":true,"aliases":"T h e W e e p i n g O n e < b r > G h y r u s h ' l e t h < b r > L a d y O f N u r t u r e < b r > T h e M o t h e r o f S o r r o w","title":"- She Who Weeps","modified":"2025-08-31T22:28:06.948+02:00","cssclasses":""}
 ---
 
 # Ghyrush'leth - She Who Weeps

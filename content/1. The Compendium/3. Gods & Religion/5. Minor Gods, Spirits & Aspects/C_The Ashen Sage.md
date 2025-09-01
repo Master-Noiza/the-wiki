@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e T e a c h e r a n d S t u d e n t","title":"The Ashen Sage","cssclasses":""}
+{"publish":true,"aliases":"T h e T e a c h e r a n d S t u d e n t","title":"The Ashen Sage","modified":"2025-08-31T22:28:12.805+02:00","cssclasses":""}
 ---
 
 # The Ashen Sage

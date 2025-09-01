@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e M a l e v o l e n t S t r a n g e r","title":"- The Spiteful Shade","cssclasses":""}
+{"publish":true,"aliases":"T h e M a l e v o l e n t S t r a n g e r","title":"- The Spiteful Shade","modified":"2025-08-31T22:30:39.856+02:00","cssclasses":""}
 ---
 
 # The Spiteful Shade

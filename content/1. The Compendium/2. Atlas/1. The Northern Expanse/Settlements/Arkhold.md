@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e B l a c k B a s t i o n","title":"Arkhold","cssclasses":""}
+{"publish":true,"aliases":"T h e B l a c k B a s t i o n","title":"Arkhold","modified":"2025-08-31T22:28:29.388+02:00","cssclasses":""}
 ---
 
 # Arkhold

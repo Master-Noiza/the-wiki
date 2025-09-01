@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e G o l d e n K i n g","title":"- The Gilded Magnate","cssclasses":""}
+{"publish":true,"aliases":"T h e G o l d e n K i n g","title":"- The Gilded Magnate","modified":"2025-08-31T16:46:06.759+02:00","cssclasses":""}
 ---
 
 # The Gilded Magnate

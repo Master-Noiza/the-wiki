@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Burning Hammer","tags":[null],"cssclasses":""}
+{"publish":true,"title":"The Burning Hammer","modified":"2025-08-31T22:28:29.417+02:00","tags":[null],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"- Creating new Spells","cssclasses":""}
+{"publish":true,"title":"- Creating new Spells","modified":"2025-08-31T13:45:03.275+02:00","cssclasses":""}
 ---
 
 # Creating new Spells

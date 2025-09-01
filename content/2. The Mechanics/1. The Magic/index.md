@@ -1,3 +1,3 @@
 ---
-{"publish":true,"title":"The Magic","tags":[null],"cssclasses":""}
+{"publish":true,"title":"The Magic","modified":"2024-10-30T14:40:03.903+01:00","tags":[null],"cssclasses":""}
 ---

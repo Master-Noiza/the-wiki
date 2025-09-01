@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e G a z e r o f S t a r s < b r > T h e F r a g m e n t e d W e a v e r","title":"- The Shattered Queen","cssclasses":""}
+{"publish":true,"aliases":"T h e G a z e r o f S t a r s < b r > T h e F r a g m e n t e d W e a v e r","title":"- The Shattered Queen","modified":"2025-08-31T16:45:48.598+02:00","cssclasses":""}
 ---
 
 # The Shattered Queen

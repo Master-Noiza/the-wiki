@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"F l i c k e r b i r d","cssclasses":""}
+{"publish":true,"aliases":"F l i c k e r b i r d","modified":"2025-08-24T01:32:07.863+02:00","cssclasses":""}
 ---
 
 # Glimmerwing Sparrow

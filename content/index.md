@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The World of Vilenought","cssclasses":""}
+{"publish":true,"title":"The World of Vilenought","modified":"2025-08-31T22:39:10.613+02:00","cssclasses":""}
 ---
 
 ![[z_Assets/Banner.webp| banner p+cct]]
@@ -26,7 +26,7 @@
 >
 >> [!bug| no-i ttl-c]- The Lore
 >> 
->> - [[1. The Compendium/1. The Magic of Vilenought/1. Overview\|The Magic of Vilenought]]
+>> - [[1. The Compendium/1. The Magic of Vilenought/A_Overview\|The Magic of Vilenought]]
 >> - [[1. The Compendium/2. Atlas/1. Overview\|The Atlas]]
 >> - [[1. The Compendium/3. Gods & Religion/1. Overview\|Gods & Religion]]
 >> - [[1. The Compendium/4. The Races/1. Overview\|The Races]]

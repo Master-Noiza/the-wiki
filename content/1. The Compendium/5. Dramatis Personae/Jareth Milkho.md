@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e R a t ( S e c e t l y ) < b r > T h e F o r e i g n e r","title":"Jareth Milkho","cssclasses":""}
+{"publish":true,"aliases":"T h e R a t ( S e c e t l y ) < b r > T h e F o r e i g n e r","title":"Jareth Milkho","modified":"2025-08-26T16:02:00.624+02:00","cssclasses":""}
 ---
 
 # Jareth Milkho

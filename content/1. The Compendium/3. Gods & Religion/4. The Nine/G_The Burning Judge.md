@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e R i g h t e o u s F u r y","title":"- The Burning Judge","cssclasses":""}
+{"publish":true,"aliases":"T h e R i g h t e o u s F u r y","title":"- The Burning Judge","modified":"2025-08-31T16:45:57.541+02:00","cssclasses":""}
 ---
 
 # The Burning Judge

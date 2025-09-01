@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e B e n e v o l e n t S t r a n g e r < b r > T h e C o m p a s s i o n a t e W a n d e r e r","title":"- The Gracious Reflection","cssclasses":""}
+{"publish":true,"aliases":"T h e B e n e v o l e n t S t r a n g e r < b r > T h e C o m p a s s i o n a t e W a n d e r e r","title":"- The Gracious Reflection","modified":"2025-08-31T22:30:52.462+02:00","cssclasses":""}
 ---
 
 # The Gracious Reflection

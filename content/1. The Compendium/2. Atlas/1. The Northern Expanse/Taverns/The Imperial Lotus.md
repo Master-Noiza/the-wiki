@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e H e a r t l a n d s W a r m t h","title":"The Imperial Lotus","cssclasses":""}
+{"publish":true,"aliases":"T h e H e a r t l a n d s W a r m t h","title":"The Imperial Lotus","modified":"2025-08-28T16:48:02.792+02:00","cssclasses":""}
 ---
 
 # The Imperial Lotus

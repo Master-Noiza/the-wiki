@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Traits","tags":[null],"cssclasses":""}
+{"publish":true,"title":"Traits","modified":"2024-10-11T00:36:39.925+02:00","tags":[null],"cssclasses":""}
 ---
 
 # New  and important Traits:

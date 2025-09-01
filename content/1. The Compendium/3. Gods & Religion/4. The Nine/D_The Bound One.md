@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"I a k u s h ' n e t h < b r > T h e B r o k e n O n e < b r > T h e C h a i n e d G o d","title":"- The Bound One","cssclasses":""}
+{"publish":true,"aliases":"I a k u s h ' n e t h < b r > T h e B r o k e n O n e < b r > T h e C h a i n e d G o d","title":"- The Bound One","modified":"2025-08-31T22:28:29.455+02:00","cssclasses":""}
 ---
 
 # The Bound One

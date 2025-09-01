@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"- Weaving parameters","cssclasses":""}
+{"publish":true,"title":"- Weaving parameters","modified":"2025-08-31T13:46:22.390+02:00","cssclasses":""}
 ---
 
 # Weaving Parameters  & Spell Modification on the fly:

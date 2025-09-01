@@ -1,24 +1,10 @@
 ---
-{"publish":true,"title":"- Residue Buildup, Veil Susceptibility & Veil Scarring","cssclasses":""}
+{"publish":true,"title":"- Residue Buildup, Veil Susceptibility & Veil Scarring","modified":"2025-08-31T22:37:27.615+02:00","cssclasses":""}
 ---
 
 ## Residue Buildup, Veil Susceptibility & Veil Scarring
 
 ---
-
-**Veil Susceptibility:**
-- Governs overall risk of Veil related incidents
-- Penalty on calamity checks
-- Decides on which Critical Fail Table a Weaver must roll
-- Comes in Levels:
-  - 0: +1 per 5 points over ER when rolling for calamities, Base Crit Fail Table (Can not be removed)
-  - 1: +1 per 4 points over ER when rolling for calamities, 2nd Crit Fail Table
-  - 2: +1 per 3 points over ER when rolling for calamities, 3rd Crit Fail Table
-  - 3: +1 per 2 points over ER when rolling for calamities, 4th Crit Fail Table
-  - 4: +1 per 1 point over ER when rolling for calamities, 5th Crit Fail Table
-  - 5: +2 per 1 point over ER when rolling for calamities, 5th Crit Fail Table
-- New Traits: [[2. The Mechanics/Traits#Reduced Veil Susceptibility\|Reduced Veil Susceptibility]] & [[2. The Mechanics/Traits#Increased Veil Susceptibility\|Increased Veil Susceptibility]]
-<br>
 
 **Residue Buildup:**
 - Weaving spells, carving runes & interacting with Essence in any way leaves *Essence Residue* in the weaver's body & Soul

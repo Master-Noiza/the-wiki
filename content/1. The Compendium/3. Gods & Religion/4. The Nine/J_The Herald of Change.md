@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e S h i f t i n g T i d e","title":"- The Herald of Change","cssclasses":""}
+{"publish":true,"aliases":"T h e S h i f t i n g T i d e","title":"- The Herald of Change","modified":"2025-08-31T16:46:15.828+02:00","cssclasses":""}
 ---
 
 # The Herald of Change
