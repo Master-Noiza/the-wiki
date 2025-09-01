@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The World of Vilenought","modified":"2025-08-31T22:39:10.613+02:00","cssclasses":""}
+{"publish":true,"title":"The World of Vilenought","modified":"2025-09-02T00:44:10.578+02:00","cssclasses":""}
 ---
 
 ![[z_Assets/Banner.webp| banner p+cct]]
@@ -34,7 +34,13 @@
 >> - [[1. The Compendium/8. Bestiary/index\|The Bestiary]]
 >
 >> [!error| no-i ttl-c]- The Mechanics
-
+>>
+>> - [[2. The Mechanics/1. The Magic/A_Essence Weaving\|Essence Weaving]]
+>> - [[2. The Mechanics/General Rules & Specifics]]
+>> - [[2. The Mechanics/Mutations]]
+>> - [[2. The Mechanics/Tables]]
+>> - [[2. The Mechanics/Traits]]
+>> - [[2. The Mechanics/Weaving Traits]]
 
 ![[z_Assets/Divider_1.webp]]
 
