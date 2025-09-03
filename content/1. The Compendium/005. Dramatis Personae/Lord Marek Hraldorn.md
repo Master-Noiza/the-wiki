@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e U n y i e l d i n g","title":"Lord Marek Hraldorn","modified":"2025-09-04T00:37:11.681+02:00","cssclasses":""}
+{"publish":true,"aliases":"T h e U n y i e l d i n g","title":"Lord Marek Hraldorn","modified":"2025-09-04T00:56:36.019+02:00","cssclasses":""}
 ---
 
 # Lord Marek Hraldorn
@@ -15,7 +15,7 @@
 > ## **- Facts -**
 > |  |  |
 > | ---- | ---- |
-> | **Race** | [Monkhalyr](1.%20The%20Compendium/004.%20The%20Races/2.%20The%20Monkhalyr/1.%20Lore.md) |
+> | **Race** | [Monkhalyr](1.%20The%20Compendium/004.%20The%20Races/002.%20The%20Monkhalyr/1.%20Lore.md) |
 > | **Culture** | Northerner |
 > | **Aliases** | The Unyielding |
 > | **Rank/Title** | Lord Commander of Arkhold, <br>Warden of the Howling Rock |
@@ -39,7 +39,7 @@
 > | **Origin** | [Arkhold](Arkhold.md) |
 > | **Residence** | [Arkhold](Arkhold.md) |
 > | **Profession** | Leader,<br>General,<br>Governor |
-> | **Primary Belief** | [The Nine](A_The%20Nine.md), <br>[The Burning Judge](G_The%20Burning%20Judge.md), <br>[The Gilded Magnate](I_The%20Gilded%20Magnate.md) |
+> | **Primary Belief** | [The Nine](A_The%20Nine.md), <br>[The Burning Judge](007.%20The%20Burning%20Judge.md), <br>[The Gilded Magnate](009.%20The%20Gilded%20Magnate.md) |
 > | **Relatives & Relationships** | - |
 
 > [!quote|author clean] This is the first quote
@@ -54,7 +54,7 @@
 
 Lord Marek Hraldorn has been the Commander of [Arkhold's](Arkhold.md) City Watch and Elite Military Force, *The Black Guard* for over two decades. He is a decorated Veteran of many border skirmishes but is yet to prove his worth in a real war scenario. 
 
-Lord Hraldorn is known as a zealous follower of the [the Burning Judge](G_The%20Burning%20Judge.md) and a stern traditionalist, longing to bring *Arkhold* back to its former glory and, keeping in line with the *Judge's* teachings, bringing justice to those that humiliated his home.
+Lord Hraldorn is known as a zealous follower of the [the Burning Judge](007.%20The%20Burning%20Judge.md) and a stern traditionalist, longing to bring *Arkhold* back to its former glory and, keeping in line with the *Judge's* teachings, bringing justice to those that humiliated his home.
 
 Lately there are increasingly damning rumours about his growing ambition and influence, some even whispering of open rebellion and a reach for power.
 

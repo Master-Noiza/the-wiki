@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Weaving Traits","modified":"2025-09-04T00:37:11.581+02:00","cssclasses":""}
+{"publish":true,"title":"Weaving Traits","modified":"2025-09-04T00:56:36.030+02:00","cssclasses":""}
 ---
 
 # Weaving related Traits:
@@ -36,7 +36,7 @@
 ---
 ## Gifted
 - [5 pts]
-- Prerequisite for Races other than the [[1. The Compendium/004. The Races/2. The Monkhalyr/2. Mechanics\|Monkhalyr]] to buy Increased Weaving Diversity
+- Prerequisite for Races other than the [[1. The Compendium/004. The Races/002. The Monkhalyr/2. Mechanics\|Monkhalyr]] to buy Increased Weaving Diversity
 - Locked/Unavailable for the [[1. The Compendium/004. The Races/3. The Markhalyr/2. Mechanics\|Markhalyr]]
 
 ---
@@ -44,7 +44,7 @@
 - [3 pts/level]
 - Levels increase the available for purchase magical styles to 1, up to 3, or unlocks all
 - Prerequisites: Veil-Marked **or** Gifted
-- No Prerequisites and part of the Racial template for the [[1. The Compendium/004. The Races/2. The Monkhalyr/2. Mechanics\|Monkhalyr]]
+- No Prerequisites and part of the Racial template for the [[1. The Compendium/004. The Races/002. The Monkhalyr/2. Mechanics\|Monkhalyr]]
 
 ---
 ## Racial Mutation (Enhancement)
