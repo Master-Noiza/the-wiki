@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"B l i n k i n g F a l c o n","modified":"2025-09-04T00:37:11.719+02:00","cssclasses":""}
+{"publish":true,"aliases":"B l i n k i n g F a l c o n","modified":"2025-09-04T01:06:19.289+02:00","cssclasses":""}
 ---
 
 # Rustspark Falcon
@@ -70,6 +70,6 @@ The falcon primarily inhabits open, expansive landscapes such as grasslands, pla
 >> 
 >>**Messenger of the gods**
 >>
->>- Some [Anthalyr tribes](1.%20The%20Compendium/004.%20The%20Races/5.%20The%20Anthalyr/1.%20Lore.md) revere the Rustspark Falcon as an avatar of a minor storm deity, believing its flashes are signs of favor or warning.
+>>- Some [Anthalyr tribes](1.%20The%20Compendium/004.%20The%20Races/005.%20The%20Anthalyr/1.%20Lore.md) revere the Rustspark Falcon as an avatar of a minor storm deity, believing its flashes are signs of favor or warning.
 
 ---

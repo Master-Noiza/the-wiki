@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The World of Vilenought","modified":"2025-09-04T00:45:00.809+02:00","cssclasses":""}
+{"publish":true,"title":"The World of Vilenought","modified":"2025-09-04T01:08:26.018+02:00","cssclasses":""}
 ---
 
 ![[z_Assets/Banner.webp| banner p+cct]]
@@ -29,7 +29,7 @@
 >> - [[1. The Compendium/001. The Magic of Vilenought/A_Overview\|The Magic of Vilenought]]
 >> - [[1. The Compendium/002. Atlas/001. Overview\|The Atlas]]
 >> - [[1. The Compendium/003. Gods & Religion/001. Overview\|Gods & Religion]]
->> - [[1. The Compendium/004. The Races/1. Overview\|The Races]]
+>> - [[1. The Compendium/004. The Races/001. Overview\|The Races]]
 >> - [[1. The Compendium/007. Herbarium/index\|The Herbarium]]
 >> - [[1. The Compendium/008. Bestiary/index\|The Bestiary]]
 >

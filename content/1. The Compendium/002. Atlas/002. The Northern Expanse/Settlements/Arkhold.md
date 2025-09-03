@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e B l a c k B a s t i o n","title":"Arkhold","modified":"2025-09-04T00:56:35.917+02:00","cssclasses":""}
+{"publish":true,"aliases":"T h e B l a c k B a s t i o n","title":"Arkhold","modified":"2025-09-04T01:06:25.354+02:00","cssclasses":""}
 ---
 
 # Arkhold
@@ -19,9 +19,9 @@
 > | **Type** | Fortress City, <br>City-State, <br>Former Capital |
 > | **Function** | Trade-Hub,<br>Fortress,<br>Defence,<br>Territorial Capital |
 > | **Location** | [The Northern Expanse](The%20Northern%20Expanse.md) |
-> | **Nation** | [Urashalyri Empire](1.%20The%20Compendium/004.%20The%20Races/6.%20The%20Urashalyr/2.%20Mechanics.md) (Nominally), <br>Self Governed |
+> | **Nation** | [Urashalyri Empire](1.%20The%20Compendium/004.%20The%20Races/006.%20The%20Urashalyr/2.%20Mechanics.md) (Nominally), <br>Self Governed |
 > | **Population** | 10000 |
-> | **Inhabitants** | [Monkhalyr](1.%20The%20Compendium/004.%20The%20Races/002.%20The%20Monkhalyr/1.%20Lore.md), <br>[Markhalyr](1.%20The%20Compendium/004.%20The%20Races/3.%20The%20Markhalyr/1.%20Lore.md),<br>[Urashalyr](1.%20The%20Compendium/004.%20The%20Races/6.%20The%20Urashalyr/1.%20Lore.md) |
+> | **Inhabitants** | [Monkhalyr](1.%20The%20Compendium/004.%20The%20Races/002.%20The%20Monkhalyr/1.%20Lore.md), <br>[Markhalyr](1.%20The%20Compendium/004.%20The%20Races/003.%20The%20Markhalyr/1.%20Lore.md),<br>[Urashalyr](1.%20The%20Compendium/004.%20The%20Races/006.%20The%20Urashalyr/1.%20Lore.md) |
 > | **Condition** | Declining |
 > | **Governance** | Clerical Oligarchy (Official), <br>Totalitarian Triumvirate (Inofficial) |
 > | **Leaders** | Lord Commander (Informal), <br>The Circle of the Nine (Formal) |
@@ -51,7 +51,7 @@ Arkhold used to be the capital of *Suth Ka'al*, the northernmost [Mokhalyr](1.%2
 
 The current walls and buildings of Arkhold where build on the ancient ruins of *Zhar-Kaith*, the ancient Jewel of the north, a monkhalyri city of old, swallowed by time millenia ago.
 
-Less than a century ago the [Urashalyr](1.%20The%20Compendium/004.%20The%20Races/6.%20The%20Urashalyr/1.%20Lore.md) Empire crossed the *Narrow Sea* and swallowed these lands.
+Less than a century ago the [Urashalyr](1.%20The%20Compendium/004.%20The%20Races/006.%20The%20Urashalyr/1.%20Lore.md) Empire crossed the *Narrow Sea* and swallowed these lands.
 Despite nominally belonging to the Empire now, the northern expanse is too far removed from the empire's center and too insignificant to warrant a sufficient military presence.
 
 In essence, *Arhold* was mostly allowed to keep its identity and remain self governed. Yet the annual *Imperial Tithe* is a heavy strain on the Economy and imperial representatives are watching developments closely.
@@ -77,7 +77,7 @@ This precarious balance is in danger, as the *Lord Commander* of the *Black Guar
 
 Arkhold, having long been the strongest political and military force, has long standing relations in the noth. Some of the *Skyward Holds* remain independent to this day and Arkhold still holds significant influence on their political decisions.
 
-[The Markhalyr](1.%20The%20Compendium/004.%20The%20Races/3.%20The%20Markhalyr/1.%20Lore.md) of *Suth Ka'al*, although heavily declining and a shadow of their former power, once where honored allies and are responsible for the impressive defenses of the city.
+[The Markhalyr](1.%20The%20Compendium/004.%20The%20Races/003.%20The%20Markhalyr/1.%20Lore.md) of *Suth Ka'al*, although heavily declining and a shadow of their former power, once where honored allies and are responsible for the impressive defenses of the city.
 
 <br>
 

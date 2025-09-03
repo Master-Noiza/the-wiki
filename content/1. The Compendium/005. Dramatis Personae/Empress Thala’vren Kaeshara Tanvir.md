@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Empress Thala’vren","modified":"2025-09-04T00:37:11.669+02:00","cssclasses":""}
+{"publish":true,"title":"Empress Thala’vren","modified":"2025-09-04T01:06:25.426+02:00","cssclasses":""}
 ---
 
 # Empress Thala’vren Kaeshara Tanvir
@@ -14,7 +14,7 @@
 > ## **- Facts -**
 > |  |  |
 > | ---- | ---- |
-> | **Race** | [Urashalyr](1.%20The%20Compendium/004.%20The%20Races/6.%20The%20Urashalyr/1.%20Lore.md) |
+> | **Race** | [Urashalyr](1.%20The%20Compendium/004.%20The%20Races/006.%20The%20Urashalyr/1.%20Lore.md) |
 > | **Culture** | Imperial Heartlands |
 > | **Aliases** | The God-Empress,<br>The Unifier,<br>The Chosen,<br>The Keeper of Peace,<br>The Creator's Hand,<br>The Preserver's Fist,<br>The Destroyer's Hammer |
 > | **Rank/Title** | God-Empress of the Urashalyri Empire |
