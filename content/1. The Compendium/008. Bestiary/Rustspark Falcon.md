@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"B l i n k i n g F a l c o n","modified":"2025-09-04T01:06:19.289+02:00","cssclasses":""}
+{"publish":true,"aliases":"B l i n k i n g F a l c o n","modified":"2025-09-04T01:06:19.000+02:00","cssclasses":""}
 ---
 
 # Rustspark Falcon

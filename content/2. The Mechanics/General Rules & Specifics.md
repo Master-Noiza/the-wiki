@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"General Rules & Specifics","modified":"2024-10-24T19:03:53.256+02:00","tags":[null],"cssclasses":""}
+{"publish":true,"title":"General Rules & Specifics","modified":"2024-10-24T19:03:53.000+02:00","tags":[null],"cssclasses":""}
 ---
 
 ## Setting specific Rules:

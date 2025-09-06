@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"- Residue Buildup & Veil Scarring","modified":"2025-09-01T20:52:33.969+02:00","cssclasses":""}
+{"publish":true,"title":"- Residue Buildup & Veil Scarring","modified":"2025-09-01T20:52:33.000+02:00","cssclasses":""}
 ---
 
 ## Residue Buildup, Veil Susceptibility & Veil Scarring

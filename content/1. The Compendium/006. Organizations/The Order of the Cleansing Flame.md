@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Order of the Cleansing Flame","modified":"2025-09-04T00:44:31.971+02:00","cssclasses":""}
+{"publish":true,"title":"The Order of the Cleansing Flame","modified":"2025-09-04T00:44:31.000+02:00","cssclasses":""}
 ---
 
 ## The Order of the Cleansing Flame

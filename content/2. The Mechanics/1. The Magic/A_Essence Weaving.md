@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"- Essence Weaving","modified":"2025-08-31T13:44:39.538+02:00","tags":[null],"cssclasses":""}
+{"publish":true,"title":"- Essence Weaving","modified":"2025-08-31T13:44:39.000+02:00","tags":[null],"cssclasses":""}
 ---
 
 # Essence Weaving:

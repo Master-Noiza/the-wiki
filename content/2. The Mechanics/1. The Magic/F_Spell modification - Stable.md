@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"- Spell modification - Stable","modified":"2025-08-31T13:45:13.589+02:00","tags":[null],"cssclasses":""}
+{"publish":true,"title":"- Spell modification - Stable","modified":"2025-08-31T13:45:13.000+02:00","tags":[null],"cssclasses":""}
 ---
 
 

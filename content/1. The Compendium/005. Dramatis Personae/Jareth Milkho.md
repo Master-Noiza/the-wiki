@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e R a t ( S e c e t l y ) < b r > T h e F o r e i g n e r","title":"Jareth Milkho","modified":"2025-08-26T16:02:00.624+02:00","cssclasses":""}
+{"publish":true,"aliases":"T h e R a t ( S e c e t l y ) < b r > T h e F o r e i g n e r","title":"Jareth Milkho","modified":"2025-08-26T16:02:00.000+02:00","cssclasses":""}
 ---
 
 # Jareth Milkho
@@ -18,8 +18,8 @@
 > | **Race** | Monkhalyr |
 > | **Culture** | Selvonian |
 > | **Aliases** | The Rat (Secetly),<br>The Foreigner |
-> | **Rank/Title** | Appointed Mayor of [[1. The Compendium/002. Atlas/1. The Northern Expanse/Settlements/Respite]] |
-> | **Allegiance** | The Urashalyri Empire (Loyal),<br>[[1. The Compendium/002. Atlas/1. The Northern Expanse/Settlements/Arkhold]] (Tensions),<br>The Council of Reason (Tensions) |
+> | **Rank/Title** | Appointed Mayor of [[1. The Compendium/002. Atlas/002. The Northern Expanse/Settlements/Respite]] |
+> | **Allegiance** | The Urashalyri Empire (Loyal),<br>[[1. The Compendium/002. Atlas/002. The Northern Expanse/Settlements/Arkhold]] (Tensions),<br>The Council of Reason (Tensions) |
 > | **Relations** | `=this.relations` |
 > | **Location** | Respite |
 > 
@@ -39,7 +39,7 @@
 > | **Origin** | Kingdom of Selvona |
 > | **Residence** | The Mayoral Longhouse,<br>Respite |
 > | **Profession** | Appointed Mayor of Respite |
-> | **Primary Belief** | [[1. The Compendium/003. Gods & Religion/2. The One True God/1. The One\|The One]] |
+> | **Primary Belief** | [[1. The One\|The One]] |
 > | **Relatives & Relationships** | Unknown |
 
 > [!quote|author clean] This is the first quote

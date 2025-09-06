@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e U n y i e l d i n g","title":"Lord Marek Hraldorn","modified":"2025-09-04T00:56:36.019+02:00","cssclasses":""}
+{"publish":true,"aliases":"T h e U n y i e l d i n g","title":"Lord Marek Hraldorn","modified":"2025-09-04T00:56:36.000+02:00","cssclasses":""}
 ---
 
 # Lord Marek Hraldorn

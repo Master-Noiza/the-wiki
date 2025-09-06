@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Tables","modified":"2024-10-11T00:36:33.397+02:00","tags":[null],"cssclasses":""}
+{"publish":true,"title":"Tables","modified":"2024-10-11T00:36:33.000+02:00","tags":[null],"cssclasses":""}
 ---
 
 ## Spell/Rune Crafting Side-Effects Tables:

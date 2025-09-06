@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Weaving Traits","modified":"2025-09-04T01:06:06.801+02:00","cssclasses":""}
+{"publish":true,"title":"Weaving Traits","modified":"2025-09-04T01:06:06.000+02:00","cssclasses":""}
 ---
 
 # Weaving related Traits:

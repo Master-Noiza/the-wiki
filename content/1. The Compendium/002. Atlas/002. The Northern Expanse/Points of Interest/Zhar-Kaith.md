@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Zhar-Kaith","modified":"2025-08-28T17:00:45.527+02:00","cssclasses":""}
+{"publish":true,"title":"Zhar-Kaith","modified":"2025-08-28T17:00:45.000+02:00","cssclasses":""}
 ---
 
 # The Ruins of Zhar-Kaith

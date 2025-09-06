@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Campfire Stories","modified":"2024-10-26T16:52:41.129+02:00","tags":[null],"cssclasses":""}
+{"publish":true,"title":"Campfire Stories","modified":"2024-10-26T16:52:41.000+02:00","tags":[null],"cssclasses":""}
 ---
 
 # The Campfire Stories:
