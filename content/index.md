@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The World of Vilenought","modified":"2025-09-04T01:08:26.000+02:00","cssclasses":""}
+{"publish":true,"title":"The World of Vilenought","modified":"2025-09-08T08:56:01.090+02:00","cssclasses":""}
 ---
 
 ![[z_Assets/Banner.webp| banner p+cct]]
@@ -15,7 +15,7 @@
 > [!quote] Beyond our world, not far, but close enough to touch it, yet forever distant and cut off by the Veil, lies the Mirror. A feint imprint of the reality we are so sure we call our own. Every stone cast in a still forest lake sends ripples down the surface of its misty, bleak projection in the Mirror. Or are we the projections? Are we mere echoes of the spirits that roam the dim forests beyond our reach? Beyond the Mirror still, to where only the bravest dare to pierce the Veil, lie the Shards. The fragmentation rising with every step, reality shifting, space streching and time in constant flux. Beyond the shard lies nothing. Nothing of such an agonizing depth, of such hopelessness and despair... Filled with silence, filled with the silence of dead gods, filled with the laughter of those who are not. But the Veil protects us.... For aeons it protected us... But the Veil is wearing thin.
 > 
 
-<iframe src="https://master-noiza.github.io/world-map/" width="100%" height="800px"></iframe>
+<iframe src="https://master-noiza.github.io/world-map/" width="100%" height="500px"></iframe>
 
 ![[z_Assets/Divider_1.webp]]
 
@@ -67,13 +67,3 @@ The world is a grim, perilous place, filled with the scars of the Convergence an
 The Veil grows ever thinner. The Mirror's influence spreads. The world teeters on the edge of oblivion, and those who remain struggle to survive, ever haunted by the echoes of their past mistakes and the looming darkness of their future.
 
 ---
-
-| Title | Pantheon |
-| ----- | -------- |
-
----
-
-```dataview
-TABLE WITHOUT ID link(title, name) as Title, pantheon AS Pantheon
-FROM "3. Gods & Religion/4. The Nine"
-Sort desc

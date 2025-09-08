@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"T h e H e a r t l a n d s W a r m t h","title":"The Imperial Lotus","modified":"2025-08-28T16:48:02.000+02:00","cssclasses":""}
+{"publish":true,"aliases":"T h e H e a r t l a n d s W a r m t h","title":"The Imperial Lotus","modified":"2025-09-08T06:06:34.440+02:00","cssclasses":""}
 ---
 
 # The Imperial Lotus
@@ -92,7 +92,7 @@
 > > 
 > > - Urashalyr coffee: 8 silver per cup, 30 silver per pot
 > > - Cardamom tea: 5 silver per cup, 20 silver per pot
-> > - Soothing Brew (From [Mourning Lilly](1.%20Mourning%20Lilly.md)): 4 Silver per cup, 15 Silver per pot
+> > - Soothing Brew (From [Mourning Lilly](Mourning%20Lilly.md)): 4 Silver per cup, 15 Silver per pot
 > > 
 > > **Wine & Beer:**
 > > 
